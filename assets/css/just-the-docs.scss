@@ -1,0 +1,130 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+//
+// Import external dependencies
+//
+
+@import "./vendor/normalize.scss/normalize.scss";
+
+//
+// Import Docs scss
+//
+
+// Support
+@import "./support/support";
+
+//
+// Import custom overrides
+//
+
+.card-title {
+  color: #5a5ac3;
+}
+
+.site-footer {
+  position: relative;
+  top: 600px;
+}
+
+.nav-button {
+  color: #fff;
+}
+
+.my-0 {
+  text-transform: uppercase;
+  font-weight: 400;
+  background-color: #7253ed;
+  height: 28px;
+  line-height: 24px;
+  padding: 2px 8px 0;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+.my-1 {
+  padding-left: 20px;
+}
+
+.row {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 130px;
+}
+
+.usecases-row {
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 170px;
+}
+
+.team{
+
+  margin-top: 50px;
+
+}
+
+.column {
+  width: 50%;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.card {
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
+  transition: 0.3s;
+  margin-left: 10px;
+  border: 1px solid #e7e8e9;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+.card:hover {
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
+}
+
+.container {
+padding: 2px 16px;
+}
+
+.container a {
+  white-space: normal !important;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  
+  blockquote p {
+    display: inline;
+    color: #6262d0;
+  }
+
+@import "./custom/custom";
+
+//
+// Import custom color scheme scss
+//
+
+{% if site.color_scheme == "dark" %}
+@import "./color_schemes/dark.scss";
+{% endif %}
+
+// Modules
+@import "./base";
+@import "./layout";
+@import "./content";
+@import "./navigation";
+@import "./typography";
+@import "./labels";
+@import "./buttons";
+@import "./search";
+@import "./tables";
+@import "./code";
+@import "./utilities/utilities";
