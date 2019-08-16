@@ -37,4 +37,4 @@ color_scheme: nil
 plugins:
   - jekyll-seo-tag
 
-remote_theme: svikashk/just-the-docs
+remote_theme: svikashk/docs
