@@ -1,2 +1,2 @@
-/guide/assets/*              /assets/:splat
-/guide/*                     /:splat
+/agile/assets/*              /assets/:splat
+/agile/*                     /:splat
