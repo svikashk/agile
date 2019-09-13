@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Sprint
+title: Scrum Sprints
+page_title: Sprint
 has_children: false
 parent: Scrum
-nav_order: 5
-description: Best practices and tutorials on Agile
+nav_order: 4
+description: Want to run Sprints within your team? Here's how with all the best practices.
 permalink: scrum/sprint/
 author: Vikash Koushik
 type: WebSite
@@ -13,7 +14,7 @@ type: WebSite
 ## Sprint
 {: .fs-9 .no_toc }
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -57,6 +58,7 @@ It sounds like a lot, I know. But we've written in detail on each phase of the c
 1. Don't forget to add tech debts and bugs into your sprint.
 1. If the user story is too big, be sure to break them down with subtasks.
 1. Be aware of over-estimating how much work your team can complete.
+1. Use feedback from your team about past sprints and encorporate them into your current sprints.
 
 ---
 

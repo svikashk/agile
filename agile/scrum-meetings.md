@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Ceremonies or Meetings
+title: Scrum Meetings
+page_title: Ceremonies or Meetings
 has_children: false
 parent: Scrum
 nav_order: 6
-description: Best practices and tutorials on Agile
+description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
 permalink: scrum/meetings/
 author: Vikash Koushik
 type: WebSite
@@ -32,7 +33,7 @@ So, how do you run meetings that brings your team together and doesn’t bore th
 
 ---
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

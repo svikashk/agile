@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Roles
+title: Scrum Roles
+page_title: Roles
 has_children: false
 parent: Scrum
 nav_order: 1
-description: Best practices and tutorials on Agile
+description: Not sure what different roles are involved in a Scrum team? Here's a detailed explanation.
 permalink: scrum/roles/
 author: Vikash Koushik
 type: WebSite
@@ -15,7 +16,9 @@ type: WebSite
 
 When a company decides to use Scrum, one of the first things to understand is how Scrum roles differ from traditional project management roles. While there are only three main roles in Scrum, they don't automatically align with titles familiar to most of us. 
 
-## IN THIS PAGE
+---
+
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Backlog
+title: Scrum Backlog
+page_title: Backlog
 has_children: false
 parent: Scrum
 nav_order: 2
-description: Best practices and tutorials on Agile
+description: Learn what a backlog is and how to keep it organized. 
 permalink: scrum/backlog/
 author: Vikash Koushik
 type: WebSite
@@ -13,7 +14,7 @@ type: WebSite
 ## Backlog
 {: .fs-9 .no_toc }
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -36,9 +37,11 @@ With work items continously getting added and removed from the backlog, the Prod
 
 ## Keeping Your Backlog Organized
 
-As your backlog grows big, it is important to keep it organized and groomed. Product owners typically review the backlog before the next sprint planning meeting and ensure that the priorities set are right, the prioritized items have all the right information, and the feedback from the previous Sprint has been incorporated. 
+As your backlog grows big, it is important to keep it organized and groomed. Product owners should review the backlog before the next sprint planning meeting and ensure that the priorities set are right, the prioritized items have all the right information, and the feedback from the previous Sprint has been incorporated. 
 
 When the backlog gets unmanageable, product owners get together to group all items in the backlog based on the company's near-term goals and long-term goals. Once categorized based on near-term and long-term goals, the product owners should then ensure all items in the near-term goals are fully fleshed out, described, and estimated. That way, prioritizing work items grouped under short-term goals is easier.
+
+Curious to learn about prioritizing your backlog? You can read all about how to prioritize your product backlog [over here].
 
 ---
 

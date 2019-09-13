@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Reports
+page_title: Reports
 nav_order: 4
 has_children: true
 icon_path: /assets/uploads/reports.svg
-description: Best practices and tutorials on Agile
+description: Unsure how to make sense of the agile reports? This guide has you covered.
 permalink: reports/
 author: Vikash Koushik
 type: WebSite

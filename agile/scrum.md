@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Scrum
+page_title: Scrum
 nav_order: 2
 has_children: true
 icon_path: /assets/uploads/sprints.svg
-description: Best practices and tutorials on Agile
+description: What is Scrum and how to implement it with best practices
 permalink: scrum/
 author: Vikash Koushik
 date: September 10, 2019

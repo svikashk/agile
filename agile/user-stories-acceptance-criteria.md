@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Acceptance Criteria
+page_title: Acceptance Criteria
 has_children: false
-parent: Scrum
-nav_order: 3
-description: Best practices and tutorials on Agile
-permalink: scrum/acceptance-criteria/
+parent: User Stories
+nav_order: 1
+description: Learn how to write good acceptance criteria for your user stories. Template, best practices, and examples included in this extensive guide.
+permalink: user-stories/acceptance-criteria/
 author: Vikash Koushik
 type: WebSite
 ---
@@ -13,7 +14,7 @@ type: WebSite
 ## Acceptance Criteria For User Stories
 {: .fs-9 .no_toc }
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -52,6 +53,10 @@ To make life easier, here’s a simple template you can use for writing acceptan
 > Given [context] when [a specific action is performed] then [a set of consequences should occur]
 
 **Example of acceptance criteria:** Given I am on the sign-in page when I enter my username and password to login then I should be taken to My Dashboard page.
+
+In [Zepel](https://zepel.io/), we recommend users to add all acceptance criteria as a description to the user story, so when your team members pick it up, they have the full picture of what’s required to complete the user story and its related discussions all in one place.
+
+![Acceptance criteria for a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
 
 ---
 

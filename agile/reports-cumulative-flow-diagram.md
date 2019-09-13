@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Cumulative Flow Diagram
+page_title: Cumulative Flow Diagram
 has_children: false
 parent: Reports
 nav_order: 2
-description: Best practices and tutorials on Agile
+description: Cumulative Flow Diagrams help visualize and track a kanban team's progress. In this post, we understand how to read CFDs and explore best practices.
 permalink: reports/cumulative-flow-diagram/
 author: Vidarth Jaikrishnan
 date: September 11, 2019
@@ -16,7 +17,9 @@ type: WebSite
 
 The cumulative flow diagram is one of the most common charts used to track progress for agile teams. You can generate the chart using just a kanban board with tasks being moved across columns. No additional data is required.
 
-## IN THIS PAGE
+---
+
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

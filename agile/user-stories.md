@@ -1,11 +1,12 @@
 ---
 layout: default
 title: User Stories
-has_children: false
-parent: Scrum
+page_title: User Stories
+has_children: true
 nav_order: 3
-description: Best practices and tutorials on Agile
-permalink: scrum/user-stories/
+description: Learn how to write great user stories. Format, templates, best practices, and examples included in this extensive guide.
+permalink: user-stories/
+icon_path: /assets/uploads/my-tasks.svg
 author: Vikash Koushik
 type: WebSite
 ---
@@ -27,7 +28,7 @@ When done properly, user stories let your team stay focused on satisfying the us
 
 ---
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -108,6 +109,8 @@ Tech debts and improvements have their place in your product backlog and must be
 
 If you’re using [Zepel](https://zepel.io/?utm_source=zepelblog&utm_medium=writeuserstory), you can add your tech debts and improvements as an Enhancement. And of course, User Stories, Bugs, and Tasks (and subtasks) too.
 
+![User stories, enhancements, tasks and bugs in Zepel](/agile/assets/uploads/zepel-items.png)
+
 - **They are negotiable:**
 
 Since a user story doesn’t talk about the implementation, it should allow room for discussion, so when you [collaborate with the team](https://blog.zepel.io/successful-team-collaboration/?utm_source=zepelblog&utm_medium=writeuserstory) everyone can discuss and agree on the specifics of how to implement of the feature.
@@ -173,7 +176,7 @@ But if you’re trying to build a product that doesn’t just satisfy your users
 
 By using user stories, you describe the why (and the what) behind your development team's day-to-day work and ensure they aren’t checking off just a bunch of work items from your project management tool. But working towards building features your users need and move the needle for your business.
 
-So, the next time you build a new feature, fire up your Zepel account and create user stories before you start adding tasks.
+So, the next time you build a new feature, fire up your [Zepel](https://zepel.io/) account and create user stories before you start adding tasks.
 
 ---
 

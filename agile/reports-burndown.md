@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Burndown Charts
+title: Burndown Reports
+page_title: Burndown Reports
 has_children: false
 parent: Reports
 nav_order: 1
-description: Best practices and tutorials on Agile
+description: Burndown charts are a great way to visualize sprint progress. In this post we look into what a burndown chart is, what it's used for and how to read it.
 permalink: reports/burndown/
 author: Vidarth Jaikrishnan
 type: WebSite
@@ -13,7 +14,7 @@ type: WebSite
 ## Understanding Burndown Charts
 {: .fs-9 .no_toc }
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

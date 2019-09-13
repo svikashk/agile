@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Home
+page_title: Home
+title: Agile best practices and tutorials
 nav_order: 1
 icon_path: /assets/uploads/home.svg
-description: Best practices and tutorials on Agile
+description: Best practices and tutorials on Agile Methodology and Agile Software Development
 permalink: /
 twitter:
   username: getzepel
@@ -40,19 +41,6 @@ Rather than launching the entire product, agile suggests that the team ships in 
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}/kanban/">
-    <h4 class="card-title"><b>Kanban</b></h4> 
-    <p>Learn how Kanban helps your team communicate capacity in real-time.</p> 
-    </a>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="row">
-<div class="column">
-<div class="card">
-  <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}/reports/">
     <h4 class="card-title"><b>Reports</b></h4> 
     <p>Understand how to read different agile reports.</p> 
     </a>
