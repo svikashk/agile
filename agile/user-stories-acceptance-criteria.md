@@ -8,7 +8,7 @@ nav_order: 1
 description: Learn how to write good acceptance criteria for your user stories. Template, best practices, and examples included in this extensive guide.
 permalink: user-stories/acceptance-criteria/
 author: Vikash Koushik
-type: WebSite
+date: May 09, 2019
 ---
 
 ## Acceptance Criteria For User Stories

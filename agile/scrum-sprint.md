@@ -8,7 +8,7 @@ nav_order: 4
 description: Want to run Sprints within your team? Here's how with all the best practices.
 permalink: scrum/sprint/
 author: Vikash Koushik
-type: WebSite
+date: Sepetember 13, 2019
 ---
 
 ## Sprint

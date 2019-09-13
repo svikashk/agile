@@ -8,7 +8,7 @@ icon_path: /assets/uploads/reports.svg
 description: Unsure how to make sense of the agile reports? This guide has you covered.
 permalink: reports/
 author: Vikash Koushik
-type: WebSite
+date: September 13, 2019
 ---
 
 ## Agile Reports

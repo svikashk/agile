@@ -8,7 +8,7 @@ description: Learn how to write great user stories. Format, templates, best prac
 permalink: user-stories/
 icon_path: /assets/uploads/my-tasks.svg
 author: Vikash Koushik
-type: WebSite
+date: May 09, 2019
 ---
 
 ## User Stories

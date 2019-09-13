@@ -8,7 +8,7 @@ nav_order: 1
 description: Not sure what different roles are involved in a Scrum team? Here's a detailed explanation.
 permalink: scrum/roles/
 author: Vikash Koushik
-type: WebSite
+date: December 12, 2018
 ---
 
 ## Scrum Roles

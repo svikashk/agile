@@ -8,7 +8,7 @@ nav_order: 1
 description: Burndown charts are a great way to visualize sprint progress. In this post we look into what a burndown chart is, what it's used for and how to read it.
 permalink: reports/burndown/
 author: Vidarth Jaikrishnan
-type: WebSite
+date: November 26, 2018
 ---
 
 ## Understanding Burndown Charts

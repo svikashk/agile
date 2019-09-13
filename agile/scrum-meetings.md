@@ -8,7 +8,7 @@ nav_order: 6
 description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
 permalink: scrum/meetings/
 author: Vikash Koushik
-type: WebSite
+date: December 12, 2018
 ---
 
 ## Scrum Ceremonies or Meetings

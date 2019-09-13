@@ -8,8 +8,7 @@ nav_order: 2
 description: Cumulative Flow Diagrams help visualize and track a kanban team's progress. In this post, we understand how to read CFDs and explore best practices.
 permalink: reports/cumulative-flow-diagram/
 author: Vidarth Jaikrishnan
-date: September 11, 2019
-type: WebSite
+date: January 23, 2019
 ---
 
 ## Understanding Cumulative Flow Diagram
