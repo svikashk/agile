@@ -20,7 +20,7 @@ And for good reasons too!
 
 ![Scrum Interest Over Time](/agile/assets/uploads/scrum-interest-over-time.png)
 
-[Scrum guide](https://www.scrumguides.org/) defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand that help teams set expectations, [collaborate effectively](https://blog.zepel.io/successful-team-collaboration/?utm_source=zepelblog&utm_medium=scrummeetings), and ultimately drive results.
+[Scrum guide](https://www.scrumguides.org/) defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand. It helps the team set expectations, [collaborate effectively](https://zepel.io/blog/successful-team-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=what-is-scrum), and ultimately drive results.
 
 Seriously, which product manager doesn’t want that? 
 

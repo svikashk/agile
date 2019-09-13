@@ -107,13 +107,13 @@ Every user story you prioritize and work on should provide your customers with v
 
 Tech debts and improvements have their place in your product backlog and must be prioritized as well. Otherwise, you’d end up building a legacy software that is slow and buggy. But they aren’t a user story unless they provide your users with actual value.
 
-If you’re using [Zepel](https://zepel.io/?utm_source=zepelblog&utm_medium=writeuserstory), you can add your tech debts and improvements as an Enhancement. And of course, User Stories, Bugs, and Tasks (and subtasks) too.
+If you’re using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), you can add your tech debts and improvements as an Enhancement. And of course, User Stories, Bugs, and Tasks (and subtasks) too.
 
 ![User stories, enhancements, tasks and bugs in Zepel](/agile/assets/uploads/zepel-items.png)
 
 - **They are negotiable:**
 
-Since a user story doesn’t talk about the implementation, it should allow room for discussion, so when you [collaborate with the team](https://blog.zepel.io/successful-team-collaboration/?utm_source=zepelblog&utm_medium=writeuserstory) everyone can discuss and agree on the specifics of how to implement of the feature.
+Since a user story doesn’t talk about the implementation, it should allow room for discussion, so when you [collaborate with the team](https://zepel.io/blog/successful-team-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) everyone can discuss and agree on the specifics of how to implement of the feature.
 
 This lets your team understand the complexity involved and come up with creative ways to implement without being confined to a specific method.
 
@@ -123,7 +123,7 @@ You probably have plenty of user stories on your backlog by now and wondering ho
 
 The first instinct would be to start by discarding items from your backlog, I get it. But you’re better off by starting with breaking down your user stories into actionable chunks of tasks and estimating your user stories first before you can discard them.
 
-With an [estimate of how long your user story](https://blog.zepel.io/project-estimation/?utm_source=zepelblog&utm_medium=writeuserstory) is likely to take, you can work with your team to find what minimum set of functionality is needed to help your users solve their problem and achieve their goal.
+With an [estimate of how long your user story](https://zepel.io/blog/project-estimation/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) is likely to take, you can work with your team to find what minimum set of functionality is needed to help your users solve their problem and achieve their goal.
 
 ---
 

@@ -54,7 +54,7 @@ To make life easier, here’s a simple template you can use for writing acceptan
 
 **Example of acceptance criteria:** Given I am on the sign-in page when I enter my username and password to login then I should be taken to My Dashboard page.
 
-In [Zepel](https://zepel.io/), we recommend users to add all acceptance criteria as a description to the user story, so when your team members pick it up, they have the full picture of what’s required to complete the user story and its related discussions all in one place.
+In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=acceptance-criteria), we recommend users to add all acceptance criteria as a description to the user story, so when your team members pick it up, they have the full picture of what’s required to complete the user story and its related discussions all in one place.
 
 ![Acceptance criteria for a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
 

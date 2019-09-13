@@ -29,7 +29,7 @@ add-tag-manager: false
 # Aux links for the upper right navigation
 aux_links:
   "Login to Zepel":
-    - "https://zepel.io/login/?utm_source=zepelguide&utm_medium=topnav"
+    - "https://zepel.io/login/?utm_source=agilelibrary&utm_medium=topnav"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

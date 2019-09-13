@@ -31,7 +31,7 @@ Sprint is a way of working that uses the scrum framework. Many teams confuse spr
 
 ## How to plan and run Sprints?
 
-The sprint cycle consits of:
+A sprint cycle consits of:
 
 1. Sprint Planning
 1. Daily Scrum
