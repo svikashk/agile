@@ -3,10 +3,11 @@ layout: default
 title: Ceremonies or Meetings
 has_children: false
 parent: Scrum
-nav_order: 4
+nav_order: 6
 description: Best practices and tutorials on Agile
 permalink: scrum/meetings/
 author: Vikash Koushik
+type: WebSite
 ---
 
 ## Scrum Ceremonies or Meetings
@@ -20,7 +21,7 @@ To be fair, both camps have some rather compelling points.
 
 Run meetings for the sake of it, you risk frustrating your team. From unplanned agendas to "why am I in this meeting?" and everything in between, you’ve heard them all...  And it only gets worse with every new meeting as productivity starts to drop.
 
-Banish meetings altogether, you'll end up with a team optimizing on low-value bugs when you've got important features prioritized.
+Banish meetings altogether, you'll end up with a team optimizing on low-value bugs when you've got important [features prioritized](https://blog.zepel.io/prioritize-product-feature-backlog/?utm_source=zepelblog&utm_medium=scrummeetings).
 
 
 > If you have perfect people and they are perfectly misaligned, the result is zero progress.
@@ -71,13 +72,15 @@ Let’s jump in and find out.
 
 A sprint planning meeting is where teams come together, discuss, and agree on what they’ll deliver in the upcoming sprint.
 
-During the meeting, the product owner explains the highest priorities, helps the development team understand why the user stories are important, and how they'll impact their users. With this knowledge, the development team asks questions to get a better understanding, and try to break down the user story into actionable pieces of work with an estimate on how long it’d take to build it.
+During the meeting, the product owner explains the highest priorities, helps the development team understand why the user stories are important, and how they'll impact their users. With this knowledge, the development team asks questions to get a better understanding, and try to break down the user story into actionable pieces of work with an [estimate](https://blog.zepel.io/project-estimation/?utm_source=zepelblog&utm_medium=scrummeetings) on how long it’d take to build it.
 
 In short, the main goal of the sprint planning meeting is to walk away with two things:
 
 1. **Sprint goal:** Agree on what will be delivered at the end of the sprint.
 
 1. **Sprint backlog:** A prioritized set of user stories, tasks, and sub-tasks that will help the team focus and deliver by the end of the sprint.
+
+---
 
 ## Who should attend a Sprint Planning Meeting?
 {: .fs-5 .no_toc }
@@ -86,10 +89,12 @@ All members of the sprint - the development team, the product owner, and the scr
 
 When you’re discussing to agree on what everyone will deliver at the end of the sprint, it’s best to get everyone’s input and perspective before you move forward. After all, you wouldn’t want to miss any edge cases.
 
+---
+
 ## How long should a Sprint Planning Meeting last?
 {: .fs-5 .no_toc }
 
-According to Scrum Guide, the sprint planning meeting is time-boxed to eight hours for a one month sprint. If your sprint is shorter than a month, sprint planning meeting is reduced proportionately.
+According to [Scrum Guide](http://www.scrumguides.org/scrum-guide.html), the sprint planning meeting is time-boxed to eight hours for a one month sprint. If your sprint is shorter than a month, sprint planning meeting is reduced proportionately.
 For example, a two-week sprint should not have a sprint planning meeting that exceeds four hours.
 
 But does that mean you must spend eight hours planning for a month-long sprint?
@@ -100,6 +105,8 @@ But does that mean you must spend eight hours planning for a month-long sprint?
 
 
 As long as your team is on the same page on what will be delivered in the upcoming sprint, it’s alright if your meeting ends in an hour. Remember, principles support your business. You shouldn't mould your business around them. 
+
+---
 
 ## Best practices on how to run an effective Sprint Planning Meeting
 {: .fs-5 .no_toc }
@@ -126,7 +133,9 @@ When you drill down to the details of a user story by breaking it down to tasks 
 > When you haven’t thought about what you’re going to do, you can’t know how long it will take.
 > ~ Joel Spolsky, CEO of Stack Overflow
 
-[IMG]
+
+
+![Summary of Sprint Planning Meeting](/agile/assets/uploads/sprint-planning-meeting.png)
 
 ---
 
@@ -150,6 +159,8 @@ How does a standup meeting reveal roadblocks? Glad you asked. During the standup
 
 Answering these questions help teams get an understanding of who’s working on what and reveal if someone is unable to make progress on the task assigned to them.
 
+---
+
 ## Who should attend a Daily Scrum Meeting?
 {: .fs-5 .no_toc }
 
@@ -158,6 +169,8 @@ The daily scrum meeting is for the development team and the scrum master. The pr
 How long should a Daily Scrum Meeting last?
 
 Unlike other scrum meetings, the daily scrum meeting is the shortest. This meeting shouldn’t last more than 15 minutes and the scrum master’s role is to ensure that it stays that way.
+
+---
 
 ## Best practices on how to run an effective Daily Scrum Meeting
 {: .fs-5 .no_toc }
@@ -178,7 +191,9 @@ During the meeting when you identify concerns, it’s easy to want to jump head 
 
 When you identify possible roadblocks be sure to note it down separately. At the end of the meeting, meet up with the individual who is blocked and discuss in detail about the problem at hand to find solutions, adapt or replan.
 
-[IMG]
+
+
+![Summary of Daily Scrum Meeting](/agile/assets/uploads/daily-scrum-meetings.png)
 
 ---
 
@@ -194,10 +209,14 @@ Think of sprint review meeting as a casual demo Friday, where you demo your fini
 
 The goal of the sprint review meeting is to get feedback on the completed items and have a product backlog that is revised enough to make it a probable backlog for the next sprint.
 
+---
+
 ## Who should attend a Sprint Review Meeting?
 {: .fs-5 .no_toc }
 
 The product owner, scrum master, and the development team are the folks who must attend a sprint review meeting. However, other key stakeholders such as clients/beta customers, members of the sales team, and other business executives could attend this meeting. 
+
+---
 
 ## How long should a Sprint Review Meeting last?
 {: .fs-5 .no_toc }
@@ -205,6 +224,8 @@ The product owner, scrum master, and the development team are the folks who must
 Since this meeting is designed to showcase a finished feature and elicit feedback, this meeting shouldn't last for more than an hour for a one week sprint.
 
 That means, if your sprint is four weeks long, the sprint review meeting shouldn’t last longer than four hours.
+
+---
 
 ## Best practices on how to run a Sprint Review Meeting
 {: .fs-5 .no_toc }
@@ -221,7 +242,9 @@ Giving a demo to people who have zero (or partial) context of what you’ve buil
 
 During the meeting, the product owner should take ownership of asking questions and gathering feedback that can be used in future sprints.
 
-[IMG]
+
+
+![Summary of Sprint Review Meeting](/agile/assets/uploads/sprint-review-meeting.png)
 
 ---
 
@@ -241,6 +264,8 @@ The purpose of this meeting is to:
 1. Identify items that went well and see where there is room for improvement.
 1. Build a plan on how to implement improvements to the way development team works.
 
+---
+
 ## Who should attend the Sprint Retrospective Meeting?
 {: .fs-5 .no_toc }
 
@@ -248,10 +273,14 @@ The scrum master and the development team collaborate in this meeting and try to
 
 The product owner is an optional attendee with no other stakeholders attending this meeting.
 
+---
+
 ## How long should a Sprint Retrospective Meeting last?
 {: .fs-5 .no_toc }
 
 The sprint retrospective meeting lasts for a maximum of three hours for a one month sprint. For shorter sprints, this meeting is usually shorter. 
+
+---
 
 ## Best practices on how to run a Sprint Retrospective Meeting 
 {: .fs-5 .no_toc }
@@ -268,7 +297,9 @@ When inspecting on areas to improve, it can be easy to start pointing fingers by
 
 By focusing on the positive aspects of what went well in the previous sprint and stating that it could be improved, you help set a positive tone for the entire meeting and avoid a possibly productive meeting turn into a rant session.
 
-[IMG]
+
+
+![Summary of Sprint Retrospective Meeting](/agile/assets/uploads/sprint-retrospective-meeting.png)
 
 ---
 

@@ -7,6 +7,7 @@ nav_order: 1
 description: Best practices and tutorials on Agile
 permalink: scrum/roles/
 author: Vikash Koushik
+type: WebSite
 ---
 
 ## Scrum Roles
@@ -22,7 +23,7 @@ When a company decides to use Scrum, one of the first things to understand is ho
 
 ---
 
-[IMG]
+![Three Roles in Scrum](/agile/assets/uploads/scrum-roles.png)
 
 ## The Development Team
 

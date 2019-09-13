@@ -3,24 +3,28 @@ layout: default
 title: Reports
 nav_order: 4
 has_children: true
-icon_path: /assets/uploads/home.svg
+icon_path: /assets/uploads/reports.svg
 description: Best practices and tutorials on Agile
 permalink: reports/
+author: Vikash Koushik
+type: WebSite
 ---
 
-## What is Scrum?
+## Agile Reports
 {: .fs-9 }
 
-Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
+Reports aren't helpful just for product managers, but can be useful for the individual contributors and the developers as well.
 
-For more than a decade, companies have adopted the Scrum approach and its principles. Since then, interest in adopting it by other companies has constantly been on the rise.
+Knowing how the team is progressing can help guide the entire team on prioritizing work and ultimately get work done on time.
 
-And for good reasons too!
+We demystify reports in this guide, so everyone can learn what it means when they eventually see a report in their dashboard.
 
-[IMG]
+---
 
-Scrum Guide defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand that help teams set expectations, collaborate effectively, and ultimately drive results.
-
-Seriously, which product manager doesn’t want that? 
-
-If you ever find people around you sit through multiple meetings, use words like sprints, backlogs, and burndown charts, you can be sure they follow scrum principles among their team.
+<section class="author-card">
+        <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
+        <section class="author-card-content">
+        <h4 class="author-card-name">Vikash Koushik</h4>
+            <p>Product Marketing at <a href="https://zepel.io/">Zepel.io</a></p>
+    </section>
+</section>

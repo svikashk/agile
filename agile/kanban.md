@@ -3,24 +3,53 @@ layout: default
 title: Kanban
 nav_order: 3
 has_children: true
-icon_path: /assets/uploads/home.svg
+icon_path: /assets/uploads/boards.svg
 description: Best practices and tutorials on Agile
 permalink: kanban/
+author: Vidarth Jaikrishnan
+type: WebSite
 ---
 
-## What is Scrum?
-{: .fs-9 }
+## Introduction to Kanban
+{: .fs-9 .no_toc }
 
-Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
+The concept of Kanban boards traces its origin back to the 1940s when Toyota introduced it on the factory floor. Toyota automotive realized that their production lines were a lot less efficient when compared to their American counterparts. The aim behind introducing this new method of production was to control inventory and improve the speed of delivery while maintaining the highest standards of production quality.
 
-For more than a decade, companies have adopted the Scrum approach and its principles. Since then, interest in adopting it by other companies has constantly been on the rise.
+While the concept of Kanban was initially successful on the production line, it slowly started to make its way into other delivery systems.
 
-And for good reasons too!
+---
 
-[IMG]
+## Kanban for Software Development
 
-Scrum Guide defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand that help teams set expectations, collaborate effectively, and ultimately drive results.
+In the late 90s and early 2000s, there was a paradigm change happening in software development circles. People began to realise that the traditional top-down approach to building and shipping software was highly inefficient. 
 
-Seriously, which product manager doesn’t want that? 
+There was a new focus of incremental delivery and quick customer validation. The days of having large, perfectly scoped projects was coming to an end. 
 
-If you ever find people around you sit through multiple meetings, use words like sprints, backlogs, and burndown charts, you can be sure they follow scrum principles among their team.
+This is how the concept of Kanban slowly found its way to software development teams. The focus was now on agility and getting features out quickly to be market-tested and validated. 
+
+While Kanban is a widely adopted method for software development and delivery today, it still retains its core principles of being a process improvement methodology. Kanban principles can and has continued to be used in all kinds of processes outside software development. 
+
+Any Kanban based process revolves around some core concepts and practices.
+
+**Kanban Concepts**
+1. Start with existing processes
+1. Respect current roles, responsibilities and job titles.
+1. Pursue incremental changes
+1. Encourage acts of leadership at all levels
+
+**Kanban Practices**
+1. Visualize Workflows
+1. Restrict Work in Progress
+1. Manage Flow
+1. Have explicit process policies
+1. Implement feedback and improve collaboratively
+
+---
+
+<section class="author-card">
+        <img class="author-profile-image" src="/agile/assets/uploads/vidarth.png" alt="Vidarth Jaikrishnan">
+        <section class="author-card-content">
+        <h4 class="author-card-name">Vidarth Jaikrishnan</h4>
+            <p>Product at <a href="https://zepel.io/">Zepel.io</a></p>
+    </section>
+</section>

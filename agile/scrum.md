@@ -3,10 +3,11 @@ layout: default
 title: Scrum
 nav_order: 2
 has_children: true
-icon_path: /assets/uploads/home.svg
+icon_path: /assets/uploads/sprints.svg
 description: Best practices and tutorials on Agile
 permalink: scrum/
 author: Vikash Koushik
+date: September 10, 2019
 ---
 
 ## What is Scrum?
@@ -16,13 +17,13 @@ For more than a decade, companies have adopted the Scrum approach and its princi
 
 And for good reasons too!
 
-[IMG]
+![Scrum Interest Over Time](/agile/assets/uploads/scrum-interest-over-time.png)
 
-Scrum Guide defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand that help teams set expectations, collaborate effectively, and ultimately drive results.
+[Scrum guide](https://www.scrumguides.org/) defines scrum as a framework that helps teams deliver even complex products quicker and with fine quality. Scrum is lightweight and easy to understand that help teams set expectations, [collaborate effectively](https://blog.zepel.io/successful-team-collaboration/?utm_source=zepelblog&utm_medium=scrummeetings), and ultimately drive results.
 
 Seriously, which product manager doesn’t want that? 
 
-If you ever find people around you sit through multiple meetings, use words like sprints, backlogs, and burndown charts, you can be sure they follow scrum principles among their team.
+If you ever find people around you sit through multiple meetings, use words like [sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), [backlogs]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}), and [burndown charts]({{ site.url }}{{ site.baseurl }}{% link agile/reports-burndown.md %}), you can be sure they follow scrum principles among their team.
 
 ---
 
