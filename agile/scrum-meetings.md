@@ -22,7 +22,7 @@ To be fair, both camps have some rather compelling points.
 
 Run meetings for the sake of it, you risk frustrating your team. From unplanned agendas to "why am I in this meeting?" and everything in between, you’ve heard them all...  And it only gets worse with every new meeting as productivity starts to drop.
 
-Banish meetings altogether, you'll end up with a team optimizing on low-value bugs when you've got important [features prioritized](https://blog.zepel.io/prioritize-product-feature-backlog/?utm_source=zepelblog&utm_medium=scrummeetings).
+Banish meetings altogether, you'll end up with a team optimizing on low-value bugs when you've got important [features prioritized](https://zepel.io/blog/prioritize-product-feature-backlog/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrummeetings).
 
 
 > If you have perfect people and they are perfectly misaligned, the result is zero progress.
@@ -73,7 +73,7 @@ Let’s jump in and find out.
 
 A sprint planning meeting is where teams come together, discuss, and agree on what they’ll deliver in the upcoming sprint.
 
-During the meeting, the product owner explains the highest priorities, helps the development team understand why the user stories are important, and how they'll impact their users. With this knowledge, the development team asks questions to get a better understanding, and try to break down the user story into actionable pieces of work with an [estimate](https://blog.zepel.io/project-estimation/?utm_source=zepelblog&utm_medium=scrummeetings) on how long it’d take to build it.
+During the meeting, the product owner explains the highest priorities, helps the development team understand why the user stories are important, and how they'll impact their users. With this knowledge, the development team asks questions to get a better understanding, and try to break down the user story into actionable pieces of work with an [estimate](https://zepel.io/blog/project-estimation/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrummeetings) on how long it’d take to build it.
 
 In short, the main goal of the sprint planning meeting is to walk away with two things:
 

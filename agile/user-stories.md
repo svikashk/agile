@@ -176,7 +176,7 @@ But if you’re trying to build a product that doesn’t just satisfy your users
 
 By using user stories, you describe the why (and the what) behind your development team's day-to-day work and ensure they aren’t checking off just a bunch of work items from your project management tool. But working towards building features your users need and move the needle for your business.
 
-So, the next time you build a new feature, fire up your [Zepel](https://zepel.io/) account and create user stories before you start adding tasks.
+So, the next time you build a new feature, fire up your [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) account and create user stories before you start adding tasks.
 
 ---
 
