@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Stories
+title: How to write good user stories? Templates and best practices included
 page_title: User Stories
 has_children: true
 nav_order: 3

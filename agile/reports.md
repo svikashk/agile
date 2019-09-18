@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reports
+title: Understand the different types of Reports | Agile Library
 page_title: Reports
 nav_order: 4
 has_children: true
