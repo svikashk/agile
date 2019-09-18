@@ -1,8 +1,8 @@
 ---
 layout: default
 seo_title: Kanban - An Introduction | Agile Library
-title: Kanban - An Introduction
-page_title: Kanban
+seo_title: Kanban - An Introduction
+title: Kanban
 nav_order: 3
 has_children: true
 icon_path: /assets/uploads/boards.svg

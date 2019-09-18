@@ -1,7 +1,7 @@
 ---
 layout: default
-title: What are Kanban Boards? | Agile Library
-page_title: What are Kanban Boards
+seo_title: What are Kanban Boards? | Agile Library
+title: What are Kanban Boards
 breadcrumb_title: What are Kanban Boards
 has_children: false
 parent: Kanban - An Introduction | Agile Library

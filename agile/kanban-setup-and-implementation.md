@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Setting Up And Implementing Kanban | Agile Library
-page_title: Setting Up And Implementing Kanban
+seo_title: Setting Up And Implementing Kanban | Agile Library
+title: Setting Up And Implementing Kanban
 breadcrumb_title: Setting Up And Implementing Kanban
 has_children: false
 parent: Kanban - An Introduction | Agile Library

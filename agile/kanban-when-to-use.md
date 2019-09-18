@@ -1,7 +1,7 @@
 ---
 layout: default
-title: When to use Kanban? How to prepare your team? | Agile Library
-page_title: When to use Kanban
+seo_title: When to use Kanban? How to prepare your team? | Agile Library
+title: When to use Kanban
 breadcrumb_title: When to use Kanban
 has_children: false
 parent: Kanban - An Introduction | Agile Library

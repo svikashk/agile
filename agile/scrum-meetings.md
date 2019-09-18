@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Types of Scrum Meetings with Best Practices
-page_title: Ceremonies or Meetings
+seo_title: Types of Scrum Meetings with Best Practices
+title: Ceremonies or Meetings
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 nav_order: 6

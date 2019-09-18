@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to write Acceptance Criteria for user stories
-page_title: Acceptance Criteria
+seo_title: How to write Acceptance Criteria for user stories
+title: Acceptance Criteria
 has_children: false
 parent: User Stories
 nav_order: 1

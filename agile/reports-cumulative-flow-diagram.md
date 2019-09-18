@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Understanding the Cumulative Flow Diagram | Agile Library
-page_title: Cumulative Flow Diagram
+seo_title: Understanding the Cumulative Flow Diagram | Agile Library
+title: Cumulative Flow Diagram
 has_children: false
 parent: Understand the different types of Reports | Agile Library
 nav_order: 2

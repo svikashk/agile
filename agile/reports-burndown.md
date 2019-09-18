@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Understanding Burndown Charts | Agile Library
-page_title: Burndown Reports
+seo_title: Understanding Burndown Charts | Agile Library
+title: Burndown Reports
 has_children: false
 parent: Understand the different types of Reports | Agile Library
 nav_order: 1

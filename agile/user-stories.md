@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to write good user stories? Templates and best practices included
-page_title: User Stories
+seo_title: How to write good user stories? Templates and best practices included
+title: User Stories
 has_children: true
 nav_order: 3
 description: Learn how to write great user stories. Format, templates, best practices, and examples included in this extensive guide.

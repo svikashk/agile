@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Kanban Summary | Agile Library
-page_title: Kanban Summary
+seo_title: Kanban Summary | Agile Library
+title: Kanban Summary
 breadcrumb_title: Kanban Summary
 has_children: false
 parent: Kanban - An Introduction | Agile Library

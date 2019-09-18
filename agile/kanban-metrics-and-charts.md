@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Metrics and Charts for Kanban | Agile Library
-page_title: Metrics and Charts for Kanban
+seo_title: Metrics and Charts for Kanban | Agile Library
+title: Metrics and Charts for Kanban
 has_children: false
 parent: Kanban - An Introduction
 nav_order: 4
