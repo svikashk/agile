@@ -1,7 +1,7 @@
 ---
 layout: default
-seo_title: What is Scrum? Includes best practices | Agile Library
-title: Scrum 
+title: What is Scrum? Includes best practices | Agile Library
+page_title: Scrum 
 nav_order: 2
 has_children: true
 icon_path: /assets/uploads/sprints.svg

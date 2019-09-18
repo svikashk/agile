@@ -1,9 +1,10 @@
 ---
 layout: default
-seo_title: What are the different Scrum Roles?
-title: Roles
+title: What are the different Scrum Roles?
+page_title: Roles
 has_children: false
-parent: Scrum
+parent: What is Scrum? Includes best practices | Agile Library
+parent_page_title: Scrum
 nav_order: 1
 description: Learn what the different roles involved in a Scrum team do.
 permalink: scrum/roles/

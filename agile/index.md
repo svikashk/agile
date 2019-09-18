@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-seo_title: Agile best practices and tutorials
+page_title: Home
+title: Agile best practices and tutorials
 nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: Best practices and tutorials on Agile Methodology and Agile Software Development

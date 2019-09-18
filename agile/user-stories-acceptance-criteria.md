@@ -1,9 +1,10 @@
 ---
 layout: default
-seo_title: How to write Acceptance Criteria for user stories
-title: Acceptance Criteria
+title: How to write Acceptance Criteria for user stories
+page_title: Acceptance Criteria
 has_children: false
-parent: User Stories
+parent: How to write good user stories? Templates and best practices included
+parent_page_title: User Stories
 nav_order: 1
 description: Learn how to write good acceptance criteria for your user stories. Template, best practices, and examples included in this guide.
 permalink: user-stories/acceptance-criteria/

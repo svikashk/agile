@@ -1,10 +1,11 @@
 ---
 layout: default
-seo_title: When to use Kanban? How to prepare your team? | Agile Library
-title: When to use Kanban
+title: When to use Kanban? How to prepare your team? | Agile Library
+page_title: When to use Kanban
 breadcrumb_title: When to use Kanban
 has_children: false
-parent: Kanban
+parent: Kanban - An Introduction | Agile Library
+parent_page_title: Kanban
 nav_order: 2
 description: Unsure if you should use Kanban within your team? Here is when you should implement Kanaban.
 permalink: kanban/when-to-use/

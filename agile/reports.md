@@ -1,7 +1,7 @@
 ---
 layout: default
-seo_title: Understand the different types of Reports | Agile Library
-title: Reports
+title: Understand the different types of Reports | Agile Library
+page_title: Reports
 nav_order: 4
 has_children: true
 icon_path: /assets/uploads/reports.svg

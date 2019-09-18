@@ -1,10 +1,11 @@
 ---
 layout: default
-seo_title: Kanban Summary | Agile Library
-title: Kanban Summary
+title: Kanban Summary | Agile Library
+page_title: Kanban Summary
 breadcrumb_title: Kanban Summary
 has_children: false
-parent: Kanban
+parent: Kanban - An Introduction | Agile Library
+parent_page_title: Kanban
 nav_order: 5
 description: Summary of how to Kanban methodology for agile software development
 permalink: kanban/summary/

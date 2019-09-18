@@ -1,9 +1,10 @@
 ---
 layout: default
-seo_title: What is a Backlog? How to maintain it? | Agile Library
-title: Backlog
+title: What is a Backlog? How to maintain it? | Agile Library
+page_title: Backlog
 has_children: false
-parent: Scrum
+parent: What is Scrum? Includes best practices | Agile Library
+parent_page_title: Scrum
 nav_order: 2
 description: Learn what a backlog is and how to keep it organized. 
 permalink: scrum/backlog/
