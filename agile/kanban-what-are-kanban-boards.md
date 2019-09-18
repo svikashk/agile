@@ -4,7 +4,7 @@ seo_title: What are Kanban Boards? | Agile Library
 title: What are Kanban Boards
 breadcrumb_title: What are Kanban Boards
 has_children: false
-parent: Kanban - An Introduction | Agile Library
+parent: Kanban
 nav_order: 1
 description: Best practices and tutorials on Agile
 permalink: kanban/what-are-kanban-boards/

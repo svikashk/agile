@@ -3,7 +3,7 @@ layout: default
 seo_title: Metrics and Charts for Kanban | Agile Library
 title: Metrics and Charts for Kanban
 has_children: false
-parent: Kanban - An Introduction
+parent: Kanban
 nav_order: 4
 description: Want to improve processes within your agile team? Here are the metrics you should track and charts you should follow.
 permalink: kanban/charts-and-metrics/

@@ -3,7 +3,7 @@ layout: default
 seo_title: Types of Scrum Meetings with Best Practices
 title: Ceremonies or Meetings
 has_children: false
-parent: What is Scrum? Includes best practices | Agile Library
+parent: Scrum
 nav_order: 6
 description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
 permalink: scrum/meetings/

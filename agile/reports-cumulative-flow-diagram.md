@@ -3,7 +3,7 @@ layout: default
 seo_title: Understanding the Cumulative Flow Diagram | Agile Library
 title: Cumulative Flow Diagram
 has_children: false
-parent: Understand the different types of Reports | Agile Library
+parent: Reports
 nav_order: 2
 description: Cumulative Flow Diagrams help visualize and track a kanban team's progress. In this post, we understand how to read CFDs and explore best practices.
 permalink: reports/cumulative-flow-diagram/

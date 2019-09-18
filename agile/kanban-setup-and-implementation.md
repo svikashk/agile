@@ -4,7 +4,7 @@ seo_title: Setting Up And Implementing Kanban | Agile Library
 title: Setting Up And Implementing Kanban
 breadcrumb_title: Setting Up And Implementing Kanban
 has_children: false
-parent: Kanban - An Introduction | Agile Library
+parent: Kanban
 nav_order: 3
 description: Implementing Kanban? Here is a best practice on how to set it up and implement within your team.
 permalink: kanban/setup-and-implementation/
