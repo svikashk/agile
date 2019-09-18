@@ -6,7 +6,7 @@ has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 4
-description: Want to run Sprints within your team? Here's how with all the best practices.
+description: Learn how to run Sprints within your team with tips and best practices.
 permalink: scrum/sprint/
 author: Vikash Koushik
 date: Sepetember 13, 2019
