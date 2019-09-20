@@ -5,6 +5,6 @@
 <p align="center">
     <h1 align="center">Agile Library by Zepel</h1>
     <p align="center">Learn how to use Zepel with your team</p>
-    <p align="center"><strong><a href="https://zepel.io/guide">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://zepel.io/agile/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
