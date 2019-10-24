@@ -183,6 +183,45 @@ Burndown charts are a great way to visualize a sprint’s progress. Like all too
 
 ---
 
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/reports/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=burndown" target="_blank">
+        <p class="highlight-card-title">See how you can unearth opportunities with Reports in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/reports.md %}">
+    <p class="card-title">←  Read Previous: Agile Reports</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/reports-cumulative-flow-diagram.md %}">
+    <p class="card-title">Read Next: Cumulative Flow Diagram  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
+
+
+---
+
 <section class="author-card">
         <img class="author-profile-image" src="/agile/assets/uploads/vidarth.png" alt="Vidarth Jaikrishnan">
         <section class="author-card-content">

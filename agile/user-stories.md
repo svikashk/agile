@@ -1,10 +1,10 @@
 ---
 layout: default
-title: How to write good user stories? Templates and best practices included
+title: User Stories | Templates And Examples Included | Agile Library
 page_title: User Stories
 has_children: true
 nav_order: 4
-description: Learn how to write great user stories. Format, templates, best practices, and examples included in this extensive guide.
+description: Learn how to write good user stories. Format, templates, best practices, and examples included in this extensive guide.
 permalink: user-stories/
 icon_path: /assets/uploads/my-tasks.svg
 author: Vikash Koushik
@@ -13,6 +13,18 @@ date: May 09, 2019
 
 ## User Stories
 {: .fs-9 .no_toc }
+
+## TOPICS COVERED IN THIS GUIDE:
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## What is a user story in agile?
+
+User Story in Agile is a way of capturing the requirements and description of a software feature from the user's perspective. It describes what a user wants, who the user is, and why they want it.
 
 User stories are a bit like a double-edged sword.
 
@@ -25,14 +37,6 @@ Not to forget, there’s also this other problem of having to write a “story�
 No, *really*! Every time you give requirements to your team, they have a hard time understanding what the feature should do. They’ll come to you with more functionality they think should be added, only for you to repeat the phrase “*But that’s not what the user wants!*”
 
 When done properly, user stories let your team stay focused on satisfying the user’s needs. And stop you from building a clunky, cluttered software.
-
----
-
-## TOPICS COVERED IN THIS GUIDE:
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
@@ -76,6 +80,16 @@ There are several templates floating on the internet to help you write a user st
 The hard part is getting these 3 data points accurate. You need to do your research, talk to your users, and understand their needs. And only then, with enough information collected, you’ll be able to write good user stories using this simple template:
 
 > As a [persona], I want [need] so that [goal].
+
+---
+
+## Examples of a user story
+
+> As a writer, I want to receive notifications when others add comments so that I am up-to-date.
+
+In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once you've created a User Story, you can effortlessly capture more details and view everything about the user story with a unified view.
+
+![Example of a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
 
 ---
 
@@ -177,6 +191,45 @@ But if you’re trying to build a product that doesn’t just satisfy your users
 By using user stories, you describe the why (and the what) behind your development team's day-to-day work and ensure they aren’t checking off just a bunch of work items from your project management tool. But working towards building features your users need and move the needle for your business.
 
 So, the next time you build a new feature, fire up your [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) account and create user stories before you start adding tasks.
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/plan-features/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=writeuserstory" target="_blank">
+        <p class="highlight-card-title">See how you can effortlessly plan features with Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
+    <p class="card-title">←  Read Previous: Kanban</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/user-stories-acceptance-criteria.md %}">
+    <p class="card-title">Read Next: Acceptance Criteria  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
+
 
 ---
 

@@ -61,6 +61,43 @@ The first step to adopting Kanban in any organization is getting management appr
 
 After getting management buy in, it is essential to get your teams organised to use kanban boards effectively. Educating the development team about the kanban methodology and how tasks are going to be tracked from start to end should be top priority. Kanban, being an incremental change is usually easy to implement.
 
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=whentousekanban" target="_blank">
+        <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
+    <p class="card-title">←  Read Previous: What is Kanban?</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-setup-and-implementation.md %}">
+    <p class="card-title">Read Next: Implementing Kanban  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 

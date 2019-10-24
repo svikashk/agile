@@ -1,18 +1,18 @@
 ---
 layout: default
-title: What is a Backlog? How to maintain it? | Agile Library
+title: What is a Backlog in Scrum? How to maintain it? | Agile Library
 page_title: Backlog
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 2
-description: Learn what a backlog is and how to keep it organized. 
+description: Learn what a backlog in scrum is and how to keep a backlog organized. 
 permalink: scrum/backlog/
 author: Vikash Koushik
 date: September 23, 2019
 ---
 
-## Backlog
+## Backlog in Scrum
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:
@@ -23,7 +23,7 @@ date: September 23, 2019
 
 ---
 
-## Introduction to Backlog
+## Introduction to Backlog in Scrum
 The backlog is a list of everything from features, enhancements, bugs, and user requirements needed to build a complete product. 
 
 The product backlog is the single source of truth that a team needs to work on and teams don't work on anything that isn’t on the product backlog. On the other hand, adding a work item to a backlog doesn't necessarily guarantee that it will be worked upon and get shipped.
@@ -51,6 +51,44 @@ When the backlog gets unmanageable, product owners get together to group all ite
 Once categorized based on near-term and long-term goals, the product owners should then ensure all items in the near-term goals are fully fleshed out, described, and estimated. That way, prioritizing work items grouped under short-term goals is easier.
 
 [Read how to prioritize your product backlog over here →](https://zepel.io/blog/prioritize-product-feature-backlog/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-backlog)
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumbacklog" target="_blank">
+        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}">
+    <p class="card-title">←  Read Previous: Roles in Scrum</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}">
+    <p class="card-title">Read Next: What is a Sprint in Scrum?  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 
