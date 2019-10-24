@@ -62,7 +62,7 @@
           {% assign children_list = site.pages | sort:"nav_order" %}
           <ul>
             {% for child in children_list %}
-              {% if child.parent == page.title and child.title != page.title %}
+              {% if child.parent == page.title and child.title != page.page_title %}
               <li>
                 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
               </li>
