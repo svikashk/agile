@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is Scrum Sprints? Learn how to plan and run Sprints
-page_title: Sprint
+page_title: Sprints
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
@@ -12,7 +12,7 @@ author: Vikash Koushik
 date: Sepetember 13, 2019
 ---
 
-## Sprint
+## Sprint in Scrum
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:
@@ -23,7 +23,7 @@ date: Sepetember 13, 2019
 
 ---
 
-## What is a Sprint?
+## What is a Sprint in Scrum?
 A sprint is a collection of items from the backlog that is time-boxed to a month or less with the goal of shipping a useable, incremental version of the product.
 
 Sprint is a way of working that uses the scrum framework. Many teams confuse sprint and agile to be the same thing and they are not. To help make it easier to understand, think of agile as a set of principles where you can use scrum or kanban to help your team become more agile. And sprint is at the heart of scrum.
@@ -60,6 +60,44 @@ It sounds like a lot, I know. But we've written in detail on each phase of the c
 1. If the user story is too big, be sure to break them down with subtasks.
 1. Be aware of over-estimating how much work your team can complete.
 1. Use feedback from your team about past sprints and encorporate them into your current sprints.
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" target="_blank">
+        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}">
+    <p class="card-title">←  Read Previous: What is a Backlog?</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}">
+    <p class="card-title">Read Next: Scrum Meetings  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 

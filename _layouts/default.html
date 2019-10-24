@@ -29,9 +29,9 @@
             <ul class="list-style-none text-small mt-md-1 mb-md-1 pb-4 pb-md-0 js-aux-nav aux-nav">
               {% for link in site.aux_links %}
                 <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}">
-                <a href="https://zepel.io/?utm_source=agilelibrary&utm_medium=topnav" class="nav-button">Sign up for FREE</a></li>
+                <a href="https://zepel.io/?utm_source=agilelibrary&utm_medium=topnav" class="nav-button">TRY ZEPEL FOR FREE</a></li>
                 <li class="d-inline-block my-1{% unless forloop.last %} mr-2{% endunless %}">
-                  <a href="https://zepel.io/login/?utm_source=agilelibrary&utm_medium=topnav" class="header">Login to Zepel</a></li>
+                  <a href="https://zepel.io/login/?utm_source=agilelibrary&utm_medium=topnav" class="header">Log in to Zepel</a></li>
               {% endfor %}
             </ul>
           {% endif %}
@@ -56,20 +56,20 @@
         <div id="main-content" class="page-content" role="main">
           {{ content }}
 
-          {% if page.has_children == true and page.has_toc != false %}
+          <!-- {% if page.has_children == true and page.has_toc != false %}
           <hr>
           <h2 class="text-delta">Further reading</h2>
           {% assign children_list = site.pages | sort:"nav_order" %}
           <ul>
             {% for child in children_list %}
-              {% if child.parent == page.title and child.title != page.title %}
+              {% if child.parent == page.title and child.title != page.page_title %}
               <li>
-                <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
+                <a href="{{ child.url | absolute_url }}">{{ child.page_title }}</a>
               </li>
               {% endif %}
             {% endfor %}
           </ul>
-          {% endif %}
+          {% endif %} -->
         </div>
       </div>
     </div>
