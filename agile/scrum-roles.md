@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What are the different Scrum Roles?
+title: What are the different Scrum Roles? | Agile Library
 page_title: Roles
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
@@ -40,6 +40,44 @@ The product owner owns the backlog, strives to prioritize, and takes all the key
 ## Scrum Master
 
 The scrum master is responsible for making sure the entire team has everything they need to build and ship a task or user story on time. This person often communicates progress and ensures there aren’t any roadblocks.
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumroles" target="_blank">
+        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}">
+    <p class="card-title">←  Read Previous: What is Scrum?</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}">
+    <p class="card-title">Read Next: What is a Backlog?  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 
