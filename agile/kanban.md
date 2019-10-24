@@ -9,6 +9,7 @@ description: Introduction to Kanban for Software Teams following Agile Methodolo
 permalink: kanban/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## Introduction to Kanban

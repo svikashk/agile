@@ -6,6 +6,7 @@ nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: Best practices and tutorials on Agile Methodology and Agile Software Development
 permalink: /
+publisher: Zepel
 ---
 
 # Agile Library by Zepel

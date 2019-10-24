@@ -9,6 +9,7 @@ description: Unsure how to make sense of the agile reports? This guide has you c
 permalink: reports/
 author: Vikash Koushik
 date: September 13, 2019
+publisher: Zepel
 ---
 
 ## Agile Reports

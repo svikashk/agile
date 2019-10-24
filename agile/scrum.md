@@ -9,6 +9,7 @@ description: What is Scrum and how to implement it with best practices
 permalink: scrum/
 author: Vikash Koushik
 date: December 12, 2018
+publisher: Zepel
 ---
 
 ## What is Scrum?

@@ -11,6 +11,7 @@ description: Unsure if you should use Kanban within your team? Here is when you 
 permalink: kanban/when-to-use/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## When to use Kanban

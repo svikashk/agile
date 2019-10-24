@@ -11,6 +11,7 @@ description: Summary of how to Kanban methodology for agile software development
 permalink: kanban/summary/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## Summary of Kanban

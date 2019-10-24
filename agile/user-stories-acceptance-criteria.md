@@ -10,6 +10,7 @@ nav_order: 1
 permalink: user-stories/acceptance-criteria/
 author: Vikash Koushik
 date: May 09, 2019
+publisher: Zepel
 ---
 
 ## Acceptance Criteria For User Stories In Agile

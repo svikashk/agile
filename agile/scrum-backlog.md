@@ -10,6 +10,7 @@ description: Learn what a backlog in scrum is and how to keep a backlog organize
 permalink: scrum/backlog/
 author: Vikash Koushik
 date: September 23, 2019
+publisher: Zepel
 ---
 
 ## Backlog in Scrum

@@ -11,6 +11,7 @@ description: Best practices and tutorials on Agile
 permalink: kanban/what-are-kanban-boards/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## What are Kanban Boards

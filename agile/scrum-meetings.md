@@ -10,6 +10,7 @@ description: Learn the different types of Scrum Meetings and how to run them wit
 permalink: scrum/meetings/
 author: Vikash Koushik
 date: December 12, 2018
+publisher: Zepel
 ---
 
 ## Scrum Ceremonies or Meetings
