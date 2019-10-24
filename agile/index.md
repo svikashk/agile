@@ -1,7 +1,7 @@
 ---
 layout: default
 page_title: Home
-title: Agile best practices and tutorials
+title: Agile best practices and tutorials | Agile Library
 nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: Best practices and tutorials on Agile Methodology and Agile Software Development

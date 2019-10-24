@@ -26,7 +26,7 @@ publisher: Zepel
 
 ---
 
-## Choosing The Right Metrics & Improving Processes Incrementally  
+## Choosing The Right Metrics
 
 As a principle, Kanban focuses on incremental improvement of processes. This means that teams can opt to have a process review meeting periodically and discuss issues with the current setup and implement changes(if needed).
 
@@ -130,6 +130,44 @@ The Ageing Chart shows the cycle times of different in-progress items in all the
 The Throughput Chart shows you the amount of work being delivered by the team on a daily basis. A Throughput Histogram can be used to analyse the distribution of historical throughput rates.
 
 ![Throughput Chart](/agile/assets/uploads/throughput-chart.png)
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/reports/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbanmetrics" target="_blank">
+        <p class="highlight-card-title">See how you can unearth opportunities with Reports in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-setup-and-implementation.md %}">
+    <p class="card-title">←  Read Previous: Implementing Kanban</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-summary.md %}">
+    <p class="card-title">Read Next: Kanban Summary  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 

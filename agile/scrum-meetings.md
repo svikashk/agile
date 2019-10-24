@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Types of Scrum Meetings with Best Practices
+title: Types of Scrum Meetings with Best Practices | Agile Library
 page_title: Ceremonies or Meetings
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
@@ -303,6 +303,44 @@ By focusing on the positive aspects of what went well in the previous sprint and
 
 
 ![Summary of Sprint Retrospective Meeting](/agile/assets/uploads/sprint-retrospective-meeting.png)
+
+---
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrummeetings" target="_blank">
+        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}">
+    <p class="card-title">←  Read Previous: What is a Sprint?</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
+    <p class="card-title">Read Next: Agile Kanban  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
 
 ---
 

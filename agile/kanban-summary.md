@@ -38,6 +38,44 @@ Kanban can be implemented on whiteboards with stick-it notes or with online proj
 
 ---
 
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbansummary" target="_blank">
+        <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-metrics-and-charts.md %}">
+    <p class="card-title">←  Read Previous: Kanban Metrics</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}">
+    <p class="card-title">Read Next: Agile User Stories  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
+
+---
+
 <section class="author-card">
         <img class="author-profile-image" src="/agile/assets/uploads/vidarth.png" alt="Vidarth Jaikrishnan">
         <section class="author-card-content">
