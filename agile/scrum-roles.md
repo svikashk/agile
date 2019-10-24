@@ -10,6 +10,7 @@ description: Learn what the different roles involved in a Scrum team do.
 permalink: scrum/roles/
 author: Vikash Koushik
 date: December 12, 2018
+publisher: Zepel
 ---
 
 ## Scrum Roles

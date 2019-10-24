@@ -10,6 +10,7 @@ description: Cumulative Flow Diagrams help visualize and track a kanban team's p
 permalink: reports/cumulative-flow-diagram/
 author: Vidarth Jaikrishnan
 date: January 23, 2019
+publisher: Zepel
 ---
 
 ## Understanding Cumulative Flow Diagram

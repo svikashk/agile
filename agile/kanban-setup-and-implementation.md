@@ -11,6 +11,7 @@ description: Implementing Kanban? Here is a best practice on how to set it up an
 permalink: kanban/setup-and-implementation/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## Setting Up And Implementing Kanban

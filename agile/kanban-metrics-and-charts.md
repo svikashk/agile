@@ -10,6 +10,7 @@ description: Want to improve processes within your agile team? Here are the metr
 permalink: kanban/charts-and-metrics/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+publisher: Zepel
 ---
 
 ## Metrics and Charts for Kanban

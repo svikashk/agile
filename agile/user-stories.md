@@ -9,6 +9,7 @@ permalink: user-stories/
 icon_path: /assets/uploads/my-tasks.svg
 author: Vikash Koushik
 date: May 09, 2019
+publisher: Zepel
 ---
 
 ## User Stories

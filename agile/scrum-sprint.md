@@ -10,6 +10,7 @@ description: Learn how to run Sprints within your team with tips and best practi
 permalink: scrum/sprint/
 author: Vikash Koushik
 date: Sepetember 13, 2019
+publisher: Zepel
 ---
 
 ## Sprint

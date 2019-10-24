@@ -10,6 +10,7 @@ description: Learn what a backlog is and how to keep it organized.
 permalink: scrum/backlog/
 author: Vikash Koushik
 date: September 23, 2019
+publisher: Zepel
 ---
 
 ## Backlog

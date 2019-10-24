@@ -10,6 +10,7 @@ description: Burndown charts are a great way to visualize sprint progress. In th
 permalink: reports/burndown/
 author: Vidarth Jaikrishnan
 date: November 26, 2018
+publisher: Zepel
 ---
 
 ## Understanding Burndown Charts
