@@ -4,7 +4,7 @@ title: Acceptance Criteria - What Is It? Examples and Templates Included
 description: Learn what acceptance criteria is. Includes how to write it for user stories with templates and examples.
 page_title: Acceptance Criteria
 has_children: false
-parent: User Stories | Templates And Examples Included | Agile Library
+parent: User Stories | How To Write | Templates And Examples Included
 parent_page_title: User Stories
 nav_order: 1
 permalink: user-stories/acceptance-criteria/
