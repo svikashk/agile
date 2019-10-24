@@ -50,7 +50,7 @@ When the backlog gets unmanageable, product owners get together to group all ite
 
 Once categorized based on near-term and long-term goals, the product owners should then ensure all items in the near-term goals are fully fleshed out, described, and estimated. That way, prioritizing work items grouped under short-term goals is easier.
 
-Read how to prioritize your product backlog [over here →](https://zepel.io/blog/prioritize-product-feature-backlog/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-backlog)
+[Read how to prioritize your product backlog over here →](https://zepel.io/blog/prioritize-product-feature-backlog/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-backlog)
 
 ---
 
