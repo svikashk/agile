@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Stories | How To Write With Templates And Examples
+title: User Stories | How To Write | Templates And Examples Included
 page_title: User Stories
 has_children: true
 nav_order: 4
