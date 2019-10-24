@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What are the different Scrum Roles?
+title: What are the different Scrum Roles? | Agile Library
 page_title: Roles
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library

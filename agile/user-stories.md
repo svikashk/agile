@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Stories | Templates And Examples Included | Agile Library
+title: User Stories | How To Write With Templates And Examples
 page_title: User Stories
 has_children: true
 nav_order: 4

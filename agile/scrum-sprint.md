@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is Scrum Sprints? Learn how to plan and run Sprints
-page_title: Sprint
+page_title: Sprints
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
