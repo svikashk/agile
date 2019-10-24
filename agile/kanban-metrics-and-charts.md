@@ -25,7 +25,7 @@ Date: September 18, 2019
 
 ---
 
-## Choosing The Right Metrics & Improving Processes Incrementally  
+## Choosing The Right Metrics
 
 As a principle, Kanban focuses on incremental improvement of processes. This means that teams can opt to have a process review meeting periodically and discuss issues with the current setup and implement changes(if needed).
 
