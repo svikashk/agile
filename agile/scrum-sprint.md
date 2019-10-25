@@ -40,7 +40,7 @@ A sprint cycle consits of:
 1. Sprint Review
 1. Sprint Retrospective
 
-Teams who want to run sprints, start with planning for the sprint with a sprint planning meeting. This is a collaborative effort between the product owner, development team, and scrum master to determine what work can be completed within the sprint.
+Teams who want to run sprints, start with planning for the sprint with a <a href="https://thedigitalprojectmanager.com/sprint-planning-meeting/" target="_blank">sprint planning</a> meeting. This is a collaborative effort between the product owner, development team, and scrum master to determine what work can be completed within the sprint.
 
 While planning the sprint, the team focuses on the [**backlog**]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) to determine what to work on and how they will complete them before the end of the sprint. Once determined, these work items are called the sprint backlog and the development team will pick up items from the sprint backlog, move them across different statuses based on their workflow, and complete them.
 
