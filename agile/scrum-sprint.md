@@ -69,7 +69,7 @@ It sounds like a lot, I know. But we've written in detail on each phase of the c
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" target="_blank">
-        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
         </a>    
     </div>
 </div>
