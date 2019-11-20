@@ -13,13 +13,21 @@ publisher: Zepel
 ---
 
 ## Scrum or Kanban: 5 questions to answer before you choose.
-{: .fs-9 }
+{: .fs-9 .no_toc }
 
 The [agile manifesto](https://agilemanifesto.org/principles.html) comprises of a guiding principles that help software development teams incorporate feedback and make changes faster. 
 
 Teams are striving to become agile in order to build better products and get them to market faster. In today’s environment, it is almost impossible for modern software development teams to take months (or years!) to deliver solutions to customers.
 
 Scrum and Kanban are two of the most common terms used when discussing agile methodologies. These are two frameworks that incorporate agile practices and offer very distinct sets of recommendations for teams. 
+
+---
+
+## TOPICS COVERED IN THIS GUIDE:
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -42,7 +50,7 @@ The most common Kanban implementations used by software teams are on physical Ka
 
 ---
 
-## 5 Questions you need to answer before choosing between Scrum and Kanban: 
+## 5 Questions you need to answer before choosing between Scrum and Kanban
 **1. What are you looking to improve?**
 
   Scrum and Kanban fundamentally focus on two different things.
@@ -92,6 +100,7 @@ The most common Kanban implementations used by software teams are on physical Ka
 ## Summary 
 
 ### Choose Scrum if:
+{: .no_toc}
 - You are looking to **drastically change the way your teams approach software development and delivery**.
 
 - You feel that your teams need to do a better job of **breaking down work, estimating timelines, and releasing software**.
@@ -118,6 +127,7 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ### Choose Kanban if:
+{: .no_toc}
 - Your team has a **workflow that can be visualised**.
 
 - Your tasks usually follow the same **repeatable workflow** rather than being more ad hoc in nature.
