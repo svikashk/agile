@@ -172,10 +172,14 @@ After all, you need all the available information at your disposal to [prioritiz
 
 ---
 
-<section class="author-card">
-        <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
-        <section class="author-card-content">
+<div class="row">
+  <div class="column">
+    <div class="author-card">
+      <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
+      <div class="author-card-content">
         <h4 class="author-card-name">Vikash Koushik</h4>
             <p>Product Marketing at <a href="https://zepel.io/">Zepel.io</a></p>
-    </section>
-</section>
+      </div>
+    </div>
+  </div>
+</div>
