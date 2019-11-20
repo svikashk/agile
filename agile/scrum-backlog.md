@@ -60,7 +60,7 @@ Once categorized based on near-term and long-term goals, the product owners shou
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumbacklog" target="_blank">
-        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
         </a>    
     </div>
 </div>
