@@ -60,7 +60,7 @@ Once categorized based on near-term and long-term goals, the product owners shou
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumbacklog" target="_blank">
-        <p class="highlight-card-title">See how you can run ship quality, bug-free features with Sprints in Zepel  →</p>
+        <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
         </a>    
     </div>
 </div>
@@ -93,10 +93,14 @@ Once categorized based on near-term and long-term goals, the product owners shou
 
 ---
 
-<section class="author-card">
-        <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
-        <section class="author-card-content">
+<div class="row">
+  <div class="column">
+    <div class="author-card">
+      <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
+      <div class="author-card-content">
         <h4 class="author-card-name">Vikash Koushik</h4>
             <p>Product Marketing at <a href="https://zepel.io/">Zepel.io</a></p>
-    </section>
-</section>
+      </div>
+    </div>
+  </div>
+</div>

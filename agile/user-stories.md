@@ -3,7 +3,7 @@ layout: default
 title: User Stories | How To Write | Templates And Examples Included
 page_title: User Stories
 has_children: true
-nav_order: 4
+nav_order: 5
 description: Learn how to write good user stories. Format, templates, best practices, and examples included in this extensive guide.
 permalink: user-stories/
 icon_path: /assets/uploads/my-tasks.svg
@@ -234,10 +234,15 @@ So, the next time you build a new feature, fire up your [Zepel](https://zepel.io
 
 ---
 
-<section class="author-card">
-        <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
-        <section class="author-card-content">
+<div class="row">
+  <div class="column">
+    <div class="author-card">
+      <img class="author-profile-image" src="/agile/assets/uploads/vikashkoushik.jpeg" alt="Vikash Koushik">
+      <div class="author-card-content">
         <h4 class="author-card-name">Vikash Koushik</h4>
             <p>Product Marketing at <a href="https://zepel.io/">Zepel.io</a></p>
-    </section>
-</section>
+      </div>
+    </div>
+  </div>
+</div>
+

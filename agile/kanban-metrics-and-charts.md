@@ -171,10 +171,14 @@ The Throughput Chart shows you the amount of work being delivered by the team on
 
 ---
 
-<section class="author-card">
-        <img class="author-profile-image" src="/agile/assets/uploads/vidarth.png" alt="Vidarth Jaikrishnan">
-        <section class="author-card-content">
+<div class="row">
+  <div class="column">
+    <div class="author-card">
+      <img class="author-profile-image" src="/agile/assets/uploads/vidarth.png" alt="Vidarth Jaikrishnan">
+      <div class="author-card-content">
         <h4 class="author-card-name">Vidarth Jaikrishnan</h4>
-            <p>Product at <a href="https://zepel.io/">Zepel.io</a></p>
-    </section>
-</section>
+        <p>Product at <a href="https://zepel.io/">Zepel.io</a></p>
+      </div>
+    </div>
+  </div>
+</div>
