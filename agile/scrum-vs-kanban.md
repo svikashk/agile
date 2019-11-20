@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum vs Kanban - 5 questions to help you choose.
+title: Scrum vs Kanban - 5 questions to answer before you choose.
 page_title: Scrum vs Kanban
 nav_order: 4
 has_children: false
