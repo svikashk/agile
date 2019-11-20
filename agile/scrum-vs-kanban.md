@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum vs Kanban - 5 questions to answer before you choose.
+title: Scrum vs Kanban - 5 questions to answer before you choose
 page_title: Scrum vs Kanban
 nav_order: 4
 has_children: false
@@ -12,7 +12,7 @@ date: November 20, 2019
 publisher: Zepel
 ---
 
-## Scrum or Kanban: 5 questions to answer before you choose.
+## Scrum or Kanban: 5 questions to answer before you choose
 {: .fs-9 .no_toc }
 
 The [agile manifesto](https://agilemanifesto.org/principles.html) comprises of a guiding principles that help software development teams incorporate feedback and make changes faster. 
