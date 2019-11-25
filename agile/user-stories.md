@@ -213,8 +213,8 @@ So, the next time you build a new feature, fire up your [Zepel](https://zepel.io
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">←  Read Previous: Kanban</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-vs-kanban.md %}">
+    <p class="card-title">←  Read Previous: Scrum vs Kanban</p> 
     </a>
   </div>
 </div>
