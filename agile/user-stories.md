@@ -24,6 +24,7 @@ publisher: Zepel
 ---
 
 ## What is a user story in agile?
+{: .fs-7 }
 
 User Story in Agile is a way of capturing the requirements and description of a software feature from the user's perspective. It describes what a user wants, who the user is, and why they want it.
 
@@ -42,6 +43,7 @@ When done properly, user stories let your team stay focused on satisfying the us
 ---
 
 ## How to write a good user story?
+{: .fs-7 }
 
 User stories are short, simple descriptions of how a feature will be used. They are written in an informal, natural language, from a user’s perspective. It reflects their *need* and the *goal* they intend to achieve by using your feature.
 
@@ -56,6 +58,7 @@ But when the feature’s quality is on the line and depends on how well you defi
 ---
 
 ## Templates to write the perfect user story
+{: .fs-7 }
 
 Writing a user story that everyone in your team understands, simple, and is to the point without technical details can be hard. The further you drift away from talking from a user’s perspective, the more details you’ll add and lesser useful it’ll be for you and your team.
 
@@ -85,6 +88,7 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 ---
 
 ## Examples of a user story
+{: .fs-7 }
 
 > As a writer, I want to receive notifications when others add comments so that I am up-to-date.
 
@@ -95,6 +99,7 @@ In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaig
 ---
 
 ## 5 best practices to keep in mind while writing user stories
+{: .fs-7 }
 
 - **User stories are independent of each other:**
 
@@ -143,6 +148,7 @@ With an [estimate of how long your user story](https://zepel.io/blog/project-est
 ---
 
 ## Benefits of writing user stories
+{: .fs-7 }
 
 A solid user story lets you anchor your communication to what matters most to your users while collaborating with the team. You get to pass every feature, functionality, and activity you do through a simple filter of “how does this matter to my user?”.
 
@@ -213,8 +219,8 @@ So, the next time you build a new feature, fire up your [Zepel](https://zepel.io
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">←  Read Previous: Kanban</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-vs-kanban.md %}">
+    <p class="card-title">←  Read Previous: Scrum vs Kanban</p> 
     </a>
   </div>
 </div>

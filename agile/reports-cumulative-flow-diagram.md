@@ -29,12 +29,14 @@ The cumulative flow diagram is one of the most common charts used to track progr
 ---
 
 ## What is a Cumulative Flow Diagram (CFD)?
+{: .fs-7 }
 
 CFDs are simple stacked area charts that show the number of tasks in each column of the kanban. The lowermost line indicates the number of items in the completed state at any point in time. The progress of this line also serves as the burnup graph of the entire process.
 
 ---
 
 ## Reading a Cumulative Flow Diagram
+{: .fs-7 }
 
 Consider a simple CFD for a Kanban board with 4 columns: Backlog, In Development, QA and Deployed.
 
@@ -59,6 +61,7 @@ The lines above this indicate the other statuses on the board and the number of 
 ---
 
 ## Common Cumulative Flow Diagram Patterns
+{: .fs-7 }
 
 - **The Ideal Cumulative Flow Diagram:**
 
@@ -105,6 +108,7 @@ Sometimes, your graph may end up looking like this at the end of a long weekend 
 ---
 
 ## Using Cumulative Flow Diagrams Effectively
+{: .fs-7 }
 
 CFDs are a great way to keep your kanban process on track. They are easy to understand visualizations that can be generated from very little data.
 

@@ -66,8 +66,8 @@ Kanban can be implemented on whiteboards with stick-it notes or with online proj
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}">
-    <p class="card-title">Read Next: Agile User Stories  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-vs-kanban.md %}">
+    <p class="card-title">Read Next: Scrum vs Kanban  →</p>
     </a>
   </div>
 </div>

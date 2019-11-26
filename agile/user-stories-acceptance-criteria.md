@@ -25,6 +25,7 @@ publisher: Zepel
 ---
 
 ## What is an acceptance criteria?
+{: .fs-7 }
 
 Acceptance criteria let you define when your user story is complete and has all the functionality needed to meet your user’s needs.
 
@@ -49,6 +50,7 @@ If it’s complex or a core feature of your product you should consider writing 
 ---
 
 ## How to write acceptance criteria for user stories?
+{: .fs-7 }
 
 **1. Acceptance criteria should be written from a user's perspective.**
 
@@ -85,6 +87,7 @@ The acceptance criteria for it is as simple as “*When I perform the accept act
 ---
 
 ## Given/When/Then acceptance criteria template
+{: .fs-7 }
 
 To make life easier, here’s a simple template you can use for writing acceptance criteria:
 
@@ -93,6 +96,7 @@ To make life easier, here’s a simple template you can use for writing acceptan
 ---
 
 ## Sample examples of acceptance criteria
+{: .fs-7 }
 
 **For the example user story:**
 
@@ -115,6 +119,7 @@ In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaig
 ---
 
 ## Who writes acceptance criteria?
+{: .fs-7 }
 
 Pretty much anyone on the [cross-functional team](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=acceptance-criteria) can write acceptance criteria for user stories.
 
@@ -123,6 +128,7 @@ Most of the times it is the product owner or the product manager who writes the 
 ---
 
 ## When should you write acceptance criteria?
+{: .fs-7 }
 
 It isn't uncommon to write the acceptance criteria for a user story while grooming the [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) just before their Sprint Planning meeting. That way, they can bring it to the team during the [Sprint Planning meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}#sprint-planning-meeting) to discuss the priorities.
 

@@ -25,6 +25,7 @@ publisher: Zepel
 ---
 
 ## Introduction to Backlog in Scrum
+{: .fs-7 }
 The backlog is a list of everything from features, enhancements, bugs, and user requirements needed to build a complete product. 
 
 The product backlog is the single source of truth that a team needs to work on and teams don't work on anything that isn’t on the product backlog. On the other hand, adding a work item to a backlog doesn't necessarily guarantee that it will be worked upon and get shipped.
@@ -42,6 +43,7 @@ Once prioritized, the development team then works on them either using an iterat
 ---
 
 ## Keeping Your Backlog Organized
+{: .fs-7 }
 
 As your backlog grows big, it is important to keep it organized and groomed. 
 

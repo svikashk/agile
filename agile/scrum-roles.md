@@ -31,14 +31,17 @@ When a company decides to use Scrum, one of the first things to understand is ho
 ![Three Roles in Scrum](/agile/assets/uploads/scrum-roles.png)
 
 ## The Development Team
+{: .fs-7 }
 
 The development team is a cross-functional team of developers, QA testers, designers, and other technical members who are needed in the actual development of the product.
 
 ## Product Owner
+{: .fs-7 }
 
 The product owner owns the backlog, strives to prioritize, and takes all the key decisions with respect to the product. This person turns all the user chunks of work so the development team can work on them.
 
 ## Scrum Master
+{: .fs-7 }
 
 The scrum master is responsible for making sure the entire team has everything they need to build and ship a task or user story on time. This person often communicates progress and ensures there aren’t any roadblocks.
 

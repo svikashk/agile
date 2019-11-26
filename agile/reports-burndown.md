@@ -25,6 +25,8 @@ publisher: Zepel
 ---
 
 ## What is a burndown chart?
+{: .fs-7 }
+
 A burndown chart is a line chart drawn between "work remaining" and "time". These charts are used by scrum teams to track their progress as they “burn through” tasks in a sprint.
 
 Burndown charts are fairly simple to understand but teams often struggle to understand the full meaning behind the graph.
@@ -32,6 +34,7 @@ Burndown charts are fairly simple to understand but teams often struggle to unde
 ---
 
 ## Parts of a burndown chart
+{: .fs-7 }
 
 ![Parts of Burndown Chart](/agile/assets/uploads/burndown-chart.png)
 
@@ -94,6 +97,7 @@ Burndown Charts are an indicator of a Sprint team’s performance. During a spri
 ---
 
 ## Reading the burndown graph
+{: .fs-7 }
 
 The Burndown Graph is read by comparing the sprint progress line to the guideline. The closer the two lines are to each other, the better your chances are of completing all tasks by the deadline.
 
@@ -108,6 +112,7 @@ The Burndown Graph is read by comparing the sprint progress line to the guidelin
 ---
 
 ## Burndown chart patterns
+{: .fs-7 }
 
 Here are some common patterns you are likely to observe while using burndown charts to track sprints.
 
@@ -153,6 +158,7 @@ This is most likely because they underestimated the effort required to complete 
 ---
 
 ## Limitations of burndown charts and alternatives:
+{: .fs-7 }
 
 - **The Burndown Chart doesn’t actually tell you how much work is being completed by the team:** 
 
@@ -173,6 +179,7 @@ Burndown Charts focus on completion of issues. Status changes during the “in p
 ---
 
 ## Using burndown charts effectively:
+{: .fs-7 }
 
 Burndown charts are a great way to visualize a sprint’s progress. Like all tools, scrum masters and product owners should follow a few rules to ensure that they can derive full value from Burndown Charts.
 
