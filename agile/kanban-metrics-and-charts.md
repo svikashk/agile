@@ -18,7 +18,7 @@ publisher: Zepel
 
 ---
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,6 +27,7 @@ publisher: Zepel
 ---
 
 ## Choosing The Right Metrics
+{: .fs-7 }
 
 As a principle, Kanban focuses on incremental improvement of processes. This means that teams can opt to have a process review meeting periodically and discuss issues with the current setup and implement changes(if needed).
 
@@ -85,6 +86,7 @@ TAR gives you the rate at which tasks are added on a daily basis. It gives you t
 ---
 
 ## Charts for Kanban Teams
+{: .fs-7 }
 
 **Cumulative Flow Diagram (CFD):**
 {: .no_toc }

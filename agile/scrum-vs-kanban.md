@@ -15,11 +15,13 @@ publisher: Zepel
 ## Scrum or Kanban: 5 questions to answer before you choose
 {: .fs-9 .no_toc }
 
-The [agile manifesto](https://agilemanifesto.org/principles.html) comprises of a guiding principles that help software development teams incorporate feedback and make changes faster. 
+The [agile manifesto](https://agilemanifesto.org/principles.html) consists of guiding principles that help software development teams incorporate feedback and make changes faster. 
 
-Teams are striving to become agile in order to build better products and get them to market faster. In today’s environment, it is almost impossible for modern software development teams to take months (or years!) to deliver solutions to customers.
+In today’s environment, modern software development teams can no longer afford to take months (or years!) to deliver solutions to customers. Which is why teams are striving to become agile in order to build better products and get them to market quickly. 
 
-Scrum and Kanban are two of the most common terms used when discussing agile methodologies. These are two frameworks that incorporate agile practices and offer very distinct sets of recommendations for teams. 
+Scrum and Kanban, two of the most common methodologies teams use today, are two frameworks that incorporate agile practices and offer very distinct sets of recommendations for teams. 
+
+But which one should you choose for your team? Let's jump in and find out.
 
 ---
 
@@ -32,6 +34,7 @@ Scrum and Kanban are two of the most common terms used when discussing agile met
 ---
 
 ## What is Scrum?
+{: .fs-7 }
 
 [Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an agile framework that involves breaking down large blocks of work into smaller, executable chunks. These chunks of work are taken up by cross functional development teams and delivered in time-boxed sprints that may vary in duration from a single week to being close to a month-long. 
 
@@ -40,6 +43,7 @@ Scrum and Kanban are two of the most common terms used when discussing agile met
 ---
 
 ## What is Kanban?
+{: .fs-7 }
 
 [Kanban]({{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}) is a process improvement framework that has found its way into software development circles. It involves visualising existing workflows onto a board and identifying roadblocks in the workflow. 
 
@@ -51,6 +55,8 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ## 5 Questions you need to answer before choosing between Scrum and Kanban
+{: .fs-7 }
+
 **1. What are you looking to improve?**
 
   Scrum and Kanban fundamentally focus on two different things.
@@ -77,7 +83,7 @@ The most common Kanban implementations used by software teams are on physical Ka
 
   Kanban is better suited for processes that can be laid laid out on a sheet of paper(clearly visualised). It also helps when these processes are mostly repeatable.
 
-  Scrum does not focus as much on the underlying workflow but requires your development efforts to be broken down into sprints. If your team or product does not suit a development lifecycle that consists of a series of sprints, you are likely to find it difficult to implement scrum. 
+  Scrum does not focus as much on the underlying workflow but requires your [product development process](https://zepel.io/blog/product-development-process/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) to be broken down into sprints. If your team or product does not suit a development lifecycle that consists of a series of [sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), you are likely to find it difficult to implement scrum. 
 
   Similarly, if your team is taking up a lot of ad-hoc tasks that require different workflows, you might struggle to implement Kanban effectively.
 
@@ -98,6 +104,7 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ## Summary 
+{: .fs-7 }
 
 ### Choose Scrum if:
 {: .no_toc}
