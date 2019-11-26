@@ -6,7 +6,7 @@ has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 8
-description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
+description: The daily scrum standup is a 15-minute meeting that makes agile development efficient and seamless. Learn how to run a daily scrum meeting with this in-depth guide.
 permalink: scrum/daily-scrum-standup/
 author: Vikash Koushik
 date: December 12, 2018
@@ -29,7 +29,7 @@ publisher: Zepel
 ## What’s a Daily Scrum Standup Meeting?
 {: .fs-7 }
 
-The Daily Scrum Meeting (or Daily Standup Meeting) takes place once a Sprint begins. It is the most common type of meeting that most teams already follow. As the name suggests, this meeting is held every day during a sprint. 
+The Daily Scrum Meeting (or Daily Standup Meeting) takes place once a [Sprint]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) begins. It is the most common type of meeting that most teams already follow. As the name suggests, this meeting is held every day during a sprint. 
 
 A daily scrum standup is not just a status meeting, but a meeting that also helps the team identify roadblocks and ultimately solve them before it’s too late.
 

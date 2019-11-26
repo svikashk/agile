@@ -32,6 +32,7 @@ As teams get larger and workflows get more complex, it makes sense to move away 
 ---
 
 ## Digital Kanban Tools
+{: .fs-7 }
 
 Software development teams are increasingly moving to online project management tools for a variety of benefits.
 

@@ -49,6 +49,7 @@ Kanban is a better fit for teams that strive for consistent delivery of features
 ---
 
 ## Getting your team ready for Kanban
+{: .fs-7 }
 
 Once you have decided to adopt kanban for your team, the next step would be to get everyone on the same page to ensure maximum chance of success.
 

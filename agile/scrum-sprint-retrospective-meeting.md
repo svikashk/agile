@@ -6,14 +6,14 @@ has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 10
-description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
+description: Sprint retrospective meeting helps agile teams to find ways to improve. In this guide we understand what a sprint retrospective meeting is and explore best practices.
 permalink: scrum/sprint-retrospective/
 author: Vikash Koushik
 date: December 12, 2018
 publisher: Zepel
 ---
 
-## Sprint Retrospective
+## Sprint Retrospective Meeting
 {: .fs-9 .no_toc }
 
 ---

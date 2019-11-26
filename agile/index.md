@@ -16,6 +16,7 @@ Best practices and tips on Agile Methodology and how you can make your team more
 {: .fs-6 .fw-300 }
 
 ## What is Agile?
+{: .fs-7 }
 
 Agile is a step-by-step, iterative approach to project management and software development. The core principle of Agile methodology is to allow teams to ship and deliver software to the customers faster. 
 

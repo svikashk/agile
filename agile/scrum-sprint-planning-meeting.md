@@ -1,12 +1,12 @@
 ---
 layout: default
-title: What Is Sprint Planning Meeting? Best Practices Included
+title: What Is Sprint Planning Meeting? 6 Best Practices Included
 page_title: Sprint Planning
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 7
-description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
+description: Learn what a sprint planning meeting is. This guide includes best practices and teaches you how to successfully run a sprint planning meeting.
 permalink: scrum/sprint-planning/
 author: Vikash Koushik
 date: December 12, 2018
@@ -82,7 +82,7 @@ If you ran a sprint prior to the one you are currently planning, you most likely
 
 **2. Have a groomed backlog:**
 
-Before the sprint planning meeting, make sure the backlog is groomed with fully formed user stories and the most important work listed at the top. It’s best done a few days before the sprint planning meeting with just the product owner and the scrum master. 
+Before the sprint planning meeting, make sure the backlog is groomed **with fully formed user stories** and the most important work listed at the top. It’s best done a few days before the sprint planning meeting with just the product owner and the scrum master. 
 
 If you're using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=sprint-planning), you can quickly add more details to your user story by adding detailed description, attachments, and comments. That way, every member has the full picture of what each user story tries to achieve and everyone is on the same page.
 

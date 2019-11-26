@@ -25,6 +25,8 @@ publisher: Zepel
 ---
 
 ## What is a Sprint in Scrum?
+{: .fs-7 }
+
 A sprint is a collection of items from the backlog that is time-boxed to a month or less with the goal of shipping a useable, incremental version of the product.
 
 Sprint is a way of working that uses the scrum framework. Many teams confuse sprint and agile to be the same thing while they are not. 
@@ -34,6 +36,7 @@ To help make it easier to understand, think of agile as a set of principles wher
 ---
 
 ## How to plan and run Sprints?
+{: .fs-7 }
 
 A sprint cycle consits of:
 
@@ -55,6 +58,7 @@ It sounds like a lot, I know. But we've written in detail on each phase of the c
 ---
 
 ## Best practices to run Sprints
+{: .fs-7 }
 
 1. Ensure the items you pick from the backlog are not vague before adding them to your sprint.
 1. Be sure to let your team know what the goal of the sprint is and have them aligned on the goal.

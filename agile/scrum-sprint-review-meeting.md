@@ -1,19 +1,19 @@
 ---
 layout: default
-title: What is Sprint Review Meeting? Best Practices Included
+title: What is Sprint Review Meeting? How to run Sprint Review Meeting?
 page_title: Sprint Review
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 9
-description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
+description: A sprint review meeting is an informal gathering to showcase what was achieved during the Sprint. Learn about sprint review meeting and the best practices to run it.
 permalink: scrum/sprint-review/
 author: Vikash Koushik
 date: December 12, 2018
 publisher: Zepel
 ---
 
-## Sprint Review
+## Sprint Review Meeting
 {: .fs-9 .no_toc }
 
 ---
@@ -29,7 +29,7 @@ publisher: Zepel
 ## What is a Sprint Review Meeting?
 {: .fs-7 }
 
-During the sprint review meeting, the development team takes the spotlight to show all the work completed during the sprint. This meeting gives all the other stakeholders a chance to see the feature so they can inspect and ask questions. 
+The sprint review meeting is an informal gathering between the scrum team and the other stakeholders. The team takes this opportunity to show all the work completed during the sprint which gives the stakeholders a chance to see the feature to inspect and ask questions. 
 
 Think of sprint review meeting as a casual demo Friday, where you demo your finished feature/product to people and answer questions. However, depending on how your company is set up, this meeting could also be more formal with the product owner explaining what tasks in the sprint where completed (and what weren’t) while the development team showcases them.
 
@@ -56,6 +56,10 @@ That means, if your sprint is four weeks long, the sprint review meeting shouldn
 ## Sprint Review vs Sprint Retrospective
 {: .fs-7 }
 
+Teams often get confused between sprint review meetings and a [sprint retrospective meetings]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}). While they do sometimes sound similar, at its core they're have different purpose.
+
+Below is a tabular column that explains the three major differences between a sprint review meeting and a sprint retrospective meeting.
+
 | Sprint Review        | Sprint Retrospective          |
 |:-------------|:------------------|
 | 1. The sprint review meeting focuses on what was built during the current Sprint. | 1. The sprint retrospective meeting is focussed on improving future sprints in terms of the process. |
@@ -81,7 +85,7 @@ During the meeting, the product owner should take ownership of asking questions 
 
 **3. Sprint reviews is not for retrospective:**
 
-It is common for teams new to scrum to confuse a sprint review meeting with a [sprint retrospective meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}). 
+It is common for teams new to scrum to confuse a sprint review meeting with a sprint retrospective meeting. 
 
 A review meeting is where your team demonstrates all the hard work they put in, while a retrospective meeting happens after the sprint review meeting to introspect and find ways to improve the current process. 
 

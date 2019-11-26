@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Ultimate Guide To Types of Scrum Meetings | Agile Library
-page_title: Scrum Ceremonies or Meetings
+title: Guide To Scrum Meetings And Types of Scrum Meetings
+page_title: Ceremonies or Meetings
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 6
-description: Learn the different types of Scrum Meetings and how to run them with best practices. Includes for sprint planning, daily scrum meeting, sprint review, and retrospective.
+description: Scrum meetings are an essential part of scrum. Learn what it is and the different types of scrum meetings.
 permalink: scrum/meetings/
 author: Vikash Koushik
 date: December 12, 2018
@@ -29,7 +29,7 @@ publisher: Zepel
 
 To answer what Scrum Ceremonies or Meetings are, let us first take a step back.
 
-[Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) is an agile framework that lets you build and deliver value to customers iteratively by running [Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), where the team timeboxes a collection of work items and completes them.
+[Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an agile framework that lets you build and deliver value to customers iteratively by running [Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), where the team timeboxes a collection of work items and completes them.
 
 **To ensure that a Sprint runs smoothly and the team doesn't lose focus, multiple meetings, known as Scrum Ceremonies or Meetings, are held during the lifecycle of a Sprint**. 
 
@@ -78,7 +78,7 @@ Let’s jump in and find out.
 
 ---
 
-### Sprint Planning
+## Sprint Planning
 {: .fs-7 }
 
 A Sprint Planning Meeting is held before the Sprint begins. [All members of the scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) are involved in this meeting to ensure that everyone is on the same page.
@@ -92,7 +92,7 @@ This allows the rest of the team to ask questions during the Sprint Planning mee
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}">
-        <p class="highlight-card-title">Learn How to Run Sprint Planning Meetings With Best Practices →</p>
+        <p class="highlight-card-title">Read in-depth about sprint planning meetings and its best practices →</p>
         </a>    
     </div>
 </div>
@@ -101,7 +101,7 @@ This allows the rest of the team to ask questions during the Sprint Planning mee
 
 ---
 
-### Daily Scrum Standups
+## Daily Scrum Standups
 {: .fs-7 }
 
 The Daily Scrum (or Standups) meeting happens every day for 15 minutes after the Sprint begins. It is held to ensure that everyone knows the progress of the Sprint and is always in-sync to enable the team to course-correct if needed. 
@@ -118,7 +118,7 @@ During the Daily Scrum meeting, each member of the development team answers main
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-daily-standup-meeting.md %}">
-        <p class="highlight-card-title">Learn How to Run Daily Scrum Meetings With Best Practices →</p>
+        <p class="highlight-card-title">Learn how to run daily scrum meetings with best practices included →</p>
         </a>    
     </div>
 </div>
@@ -128,7 +128,7 @@ During the Daily Scrum meeting, each member of the development team answers main
 
 ---
 
-### Sprint Review
+## Sprint Review
 {: .fs-7 }
 
 The Sprint Review meeting is held once the Sprint is completed, but before it is pushed to production. This meeting is held by the Development Team, Scrum Master, and the Product Owner with other stakeholders invited to take part. 
@@ -140,7 +140,7 @@ In this meeting, the Scrum Team will demonstrate to the stakeholders what they b
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-review-meeting.md %}">
-        <p class="highlight-card-title">Learn How to Run Sprint Review Meetings With Best Practices →</p>
+        <p class="highlight-card-title">Read the ultimate guide to run sprint review meetings →</p>
         </a>    
     </div>
 </div>
@@ -149,7 +149,7 @@ In this meeting, the Scrum Team will demonstrate to the stakeholders what they b
 
 ---
 
-### Sprint Retrospective
+## Sprint Retrospective
 {: .fs-7 }
 
 Sprint Retrospective meeting is held after the Sprint review meeting. The scrum master and the development team participate in the meeting with the goal of improving themselves for future sprints. For a one month sprint, this meeting lasts for three hours.
@@ -166,7 +166,7 @@ The team usually tries to come up with what they'd like to do differently in the
 <div class="highlight-card">
     <div class="highlight-container">
         <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}">
-        <p class="highlight-card-title">Learn Best Practices to Run Sprint Retrospective Meetings →</p>
+        <p class="highlight-card-title">Learn everything you need to know about sprint retrospective meetings →</p>
         </a>    
     </div>
 </div>

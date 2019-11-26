@@ -22,6 +22,7 @@ While the concept of Kanban was initially successful on the production line, it 
 ---
 
 ## Kanban for Software Development
+{: .fs-7 }
 
 In the late 90s and early 2000s, there was a paradigm change happening in software development circles. People began to realise that the traditional top-down approach to building and shipping software was highly inefficient. 
 

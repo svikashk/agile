@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## IN THIS PAGE
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -28,6 +28,7 @@ publisher: Zepel
 ---
 
 ## Setting up your Kanban Board
+{: .fs-7 }
 
 Setting up your Kanban board is a four step process that we'll look into in detail.
 
@@ -93,6 +94,7 @@ As mentioned above, WIP limits are used by kanban teams to limit chaos. By limit
 ---
 
 ## Implementing Kanban
+{: .fs-7 }
 
 Now that your Kanban columns have been set up and WIP limits have been put in place, the last step is to populate your backlog (or whichever column comes first!). 
 
