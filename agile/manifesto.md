@@ -33,7 +33,7 @@ With market conditions and requirements changing rapidly, the software world has
 
 But it wasn’t always this way. 
 
-The agile movement was actually started at a ski resort in Snowbird, Utah. In this small town near Salt Lake City, 17 prominent engineers gathered together on February 2001 to create and sign the agile manifesto. This document would fundamentally change the way teams imagined, built, and deployed software products.
+The agile movement was started at a ski resort in Snowbird, Utah. In this small town near Salt Lake City, 17 prominent engineers gathered together in February 2001 to create and sign the agile manifesto. This document would fundamentally change the way teams imagined, built, and deployed software products.
 
 ---
 
