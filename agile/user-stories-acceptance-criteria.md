@@ -4,7 +4,7 @@ title: Acceptance Criteria - What Is It? Examples and Templates Included
 description: Learn what acceptance criteria is. Includes how to write it for user stories with templates and examples.
 page_title: Acceptance Criteria
 has_children: false
-parent: User Stories | How To Write | Templates And Examples Included
+parent: What Is A User Story? How To Write, Templates, And Examples Included
 parent_page_title: User Stories
 nav_order: 1
 permalink: user-stories/acceptance-criteria/
@@ -115,6 +115,9 @@ To make life easier, here’s a simple template you can use for writing acceptan
 In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=acceptance-criteria), we recommend users to add all acceptance criteria as a description to the user story, so when your team members pick it up, they have the full picture of what’s required to complete the user story and its related discussions all in one place.
 
 ![Acceptance criteria for a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
+<div class="caption">
+<small>Acceptance criteria for a user story in Zepel</small>
+</div>
 
 ---
 

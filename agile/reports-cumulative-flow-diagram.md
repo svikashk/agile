@@ -42,6 +42,9 @@ Consider a simple CFD for a Kanban board with 4 columns: Backlog, In Development
 
 
 ![Cumulative Flow Diagram](/agile/assets/uploads/cfd.png)
+<div class="caption">
+<small>A cumulative flow diagram</small>
+</div>
 
 
 The chart shows the number of items in each stage of the workflow over a period of time. To understand the distribution of work at any point in time, just read the graph for that particular day.  
@@ -52,6 +55,9 @@ The lines above this indicate the other statuses on the board and the number of 
 
 
 ![Scope Changes in Cumulative Flow Diagram](/agile/assets/uploads/scope-changes.png)
+<div class="caption">
+<small>When there is a sudden change in scope</small>
+</div>
 
 
 **Work in Progress** is indicated by the area between the lines that are not the “backlog” or the “deployed” states. This is an important measure as it is the biggest indicator of the performance and direction of the team.
@@ -66,6 +72,9 @@ The lines above this indicate the other statuses on the board and the number of 
 - **The Ideal Cumulative Flow Diagram:**
 
 ![Ideal Cumulative Flow Diagram](/agile/assets/uploads/ideal-cfd.png)
+<div class="caption">
+<small>An ideal cumulative flow diagram</small>
+</div>
 
 The completed items are growing steadily. This indicates that the team is steadily able to complete tasks and take up new ones.
 
@@ -80,6 +89,9 @@ When a team struggles in any part of their workflow, the chart will deviate from
 - **Work in Progress is constantly increasing:**
 
 ![Increasing Work-In-Progress in Cumulative Flow Diagram](/agile/assets/uploads/increasing-work-in-progress.png)
+<div class="caption">
+<small>When the work in progress is constantly increasing</small>
+</div>
 
 This graph shows that the team is taking up more work without completing current tasks. This is a surprisingly common pattern, especially for disorganised teams. A graph like this is usually an indicator that deadlines are not going to be met and targets will be missed.
 
@@ -90,6 +102,9 @@ This trend needs to be identified quickly and corrective measures need to be tak
 - **A Single Team is Getting Blocked**
 
 ![Single Team Blocked in Cumulative Flow Diagram](/agile/assets/uploads/single-team-blocked.png)
+<div class="caption">
+<small>The cumulative flow diagram when a single team is blocked</small>
+</div>
 
 When a single team is blocked, the area under the cumulative flow graph for that team is constantly decreasing. The blocked team is unable to keep up with the other teams who are completing their tasks much faster.
 
@@ -100,6 +115,9 @@ A good indicator that a team might be blocked is the flatlining of a particular 
 - **Multiple teams are simultaneously blocked**
 
 ![Multiple Teams Blocked in Cumulative Flow Diagram](/agile/assets/uploads/multiple-teams-blocked.png)
+<div class="caption">
+<small>The cumulative flow diagram when multiple teams are blocked</small>
+</div>
 
 When multiple teams are blocked, their respective statuses are constantly flatlined - leading to a graph like the one shown above. This situation arises when the entire team has stopped progress to work on something different. The most common scenario is when the entire team stops working on new features to fix a major production bug.
 
