@@ -64,9 +64,6 @@ Cycle time is the time taken by the team to resolve a ticket once someone starts
 Lead time is typically what the customer sees, while cycle time is an internal metric. 
 
 ![Lead time and cycle time](/agile/assets/uploads/lead-cycle-time.png)
-<div class="caption">
-<small>Lead time and cycle time</small>
-</div>
 
 ---
 
@@ -97,9 +94,6 @@ TAR gives you the rate at which tasks are added on a daily basis. It gives you t
 CFD is the most popular chart used by Kanban teams. It gives you a visual overview of the entire process and shows the overall progress of the team over time. At any point in time, the CFD shows you the number of items in each column of the kanban board. 
 
 ![Cumulative Flow Diagram](/agile/assets/uploads/cfd.png)
-<div class="caption">
-<small>Cumulative Flow Diagram</small>
-</div>
 
 The most common use of the CFD is to track total WIP. It can also be used to monitor other important metrics like average cycle and lead times. 
 
@@ -112,9 +106,6 @@ Cycle time scatter plots show you the cycle times of individual issues as they a
 Advanced versions of this chart can be used to predict completion times of issues based on historical data.
 
 ![Cycle Time Scatterplot](/agile/assets/uploads/cycle-time-scatterplot.png)
-<div class="caption">
-<small>Cycle Time Scatterplot</small>
-</div>
 
 ---
 
@@ -125,9 +116,6 @@ The Cycle Time Histogram gives you the distribution of cycle times across issues
 A high distribution of cycle times on the histogram indicates too much unpredictability in process. 
 
 ![Cycle Distribution Chart](/agile/assets/uploads/cycle-distribution-chart.png)
-<div class="caption">
-<small>Cycle Distribution Chart</small>
-</div>
 
 ---
 
@@ -136,9 +124,6 @@ A high distribution of cycle times on the histogram indicates too much unpredict
 The Ageing Chart shows the cycle times of different in-progress items in all the columns of the kanban board (as opposed to the cycle time of completed items). This chart gives you a view of how long each item spends in every column. 
 
 ![Ageing Chart](/agile/assets/uploads/ageing-chart.png)
-<div class="caption">
-<small>Ageing Chart</small>
-</div>
 
 ---
 
@@ -147,9 +132,6 @@ The Ageing Chart shows the cycle times of different in-progress items in all the
 The Throughput Chart shows you the amount of work being delivered by the team on a daily basis. A Throughput Histogram can be used to analyse the distribution of historical throughput rates.
 
 ![Throughput Chart](/agile/assets/uploads/throughput-chart.png)
-<div class="caption">
-<small>Throughput Chart</small>
-</div>
 
 ---
 

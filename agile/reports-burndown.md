@@ -37,9 +37,6 @@ Burndown charts are fairly simple to understand but teams often struggle to unde
 {: .fs-7 }
 
 ![Parts of Burndown Chart](/agile/assets/uploads/burndown-chart.png)
-<div class="caption">
-<small>The different parts of a burndown chart</small>
-</div>
 
 - **X Axis:**
 
@@ -66,9 +63,6 @@ This is a diagonal line drawn downwards, from left to right on the graph. Your s
 This is a plot of how many tasks remain in the sprint at any given date. As tasks are completed across time, the progress line starts moving downwards. The biggest advantage with this method is that the graph is easy to understand.
 
 ![Tasks Remaining in Burndown Chart](/agile/assets/uploads/tasks-remaining.png)
-<div class="caption">
-<small>Items remaining in a burndown chart</small>
-</div>
 
 The drawback of using this type of burndown chart is that tasks are not estimated. Not all tasks take equal effort to complete. Very often, teams which leave the difficult tasks for the end of the sprint find that they are unable to complete all tasks despite being “on track” for most of the duration.
 
@@ -79,9 +73,6 @@ The drawback of using this type of burndown chart is that tasks are not estimate
 This is a plot of how many story/estimate points remain as time progresses. Story points are a great way to estimate tasks by their complexity. This normalizes effort needed to complete tasks.
 
 ![Points Remaining in Burndown Chart](/agile/assets/uploads/points-remaining.png)
-<div class="caption">
-<small>Points remaining in a burndown chart</small>
-</div>
 
 The plot ends up similar to the previous method but estimate points remove the ambiguity that comes with tracking task completion.
 
@@ -111,9 +102,6 @@ Burndown Charts are an indicator of a Sprint team’s performance. During a spri
 The Burndown Graph is read by comparing the sprint progress line to the guideline. The closer the two lines are to each other, the better your chances are of completing all tasks by the deadline.
 
 ![Reading a Burndown Chart](/agile/assets/uploads/reading-burndown.png)
-<div class="caption">
-<small>How to read a burndown chart</small>
-</div>
 
 1. **Behind schedule:** If the progress line is above the guideline, it means your team is behind schedule and should have ideally completed more work by this point.
 
@@ -133,9 +121,6 @@ Here are some common patterns you are likely to observe while using burndown cha
 Teams that update their statuses in chunks ( at the end of every week for example) end up with a stepped graph. Regular status updates give a more accurate graph. Ideally, Sprint teams should keep their tasks updated on a daily basis.
 
 ![Irregular updates in a Burndown Chart](/agile/assets/uploads/irregular-burndown-updates.png)
-<div class="caption">
-<small>A burndown chart with irregular updates</small>
-</div>
 
 A stepped graph is also sometimes the result of improper breakdown of tasks. If tasks are not broken down enough, individual issues may take a long time to complete: leading to an illusion of a lack of progress over several days. The best way to avoid this is to break down large tasks into small executable chunks of work.
 
@@ -144,9 +129,6 @@ A stepped graph is also sometimes the result of improper breakdown of tasks. If 
 - **Progress updated at the end of the sprint**
 
 ![End of Sprint updates in a Burndown Chart](/agile/assets/uploads/end-of-sprint-updates.png)
-<div class="caption">
-<small>When updates are made at the end of the Sprint</small>
-</div>
 
 This is the burndown chart of a team that updates all their statuses a day before the sprint review meeting. This chart adds very little value during a retrospective and teams should make sure their statuses are updated daily.
 
@@ -157,9 +139,6 @@ This is the burndown chart of a team that updates all their statuses a day befor
 This graph represents a team that overestimated the time it would take to complete tasks.
 
 ![Ahead of Schedule as per Burndown Chart](/agile/assets/uploads/ahead-burndown.png)
-<div class="caption">
-<small>How a burndown chart looks when you are ahead of the schedule</small>
-</div>
 
 If this team maintains their current velocity, they will end up completing all tasks well before the sprint end date. The product owner needs to add more tasks to the sprint (represented by the steep rise in the estimate), in order to keep the team busy for the entire duration of the sprint.
 
@@ -170,9 +149,6 @@ If this team maintains their current velocity, they will end up completing all t
 This is the burndown graph of a team that is struggling to keep up with the ideal guideline.
 
 ![Behind Schedule as per Burndown Chart](/agile/assets/uploads/behind-burndown.png)
-<div class="caption">
-<small>A burndown chart when the team is behind schedule</small>
-</div>
 
 This is most likely because they underestimated the effort required to complete their tasks. The two ways to correct course is to:
 
@@ -199,9 +175,6 @@ As discussed above, changes in the backlog size are not captured effectively on 
 Burndown Charts focus on completion of issues. Status changes during the “in progress” state aren’t captured on the burnup or burndown chart. This can often lead to the illusion that no progress is being made by the team. To account for changes in status of items in progress, [cumulative flow diagrams]({{ site.url }}{{ site.baseurl }}{% link agile/reports-cumulative-flow-diagram.md %}) or control charts can be used.
 
 ![Cumulative Flow Diagram](/agile/assets/uploads/cfd.png)
-<div class="caption">
-<small>A cumulative flow diagram</small>
-</div>
 
 ---
 

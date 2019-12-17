@@ -25,9 +25,7 @@ The most common medium to track work is through a physical board with stick-it n
 
 
 ![A Physical Kanban Board with stick-it notes](/agile/assets/uploads/physical-kanban-board.png)
-<div class="caption">
-<small>A Physical Kanban Board with stick-it notes</small>
-</div>
+
 
 As teams get larger and workflows get more complex, it makes sense to move away from physical boards to project management tools that support Kanban boards. 
 
@@ -48,9 +46,7 @@ Software development teams are increasingly moving to online project management 
 The most basic Kanban process can be implemented on a board containing just 3 columns : to do , doing and done. 
 
 ![A Simple Kanban Process](/agile/assets/uploads/simple-kanban.png)
-<div class="caption">
-<small>Image credits: <a href="https://www.shmula.com/implementing-kanban-boards-as-part-of-the-lean-methodology/22351/">Shmula</a></small>
-</div>
+<small>Image credits: [Shmula](https://www.shmula.com/implementing-kanban-boards-as-part-of-the-lean-methodology/22351/)</small>
 
 All the items of work are initially in the “to do” column. As work gets picked up and worked on by team members, the respective cards are moved column to column till they reach the completed state.
 

@@ -87,9 +87,6 @@ Before the sprint planning meeting, make sure the backlog is groomed **with full
 If you're using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=sprint-planning), you can quickly add more details to your user story by adding detailed description, attachments, and comments. That way, every member has the full picture of what each user story tries to achieve and everyone is on the same page.
 
 ![Description for a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
-<div class="caption">
-<small>Add details to a user story in Zepel with descriptions</small>
-</div>
 
 This allows the product owner and scrum master to fill details and context to user stories that might not be fully formed and come prepared for the sprint planning meeting.
 
@@ -116,9 +113,6 @@ Once your development team breaks your user stories down to tasks and subtasks, 
 Be sure to add each work item to a Sprint on your project management tool and ensure each member has at least one item to work on and nobody is duplicating work. Once you've added items into a Sprint, be sure to reiterate the goal for the Sprint and show your team the list of work items the team will be working on.
 
 ![Plan Sprints in Zepel](/agile/assets/uploads/zepel-sprints.png)
-<div class="caption">
-<small>Sprints in Zepel</small>
-</div>
 
 In Zepel, once you've added items into a Sprint, set a start and an end date for your Sprint based on the total estimate. This will ensure that everyone can see how the sprint is progressing and know who is responsible for what.
 

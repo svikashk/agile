@@ -29,11 +29,6 @@ When a company decides to use Scrum, one of the first things to understand is ho
 ---
 
 ![Three Roles in Scrum](/agile/assets/uploads/scrum-roles.png)
-<div class="caption">
-<small>The three different types of roles in Scrum</small>
-</div>
-
----
 
 ## The Development Team
 {: .fs-7 }

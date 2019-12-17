@@ -39,9 +39,6 @@ But which one should you choose for your team? Let's jump in and find out.
 [Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an agile framework that involves breaking down large blocks of work into smaller, executable chunks. These chunks of work are taken up by cross functional development teams and delivered in time-boxed [sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) that may vary in duration from a single week to being close to a month-long. 
 
 ![Three Roles in Scrum](/agile/assets/uploads/scrum-roles.png)
-<div class="caption">
-<small>The three different roles in Scrum</small>
-</div>
 
 ---
 
@@ -53,9 +50,7 @@ But which one should you choose for your team? Let's jump in and find out.
 The most common Kanban implementations used by software teams are on physical Kanban boards (whiteboards with sticky notes) or digital project management tools that support Kanban boards. 
 
 ![What is Kanban](/agile/assets/uploads/what-is-kanban.png)
-<div class="caption">
-<small><a href="https://productivityland.com/what-is-kanban-board/">Image Source: Productivity Land</a></small>
-</div>
+<small>[Image Source: Productivity Land](https://productivityland.com/what-is-kanban-board/)
 
 ---
 
