@@ -1,10 +1,10 @@
 ---
 layout: default
-title: User Stories | How To Write | Templates And Examples Included
+title: What Is A User Story? How To Write, Templates, And Examples Included
 page_title: User Stories
 has_children: true
 nav_order: 5
-description: Learn how to write good user stories. Format, templates, best practices, and examples included in this extensive guide.
+description: Learn what user stories are and how to write user stories. Format, templates, best practices, and examples included in this extensive guide.
 permalink: user-stories/
 icon_path: /assets/uploads/my-tasks.svg
 author: Vikash Koushik
@@ -12,7 +12,7 @@ date: May 09, 2019
 publisher: Zepel
 ---
 
-## User Stories
+## User Stories - How To Write, Templates, And Examples
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:
@@ -53,14 +53,14 @@ That means, user stories do not contain technical details of how the feature wil
 
 Writing a user story might seem like an easy thing, once you’ve collected enough information about your users, their needs, and what their goals are.
 
-But when the feature’s quality is on the line and depends on how well you define the user story, you simply can’t sit back and hope for the best, can you?
+But when your feature’s quality depends on how well you define the user story, you simply can’t afford to wing it when it comes to writing user stories, can you?
 
 ---
 
 ## Templates to write the perfect user story
 {: .fs-7 }
 
-Writing a user story that everyone in your team understands, simple, and is to the point without technical details can be hard. The further you drift away from talking from a user’s perspective, the more details you’ll add and lesser useful it’ll be for you and your team.
+Writing a user story that everyone in your team understands, is simple, and to the point without technical details can be hard. The further you drift away from talking from a user’s perspective, the more details you’ll add and lesser useful it’ll be for you and your team.
 
 Luckily you can take the below templates to write user stories and unite your team to focus on one true cause - solving your user’s problems.
 
@@ -95,6 +95,9 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once you've created a User Story, you can effortlessly capture more details and view everything about the user story with a unified view.
 
 ![Example of a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
+<div class="caption">
+<small>Example of a user story in Zepel</small>
+</div>
 
 ---
 
@@ -130,6 +133,10 @@ Tech debts and improvements have their place in your product backlog and must be
 If you’re using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), you can add your tech debts and improvements as an Enhancement. And of course, User Stories, Bugs, and Tasks (and subtasks) too.
 
 ![User stories, enhancements, tasks and bugs in Zepel](/agile/assets/uploads/zepel-items.png)
+<div class="caption">
+<small>A list of user stories, enhancements, tasks, subtasks, and bugs in Zepel</small>
+</div>
+
 
 - **They are negotiable:**
 

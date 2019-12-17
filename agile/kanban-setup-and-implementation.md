@@ -54,6 +54,9 @@ The last step is to map relationships and dependencies on external stakeholders 
 You could represent this with the help of a flowchart.
 
 ![High Level Process Overview](/agile/assets/uploads/kanban-process-overview.png)
+<div class="caption">
+<small>High Level Process Overview</small>
+</div>
 
 ---
 
@@ -76,7 +79,10 @@ A common mistake that people often make when setting up the Kanban board is to h
 
 - If you are unable to create a kanban board that captures your workflow accurately - the basic 4 step kanban board for software development will be the ideal place to start.
 
-![The process is then visualised on a Kanban board with WIP Limits](/agile/assets/uploads/kanban-with-wip-limits.png)
+![Process visualised on a Kanban board with WIP Limits](/agile/assets/uploads/kanban-with-wip-limits.png)
+<div class="caption">
+<small>Process visualised on a Kanban board with WIP Limits</small>
+</div>
 
 ---
 
@@ -99,6 +105,9 @@ As mentioned above, WIP limits are used by kanban teams to limit chaos. By limit
 Now that your Kanban columns have been set up and WIP limits have been put in place, the last step is to populate your backlog (or whichever column comes first!). 
 
 ![A Populated Kanban Board](/agile/assets/uploads/kanban-populated.png)
+<div class="caption">
+<small>A Populated Kanban Board</small>
+</div>
 
 With a populated first column, your team is ready to implement Kanban. No more planning meetings are required. Assign cards to each member of the team, so they can work on continuously moving the cards through the columns. 
 

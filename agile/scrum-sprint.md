@@ -53,6 +53,11 @@ During an active sprint, the team checks-in, usually daily, in a standup or [dai
 
 At the end of the sprint, the team shows what they completed in a [sprint review meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-review-meeting.md %}) to all the stakeholders before deploying it to production. Once deployed, the team sits together to identify areas where they can all improve and be better at in a [sprint retrospective meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}).
 
+![Sprints in Zepel](/agile/assets/uploads/zepel-sprints.png)
+<div class="caption">
+<small>Sprints in Zepel</small>
+</div>
+
 It sounds like a lot, I know. But we've written in detail on each phase of the cycle and how you should conduct each scrum meeting (or ceremonies) [over here]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}).
 
 ---

@@ -94,6 +94,9 @@ When you identify possible roadblocks be sure to note it down separately. At the
 It is very easy to go off topic and into a worm hole. This often leads to increasing the length of the meeting and decreases the team's productivity. A good way to counter this is to have your project management tool open as your team shares their progress. 
 
 ![Running Daily Scrum Standup Meeting in Zepel](/agile/assets/uploads/zepel-daily-scrum-standup.gif)
+<div class="caption">
+<small>Filtering a Scrum Board in Zepel</small>
+</div>
 
 If you're using Zepel to run Sprints, your team can open up the Sprint Board and filter by assignee. This shows you all the items assigned to a specific person and allows team members to stay focussed during the daily scrum meeting.
 
@@ -108,6 +111,9 @@ New work items, ideas or plans shouldn't be introduced in a daily scrum meeting.
 Be sure to keep an eye on how many days are remaining versus how many estimation points are remaining. A good way to quickly know if you are likely to hit the deadline is to use the burndown graph and see how your team is performing in comparison to the ideal guideline.
 
 ![Sprint burn down graph in Zepel](/agile/assets/uploads/zepel-sprints.png)
+<div class="caption">
+<small>Sprints in Zepel along with its Burndown chart</small>
+</div>
 
 You can learn more about [how to read a burndown chart in this in-depth guide]({{ site.url }}{{ site.baseurl }}{% link agile/reports-burndown.md %}).
 
