@@ -47,8 +47,8 @@ If you ever find people around you sit through multiple meetings, use words like
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/reports.md %}">
-    <p class="card-title">←  Read Previous: Agile Reports</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/agile-software-development.md %}">
+    <p class="card-title">← Read Previous: Agile Development</p> 
     </a>
   </div>
 </div>

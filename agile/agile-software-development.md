@@ -243,8 +243,8 @@ Once features are specified, teams can implement best practices from other frame
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/index.md %}">
-    <p class="card-title">←  Read Previous: Home</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/manifesto.md %}">
+    <p class="card-title">← Read Previous: Agile Manifesto</p> 
     </a>
   </div>
 </div>
@@ -253,8 +253,8 @@ Once features are specified, teams can implement best practices from other frame
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/manifesto.md %}">
-    <p class="card-title">Read Next: What is Agile Manifesto?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}">
+    <p class="card-title">Read Next: What is Scrum?  →</p>
     </a>
   </div>
 </div>

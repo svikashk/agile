@@ -149,8 +149,8 @@ Improving processes constantly is one of the principles encouraged by the agile 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}">
-    <p class="card-title">Read Next: What is Scrum?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/agile-software-development.md %}">
+    <p class="card-title">Read Next: Agile Development →</p> 
     </a>
   </div>
 </div>
