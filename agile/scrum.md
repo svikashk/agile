@@ -2,7 +2,7 @@
 layout: default
 title: What is Scrum? Includes best practices | Agile Library
 page_title: Scrum 
-nav_order: 2
+nav_order: 4
 has_children: true
 icon_path: /assets/uploads/sprints.svg
 description: What is Scrum and how to implement it with best practices
@@ -12,7 +12,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## What is Scrum?
+# What is Scrum?
 {: .fs-9 }
 
 For more than a decade, companies have adopted the Scrum approach and its principles. Since then, interest in adopting it by other companies has constantly been on the rise.

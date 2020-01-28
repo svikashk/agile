@@ -13,7 +13,7 @@ date: May 09, 2019
 publisher: Zepel
 ---
 
-## Acceptance Criteria For User Stories In Agile
+# Acceptance Criteria For User Stories In Agile
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:

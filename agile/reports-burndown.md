@@ -13,7 +13,7 @@ date: November 26, 2018
 publisher: Zepel
 ---
 
-## Understanding Burndown Charts
+# Understanding Burndown Charts
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:

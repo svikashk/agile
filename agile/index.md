@@ -22,7 +22,7 @@ Agile is a step-by-step, iterative approach to project management and software d
 
 Rather than launching the entire product, agile suggests that the team ships in small, consumable increments, so teams can respond quickly to the changing user requirements.
 
----
+Learn more about Agile and its methodologies from the following articles:
 
 <div class="row">
 <div class="column">
@@ -39,9 +39,9 @@ Rather than launching the entire product, agile suggests that the team ships in 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}/kanban/">
-    <h4 class="card-title"><b>Scrum</b></h4> 
-    <p>Learn how to build and ship features faster using Scrum framework.</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}/agile-software-development/">
+    <h4 class="card-title"><b>Agile Software Development</b></h4> 
+    <p>Learn everything you need to know about Agile Software Development.</p> 
     </a>
   </div>
 </div>
@@ -52,6 +52,17 @@ Rather than launching the entire product, agile suggests that the team ships in 
 <div class="column">
 <div class="card">
   <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}/kanban/">
+    <h4 class="card-title"><b>Scrum</b></h4> 
+    <p>Learn how to build and ship features faster using Scrum framework.</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}/reports/">
     <h4 class="card-title"><b>Kanban</b></h4> 
     <p>Learn everything you need to know about Kanban methodology.</p> 
@@ -59,7 +70,9 @@ Rather than launching the entire product, agile suggests that the team ships in 
   </div>
 </div>
 </div>
+</div>
 
+<div class="row">
 <div class="column">
 <div class="card">
   <div class="container">

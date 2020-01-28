@@ -2,7 +2,7 @@
 layout: default
 title: Kanban - An Introduction | Agile Library
 page_title: Kanban
-nav_order: 3
+nav_order: 5
 has_children: true
 icon_path: /assets/uploads/boards.svg
 description: Introduction to Kanban for Software Teams following Agile Methodology
@@ -12,7 +12,7 @@ Date: September 18, 2019
 publisher: Zepel
 ---
 
-## Introduction to Kanban
+# Introduction to Kanban
 {: .fs-9 .no_toc }
 
 The concept of Kanban boards traces its origin back to the 1940s when Toyota introduced it on the factory floor. Toyota automotive realized that their production lines were a lot less efficient when compared to their American counterparts. The aim behind introducing this new method of production was to control inventory and improve the speed of delivery while maintaining the highest standards of production quality.

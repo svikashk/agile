@@ -6,14 +6,14 @@ has_children: false
 parent: Kanban - An Introduction | Agile Library
 parent_page_title: Kanban
 nav_order: 4
-description: Want to improve processes within your agile team? Here are the metrics you should track and charts you should follow.
+description: Want to improve processes within your agile team? Here are kanban metrics you should track and charts you should follow.
 permalink: kanban/charts-and-metrics/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
 publisher: Zepel
 ---
 
-## Metrics and Charts for Kanban
+# Metrics and Charts for Kanban
 {: .fs-9 .no_toc }
 
 ---

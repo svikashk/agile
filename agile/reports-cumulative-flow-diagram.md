@@ -13,7 +13,7 @@ date: January 23, 2019
 publisher: Zepel
 ---
 
-## Understanding Cumulative Flow Diagram
+# Understanding Cumulative Flow Diagram
 {: .fs-9 .no_toc }
 
 The cumulative flow diagram is one of the most common charts used to track progress for agile teams. You can generate the chart using just a kanban board with tasks being moved across columns. No additional data is required.
