@@ -14,7 +14,7 @@ Date: September 18, 2019
 publisher: Zepel
 ---
 
-## Summary of Kanban
+# Summary of Kanban
 {: .fs-9 .no_toc }
 
 - The Kanban methodology helps teams track progress by visualising  their workflows on a  kanban board.

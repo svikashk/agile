@@ -2,7 +2,7 @@
 layout: default
 title: Understand the different types of Reports | Agile Library
 page_title: Reports
-nav_order: 6
+nav_order: 8
 has_children: true
 icon_path: /assets/uploads/reports.svg
 description: Unsure how to make sense of the agile reports? This guide has you covered.
@@ -12,7 +12,7 @@ date: September 13, 2019
 publisher: Zepel
 ---
 
-## Agile Reports
+# Agile Reports
 {: .fs-9 }
 
 Reports aren't helpful just for product managers, but can be useful for the individual contributors and the developers as well.

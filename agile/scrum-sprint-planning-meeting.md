@@ -13,7 +13,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## Sprint Planning Meeting
+# Sprint Planning Meeting
 {: .fs-9 .no_toc }
 
 ---
