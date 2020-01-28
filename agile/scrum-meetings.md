@@ -13,7 +13,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## Scrum Ceremonies or Meetings 
+# Scrum Ceremonies or Meetings 
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:

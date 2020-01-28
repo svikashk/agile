@@ -2,7 +2,7 @@
 layout: default
 title: Scrum vs Kanban - 5 questions to answer before you choose
 page_title: Scrum vs Kanban
-nav_order: 4
+nav_order: 6
 has_children: false
 icon_path: /assets/uploads/scrum-vs-kanban.svg
 description: Scrum and Kanban are two of the most common agile frameworks used for software development. Explore how you can choose between the two for your team!
@@ -12,7 +12,7 @@ date: November 20, 2019
 publisher: Zepel
 ---
 
-## Scrum or Kanban: 5 questions to answer before you choose
+# Scrum or Kanban: 5 questions to answer before you choose
 {: .fs-9 .no_toc }
 
 The [agile manifesto]({{ site.url }}{{ site.baseurl }}{% link agile/manifesto.md %}) consists of guiding principles that help software development teams incorporate feedback and make changes faster. 

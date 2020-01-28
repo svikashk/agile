@@ -13,7 +13,7 @@ date: September 23, 2019
 publisher: Zepel
 ---
 
-## Backlog in Scrum
+# Backlog in Scrum
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:

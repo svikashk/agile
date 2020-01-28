@@ -13,7 +13,7 @@ date: Sepetember 13, 2019
 publisher: Zepel
 ---
 
-## Sprint in Scrum
+# Sprint in Scrum
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:

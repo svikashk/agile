@@ -13,7 +13,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## Daily Scrum Standup
+# Daily Scrum Standup
 {: .fs-9 .no_toc }
 
 ---

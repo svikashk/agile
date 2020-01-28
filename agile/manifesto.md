@@ -12,7 +12,7 @@ date: November 26, 2019
 publisher: Zepel
 ---
 
-## Guide To Agile Manifesto
+# Guide To Agile Manifesto
 {: .fs-9 .no_toc }
 
 ---
@@ -24,7 +24,7 @@ publisher: Zepel
 {:toc}
 ---
 
-## Introduction 
+## Introduction To Agile Manifesto
 {: .fs-7 }
 ### How a group of engineers changed software development forever.
 {: .no_toc }
@@ -139,8 +139,8 @@ Improving processes constantly is one of the principles encouraged by the agile 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/index.md %}">
-    <p class="card-title">←  Read Previous: Home</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/agile-software-development.md %}">
+    <p class="card-title">← Read Previous: Agile Development</p> 
     </a>
   </div>
 </div>
