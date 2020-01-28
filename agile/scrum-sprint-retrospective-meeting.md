@@ -13,7 +13,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## Sprint Retrospective Meeting
+# Sprint Retrospective Meeting
 {: .fs-9 .no_toc }
 
 ---

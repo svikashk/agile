@@ -14,20 +14,10 @@ Date: September 18, 2019
 publisher: Zepel
 ---
 
-## When to use Kanban
-{: .fs-9 }
+# When to use Kanban
+{: .fs-9 .no_toc }
 
 In this guide, we will look at when you should use Kanban within your team and how you can get your team ready and adopt Kanban.
-
----
-
-## IN THIS PAGE
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 **Your Team has less time for planning meetings**
 

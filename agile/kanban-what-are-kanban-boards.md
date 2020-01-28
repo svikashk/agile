@@ -7,14 +7,14 @@ has_children: false
 parent: Kanban - An Introduction | Agile Library
 parent_page_title: Kanban
 nav_order: 1
-description: Best practices and tutorials on Agile
+description: Kanban Board is an agile project management tool that helps you visualize the work and track its progress. Learn more about Kanban Boards.
 permalink: kanban/what-are-kanban-boards/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
 publisher: Zepel
 ---
 
-## What are Kanban Boards
+# What are Kanban Boards
 {: .fs-9 .no_toc }
 
 The first principle of Kanban is to visually track every item of work through the entire process. This applies to software or any other item of work that has to move through various stages to completion. 
@@ -45,7 +45,7 @@ Software development teams are increasingly moving to online project management 
 1. Handling a large number of cards, editing them and modifying workflows are much easier on online project management tools.
 1. Risk of data loss is almost zero.
 
-The most basic Kanban process can be implemented on a board containing just 3 columns : to do , doing and done. 
+The most basic Kanban process can be implemented on a board containing just 3 columns : to do, doing, and done. 
 
 ![A Simple Kanban Process](/agile/assets/uploads/simple-kanban.png)
 <div class="caption">
@@ -56,12 +56,11 @@ All the items of work are initially in the “to do” column. As work gets pick
 
 The most important aspect of this way of working is that the visibility of tasks is greatly improved. Important decisions regarding work progress and improvements in processes can be made without being in the dark.
 
-
 The basic principles of Kanban can be applied to more complex processes by creating more columns on the board. There are best practices to be followed to ensure that the right columns are chosen. This is crucial as having too many or too few columns can disrupt the overall workflow and cause artificial bottlenecks. 
 
-Here are  a few with more complex workflows modelled into the board.
+Here are a few with more complex workflows modelled into the board.
 
-In the next chapter we discuss where Kanban works best and how to prepare your team to adopt the Kanban methodology.
+In the next chapter we discuss what a Kanban card is and the different parts of a Kanban card.
 
 ---
 
@@ -93,8 +92,8 @@ In the next chapter we discuss where Kanban works best and how to prepare your t
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-when-to-use.md %}">
-    <p class="card-title">Read Next: When to use Kanban?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
+    <p class="card-title">Read Next: What is a Kanban Card?  →</p>
     </a>
   </div>
 </div>

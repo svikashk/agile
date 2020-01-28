@@ -7,14 +7,14 @@ has_children: false
 parent: Kanban - An Introduction | Agile Library
 parent_page_title: Kanban
 nav_order: 3
-description: Implementing Kanban? Here is a best practice on how to set it up and implement within your team.
+description: Implementing Kanban? Here is a best practice on how to set up Kanban and implement it within your team.
 permalink: kanban/setup-and-implementation/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
 publisher: Zepel
 ---
 
-## Setting Up And Implementing Kanban
+# Setting Up And Implementing Kanban
 {: .fs-9 .no_toc }
 
 ---

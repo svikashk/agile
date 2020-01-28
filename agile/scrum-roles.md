@@ -13,7 +13,7 @@ date: December 12, 2018
 publisher: Zepel
 ---
 
-## Scrum Roles
+# Scrum Roles
 {: .fs-9 .no_toc }
 
 When a company decides to use Scrum, one of the first things to understand is how Scrum roles differ from traditional project management roles. While there are only three main roles in Scrum, they don't automatically align with titles familiar to most of us. 
