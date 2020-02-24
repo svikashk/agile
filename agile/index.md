@@ -52,7 +52,7 @@ Learn more about Agile and its methodologies from the following articles:
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}/kanban/">
+    <a href="{{ site.url }}{{ site.baseurl }}/scrum/">
     <h4 class="card-title"><b>Scrum</b></h4> 
     <p>Learn how to build and ship features faster using Scrum framework.</p> 
     </a>
@@ -63,7 +63,7 @@ Learn more about Agile and its methodologies from the following articles:
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}/reports/">
+    <a href="{{ site.url }}{{ site.baseurl }}/kanban/">
     <h4 class="card-title"><b>Kanban</b></h4> 
     <p>Learn everything you need to know about Kanban methodology.</p> 
     </a>
