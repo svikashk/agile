@@ -151,7 +151,7 @@ Digital Kanban Cards are convenient to use and offer teams the following advanta
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
-    <p class="card-title">←  Read Previous: Kanban Boards?</p> 
+    <p class="card-title">←  Read Previous: Kanban Boards</p> 
     </a>
   </div>
 </div>

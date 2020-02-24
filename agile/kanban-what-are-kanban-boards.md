@@ -83,7 +83,7 @@ In the next chapter we discuss what a Kanban card is and the different parts of 
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">←  Read Previous: Agile Kanban?</p> 
+    <p class="card-title">←  Read Previous: Agile Kanban</p> 
     </a>
   </div>
 </div>

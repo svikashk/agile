@@ -73,8 +73,8 @@ After getting management buy in, it is essential to get your teams organised to 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
-    <p class="card-title">←  Read Previous: What is Kanban?</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
+    <p class="card-title">←  Read Previous: Kanban Cards</p> 
     </a>
   </div>
 </div>

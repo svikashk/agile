@@ -175,6 +175,32 @@ The team usually tries to come up with what they'd like to do differently in the
 
 ---
 
+---
+
+<div class="row">
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}">
+    <p class="card-title">←  Read Previous: Scrum Sprint</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}">
+    <p class="card-title">Read Next: Sprint Planning Meeting  →</p>
+    </a>
+  </div>
+</div>
+</div>
+</div>
+
+---
+
 <div class="row">
   <div class="column">
     <div class="author-card">
