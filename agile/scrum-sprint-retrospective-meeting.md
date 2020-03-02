@@ -104,7 +104,7 @@ If you ran a sprint prior to this, you most liekly had few points that you wante
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrummeetings" target="_blank">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=sprint-retrospective" target="_blank">
         <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
         </a>    
     </div>
@@ -128,8 +128,8 @@ If you ran a sprint prior to this, you most liekly had few points that you wante
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">Read Next: Agile Kanban  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-story-points.md %}">
+    <p class="card-title">Read Next: Story Points  →</p>
     </a>
   </div>
 </div>
