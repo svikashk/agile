@@ -130,7 +130,7 @@ You can learn more about [how to read a burndown chart in this in-depth guide]({
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrummeetings" target="_blank">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=daily-scrum" target="_blank">
         <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
         </a>    
     </div>
