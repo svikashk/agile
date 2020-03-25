@@ -54,6 +54,29 @@ All members of the sprint should attend the sprint planning meeting. That is:
 
 When you’re discussing to agree on what everyone will deliver at the end of the sprint, it’s best to get everyone’s input and perspective before you move forward. After all, you wouldn’t want to miss any edge cases.
 
+**Here's how each member will contribute to the sprint planning meeting:**
+
+### The Scrum Master
+{: .no_toc }
+
+The role of a Scrum Master during a sprint planning meeting is to facilitate the meeting and make sure meeting rooms are book, supplies are available, and people are prepared before the meeting. From a facilitating and scheduling point of view, the Scrum Master timeboxes the sprint planning meeting based on the sprint's duration. 
+
+For example, if the sprint's duration is 4 weeks, the sprint planning meeting should not exceed 8 hours. Of course, it would be hard for the team to do this in one sitting. So the Scrum Master should take the responsibility of  appropriately managing the time and ensure there is complete alignment on the sprint goal and sprint backlog at the end of the meeting.
+
+### The Product Owner
+{: .no_toc }
+
+The Product Owner is responsible for coming up with an updated backlog before the meeting. Their role during the meeting is to clarify questions and details on item. Since the product owner will have the maximum context, they should be help the team understand the use case and come up with an acceptance criteria for each item. As someone who will be answering question and clarifying doubts, it is therefore essential for a product owner to be equipped with any and all information they might need and come prepared.
+
+### The Development Team
+{: .no_toc }
+
+Of course, the people who will be executing each of these items in the sprint should be a part of this meeting. That could be anyone — designers, developers, QA team, marketing, sales, customer support. 
+
+Irrespective of the team they belong to, if they'll be executing any of the user stories or tasks in the sprint, they should be part of the sprint planning meeting. Bringing them onboard early ensures they get a full understanding of what they'll be working on and more importantly and why they'll be working on something.
+
+<div class='mailmunch-forms-widget-880884'></div>
+
 ---
 
 ## How long should a Sprint Planning Meeting last?
@@ -131,17 +154,7 @@ In Zepel, once you've added items into a Sprint, set a start and an end date for
 
 ---
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=sprint-planning" target="_blank">
-        <p class="highlight-card-title">See how you can ship quality, bug-free features with Sprints in Zepel  →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+<div class='mailmunch-forms-widget-880884'></div>
 
 ---
 
