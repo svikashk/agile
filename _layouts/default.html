@@ -106,5 +106,10 @@
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
   {% endif %}
+
+  {% if site.add-mailmunch == true %}  
+  <!-- MailMunch Code -->
+  <script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="{{ site.mailmunch-id }}" async="async"></script>
+  {% endif %}
 </body>
 </html>

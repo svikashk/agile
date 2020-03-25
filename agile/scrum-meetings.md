@@ -87,17 +87,7 @@ The goal of this meeting is to prioritise user stories in the [backlog]({{ site.
 
 This allows the rest of the team to ask questions during the Sprint Planning meeting, estimate with better accuracy, chime in with suggestions, and ultimately help the team to come up with sprint goal.
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}">
-        <p class="highlight-card-title">Read in-depth about sprint planning meetings and its best practices →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+<div class='mailmunch-forms-widget-880884'></div>
 
 ---
 
