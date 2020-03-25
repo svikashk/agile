@@ -50,6 +50,8 @@ User stories are short, simple descriptions of how a feature will be used. They 
 
 That means, user stories do not contain technical details of how the feature will be built nor contain feature specs. As the name suggests, they will have only a story of why your user will use a feature and for what benefit.
 
+<img src="/agile/assets/uploads/user-stories.png" class="user-stories-img" alt="an illustration of a man with user stories"/>
+
 > If you think about it, every feature you build has little to do with advanced functionalities and everything to do with satisfying the user’s needs.
 
 Writing a user story might seem like an easy thing, once you’ve collected enough information about your users, their needs, and what their goals are.
@@ -69,7 +71,7 @@ Luckily you can take the below templates to write user stories and unite your te
 
 Also known as the [Connextra format](https://www.agilealliance.org/glossary/role-feature/) in recognition of its origin when it was created at Connextra in the UK.
 
-> As a [role] I can [capability], so that [receive benefit]
+<center><i>As a <font color="DC143C">[role]</font>, I can <font color="0000ff">[capability]</font> so that <font color="008000">[receive benefit]</font></i></center><br>
 
 - **Another version of writing a user story:**
 
@@ -84,18 +86,29 @@ There are several templates floating on the internet to help you write a user st
 
 The hard part is getting these 3 data points accurate. You need to do your research, talk to your users, and understand their needs. And only then, with enough information collected, you’ll be able to write good user stories using this simple template:
 
-> As a [persona], I want [need] so that [goal].
+<center><i>As a <font color="DC143C">[persona]</font>, I want <font color="0000ff">[need]</font> so that <font color="008000">[goal]</font></i></center>
 
 ---
 
 ## Examples of a user story
 {: .fs-7 }
 
-> As a writer, I want to receive notifications when others add comments so that I am up-to-date.
+**For a made-up live chat app, we'll use the above template and share 5 user stories examples**:
+
+<ol>
+<li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>talk to support teams</i></font> so that <font color="008000"><i>I can get my questions answered quickly</i></font>.</li>
+<li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>book a demo</i></font> so that <font color="008000"><i>I don't have to wait for them to respond to my contact form</i></font>.</li>
+<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want to <font color="0000ff"><i>automate the live chat</i></font> so that <font color="008000"><i>I can sign leads even when I'm sleeping</i></font>.</li>
+<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want <font color="0000ff"><i>my leads to integrate with my CRM tool</i></font> so that <font color="008000"><i>my sales team is always updated with the latest information</i></font>.</li>
+<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want <font color="0000ff"><i>my leads to integrate with my marketing tools</i></font> so that <font color="008000"><i>I can attribute leads to specific campaigns</i></font>.</li>
+</ol>
 
 In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once you've created a User Story, you can effortlessly capture more details and view everything about the user story with a unified view.
 
-![Example of a user story in Zepel](/agile/assets/uploads/user-story-with-acceptance-criteria-in-zepel.png)
+Here's how the above examples of user stories will look like inside Zepel.
+
+![Example of a user story in Zepel](/agile/assets/uploads/user-stories-examples.png)
+
 <div class="caption">
 <small>Example of a user story in Zepel</small>
 </div>
