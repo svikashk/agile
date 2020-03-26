@@ -1,10 +1,10 @@
 ---
 layout: default
-title: What Is A User Story? How To Write, Templates, And Examples Included
+title: How to Write Good User Stories - With Examples & Templates
 page_title: User Stories
 has_children: true
 nav_order: 7
-description: Learn what user stories are and how to write user stories. Format, templates, best practices, and examples included in this extensive guide.
+description: Learn what user stories are and how to write user stories. Examples, templates, format, and best practices included in this extensive guide.
 permalink: user-stories/
 icon_path: /assets/uploads/user-stories.svg
 author: Vikash Koushik
