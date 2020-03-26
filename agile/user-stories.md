@@ -13,7 +13,7 @@ publisher: Zepel
 
 ---
 
-# User Stories - How To Write, Templates, And Examples
+# User Stories: Learn how to write with examples and templates 
 {: .fs-9 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:
