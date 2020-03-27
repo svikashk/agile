@@ -90,7 +90,7 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 
 ---
 
-## Examples of a user story
+## Examples of user stories
 {: .fs-7 }
 
 **For a made-up live chat app, we'll use the above template and share 5 user stories examples**:
