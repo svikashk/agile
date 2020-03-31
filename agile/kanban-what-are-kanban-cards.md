@@ -11,15 +11,16 @@ description: A kanban card represents a single item of work in a Kanban Board. A
 permalink: kanban/kanban-cards/
 author: Vidarth Jaikrishnan
 Date: January 28, 2020
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Kanban Cards
-{: .no_toc }
+{: :.fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -34,7 +35,8 @@ A kanban card represents a single item of work in a Kanban system. These cards a
 
 Initially all Kanban cards are placed on the first column of the kanban board. As these items are picked up by team members, they are moved to subsequent columns to represent the change in status of the item. Once a team member has finished a particular activity (design for example), he may move it to the next column to facilitate a handoff of the work item. 
 
-**Kanban cards help teams in two very important ways:**
+### Kanban cards help teams in two very important ways
+{: .fs-7 .no_toc }
 
 1. They improve visibility of work and processes. The visual nature of the card makes it easy to identify, categorize and conceptualize work items. 
 1. They improve collaboration and make handing off work items easy.
@@ -89,7 +91,8 @@ These restrictions with the physical kanban cards led to the rise of digital kan
 
 The digital kanban card is used to represent a work item in a digital kanban board. Each card has two views - one that provides the overview of the task and the other expanded view, which shows the individual task in full detail. 
 
-**Card Overview:**
+### Card Overview
+{: .fs-7 .no_toc }
 
 ![A Kanban Cards](/agile/assets/uploads/kanban-card-in-zepel.png)
 <div class="caption">
@@ -109,7 +112,8 @@ The Kanban card in its default, condensed form should be able to answer what an 
 
 If any card needs to be edited or more details are needed, the expanded view of the Kanban card can be used.
 
-**Expanded View:**
+### Expanded View
+{: .fs-7 .no_toc }
 
 ![A Kanban Cards](/agile/assets/uploads/expanded-kanban-card-in-zepel.png)
 <div class="caption">

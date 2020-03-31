@@ -9,14 +9,15 @@ permalink: user-stories/
 icon_path: /assets/uploads/user-stories.svg
 author: Vikash Koushik
 date: May 09, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 
 ---
 
 # User Stories: Learn how to write with examples and templates 
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +26,7 @@ publisher: Zepel
 ---
 
 ## What is a user story in agile?
-{: .fs-7 }
+{: .fs-9 }
 
 User Story in Agile is a way of capturing the requirements and description of a software feature from the user's perspective. It describes what a user wants, who the user is, and why they want it.
 
@@ -44,7 +45,7 @@ When done properly, user stories let your team stay focused on satisfying the us
 ---
 
 ## How to write a good user story?
-{: .fs-7 }
+{: .fs-9 }
 
 User stories are short, simple descriptions of how a feature will be used. They are written in an informal, natural language, from a user’s perspective. It reflects their *need* and the *goal* they intend to achieve by using your feature.
 
@@ -61,7 +62,7 @@ But when your feature’s quality depends on how well you define the user story,
 ---
 
 ## Templates to write the perfect user story
-{: .fs-7 }
+{: .fs-9 }
 
 Writing a user story that everyone in your team understands, is simple, and to the point without technical details can be hard. The further you drift away from talking from a user’s perspective, the more details you’ll add and lesser useful it’ll be for you and your team.
 
@@ -91,7 +92,7 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 ---
 
 ## Examples of user stories
-{: .fs-7 }
+{: .fs-9 }
 
 **For a made-up live chat app, we'll use the above template and share 5 user stories examples**:
 
@@ -116,9 +117,10 @@ Here's how the above examples of user stories will look like inside Zepel.
 ---
 
 ## 5 best practices to keep in mind while writing user stories
-{: .fs-7 }
+{: .fs-9 }
 
-- **User stories are independent of each other:**
+### User stories are independent of each other
+{: .fs-7 .no_toc }
 
 Every user story you write should be independent of each other. If you think one user story is dependent on the other, you’ve broken down the story too fine. Similarly, if your user story is too broad, it's most likely an [epic](https://www.agilealliance.org/glossary/epic).
 
@@ -126,13 +128,15 @@ Keeping user stories independent of each other helps you while prioritizing your
 
 Simply put, a user story by itself should be a working, usable feature your users can use and gain value from.
 
-- **Don’t confuse user stories with tasks:**
+### Don’t confuse user stories with tasks
+{: .fs-7 .no_toc }
 
 A user story may contain several tasks and subtasks. But a user story itself isn’t a task.
 
 Tasks and subtasks are about the finer details. They are about the implementation. The “how to execute it” of your feature. User stories, on the other hand, are kept at a meta-level; it talks about the why and the what of your feature.
 
-- **Provide value to users:**
+### Provide value to users
+{: .fs-7 .no_toc }
 
 The gaps between your user’s pains and the solutions they have today are your feature’s real playground. And if your user stories aren’t going to fill in those gaps, you are better off not working on them.
 
@@ -152,13 +156,15 @@ If you’re using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=t
 </div>
 
 
-- **They are negotiable:**
+### They are negotiable
+{: .fs-7 .no_toc }
 
 Since a user story doesn’t talk about the implementation, it should allow room for discussion, so when you [collaborate with the team](https://zepel.io/blog/successful-team-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) everyone can discuss and agree on the specifics of how to implement of the feature.
 
 This lets your team understand the complexity involved and come up with creative ways to implement without being confined to a specific method.
 
-- **Big enough to be broken down to tasks and estimable:**
+### Big enough to be broken down to tasks and estimable
+{: .fs-7 .no_toc }
 
 You probably have plenty of user stories on your backlog by now and wondering how to prioritize one over the other and which ones to filter out.
 
@@ -169,13 +175,14 @@ With an [estimate of how long your user story](https://zepel.io/blog/project-est
 ---
 
 ## Benefits of writing user stories
-{: .fs-7 }
+{: .fs-9 }
 
 A solid user story lets you anchor your communication to what matters most to your users while collaborating with the team. You get to pass every feature, functionality, and activity you do through a simple filter of “how does this matter to my user?”.
 
 But at its core, the benefits of user stories can be summed up with these four key points:
 
-- **They keep the focus on the user**
+### They keep the focus on the user
+{: .fs-7 .no_toc }
 
 A list of tasks and subtasks are great if you want to get repetitive work done and keep your team focused. But when you are out to build a product that solves your user’s problem and satisfies their burning need, you need to keep your team focused on your users. Not checklists.
 
@@ -184,7 +191,8 @@ With every story focussed on your customers, your team will have an easier time 
 > “In a sense, there’s just one mistake that kills startups: not making something users want.”
 > ~ Paul Graham
 
-- **Help prioritize key functionalities**
+### Help prioritize key functionalities
+{: .fs-7 .no_toc }
 
 Remember that time when your QA team came to you in the eleventh hour with a bug that popped up out of nowhere?
 
@@ -198,13 +206,15 @@ Simply asking yourself "will this bug stop my users from achieving their goal" c
 
 This same principle can be applied to an enhancement when it knocks on your door asking to be added to your existing feature.
 
-- **Enable non-technical members to contribute and collaborate**
+### Enable non-technical members to contribute and collaborate
+{: .fs-7 .no_toc }
 
 Building modern software is complex. It involves a wide range of technologies and implementation processes that can confuse other members of the team.
 
 Since user stories are written in simple, non-technical language, it helps members from other functions of your organization like designers to chip in with ideas and help in deciding how to best serve the user.
 
-- **Focuses on the problem**
+### Focuses on the problem
+{: .fs-7 .no_toc }
 
 It’s easy to jump straight in and drown yourself in a pool full of viable ideas, rather than taking a step back and focussing on the problem itself.
 

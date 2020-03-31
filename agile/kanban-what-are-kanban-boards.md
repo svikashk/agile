@@ -11,11 +11,12 @@ description: Kanban Board is an agile project management tool that helps you vis
 permalink: kanban/what-are-kanban-boards/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # What are Kanban Boards
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 The first principle of Kanban is to visually track every item of work through the entire process. This applies to software or any other item of work that has to move through various stages to completion. 
 
@@ -34,7 +35,7 @@ As teams get larger and workflows get more complex, it makes sense to move away 
 ---
 
 ## Digital Kanban Tools
-{: .fs-7 }
+{: .fs-9 }
 
 Software development teams are increasingly moving to online project management tools for a variety of benefits.
 

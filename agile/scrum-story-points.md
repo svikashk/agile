@@ -10,15 +10,16 @@ description: Story points is commonly used by agile scrum teams as a way of esti
 permalink: scrum/story-points/
 author: Vidarth Jaikrishnan
 date: March 02, 2020
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Estimating with Story Points: An Overview
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## What are story points in agile?
-{: .fs-7 }
+{: .fs-9 }
 
 Story points are a common estimation method used by [scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) teams to estimate work to be done in a [sprint]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}). Many agile teams prefer to use story points as story point estimates offer more flexibility in structuring the backlog and sprint planning. 
 
@@ -40,10 +41,10 @@ A [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) w
 ---
 
 ## What to take into consideration when estimating with story points?
-{: .fs-7 }
+{: .fs-9 }
 
 ### 1. Quantity of work to be done
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 This is the most basic consideration one has to take when estimating an item in the backlog. For instance, if the developer needs to build a popup window with a few text boxes and a subscribe button, he may estimate this item to be worth 5 story points.
 
@@ -61,7 +62,7 @@ It is not that adding more fields or the thank you screen makes the complexity o
 Using this method, anyone reading these items from the backlog can understand that the second item requires 3 times the work to get done in order to reach completion. 
 
 ### 2. Complexity
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 Complexity of an item is the second factor that one should consider when trying to estimate an item in story points. Let us consider the previous example of the popup dialog box. Now if someone needs to add a form to accept and store credit card details, the task becomes considerably more difficult. 
 
@@ -75,7 +76,7 @@ It may or may not be that the amount of work to be done is (in terms of code to 
 In this particular case, the developer may estimate the story at 50 or 100 points. 
 
 ### 3. Risks and challenges 
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 The last aspect that the team should consider when estimating with story points is the risk of failure and/or challenges that may arise during implementation. 
 
@@ -88,7 +89,7 @@ An important thing to note is that there is no one size fits all formula for acc
 ---
 
 ## Advantage of using story points
-{: .fs-7 }
+{: .fs-7 .no_toc }
 
 Using man hours or days to estimate items is largely dependent on which developer is working on the item and how skilled he is. For instance, someone who has implemented a payment gateway before might need less man hours to implement the credit card popup over a developer working on it for the first time. 
 
@@ -108,7 +109,7 @@ In this scenario, the planning team estimates the user stories in story points a
 ---
 
 ## Challenges of using story point estimation
-{: .fs-7 }
+{: .fs-9 }
 
 While there are some serious advantages to using story point estimation in certain scenarios, there are also many pitfalls and situations where story point estimates are not the right approach.
 

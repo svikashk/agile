@@ -11,11 +11,12 @@ description: Summary of how to Kanban methodology for agile software development
 permalink: kanban/summary/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Summary of Kanban
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 - The Kanban methodology helps teams track progress by visualising  their workflows on a  kanban board.
 

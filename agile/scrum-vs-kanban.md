@@ -9,11 +9,12 @@ description: Scrum and Kanban are two of the most common agile frameworks used f
 permalink: scrum-vs-kanban/
 author: Vidarth Jaikrishnan
 date: November 20, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Scrum or Kanban: 5 questions to answer before you choose
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 The [agile manifesto]({{ site.url }}{{ site.baseurl }}{% link agile/manifesto.md %}) consists of guiding principles that help software development teams incorporate feedback and make changes faster. 
 
@@ -25,7 +26,7 @@ But which one should you choose for your team? Let's jump in and find out.
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -34,7 +35,7 @@ But which one should you choose for your team? Let's jump in and find out.
 ---
 
 ## What is Scrum?
-{: .fs-7 }
+{: .fs-9 }
 
 [Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an agile framework that involves breaking down large blocks of work into smaller, executable chunks. These chunks of work are taken up by cross functional development teams and delivered in time-boxed [sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) that may vary in duration from a single week to being close to a month-long. 
 
@@ -46,7 +47,7 @@ But which one should you choose for your team? Let's jump in and find out.
 ---
 
 ## What is Kanban?
-{: .fs-7 }
+{: .fs-9 }
 
 [Kanban]({{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}) is a process improvement framework that has found its way into software development circles. It involves visualising existing workflows onto a board and identifying roadblocks in the workflow. 
 
@@ -60,9 +61,10 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ## 5 Questions you need to answer before choosing between Scrum and Kanban
-{: .fs-7 }
+{: .fs-9 }
 
-**1. What are you looking to improve?**
+### 1. What are you looking to improve?
+{: .fs-7 .no_toc }
 
   Scrum and Kanban fundamentally focus on two different things.
 
@@ -76,7 +78,8 @@ The most common Kanban implementations used by software teams are on physical Ka
 
   Kanban may be a better fit if improving visibility of work progress is the most important outcome. Kanban focuses on making existing processes more visible and surfacing bottlenecks - leading to steady process improvement.
 
-**2. How are your teams structured?**
+### 2. How are your teams structured?
+{: .fs-7 .no_toc }
 
   Scrum works best in a [cross functional team](https://www.scrum-institute.org/Scrum_Roles_The_Scrum_Team.php) environment. As you are required to arrive at a shippable/demo-ready feature at the end of every sprint, specialised teams struggle to fully adopt scrum. For example - a typical scrum squad could consist of designers, developers, QA and a scrum master. This cross functional team is constructed to be able to take care of end to end product delivery. 
 
@@ -84,7 +87,8 @@ The most common Kanban implementations used by software teams are on physical Ka
 
   Kanban is suitable for both [cross-functional collaboration](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) and specialised teams. It also does not require any specialised roles in the team.
 
-**3. How clearly structured and repeatable are your processes?**
+### 3. How clearly structured and repeatable are your processes?
+{: .fs-7 .no_toc }
 
   Kanban is better suited for processes that can be laid laid out on a sheet of paper(clearly visualised). It also helps when these processes are mostly repeatable.
 
@@ -92,13 +96,15 @@ The most common Kanban implementations used by software teams are on physical Ka
 
   Similarly, if your team is taking up a lot of ad-hoc tasks that require different workflows, you might struggle to implement Kanban effectively.
 
-**4. How frequently do you ship features?**
+### 4. How frequently do you ship features?
+{: .fs-7 .no_toc }
 
   Scrum teams work in batches or sprints. Continuous deployment of features can be difficult to achieve in a Scrum environment. This is mainly because products are usually scoped down to arrive at demo ready sprint targets. This often leads to teams building versions of features that are batched together in releases.
 
   Kanban is designed to support continuous delivery. The focus of the framework is to continuously deliver features while constantly striving to reduce the time it takes to deliver.
 
-**5. How quickly do you need to see results?**
+### 5. How quickly do you need to see results?
+{: .fs-7 .no_toc }
 
   Scrum is inherently more complicated to implement than kanban. The amount of training and planning that is needed to implement scrum in an organisation is quite large. 
 
@@ -109,10 +115,11 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ## Summary 
-{: .fs-7 }
+{: .fs-9 }
 
 ### Choose Scrum if:
-{: .no_toc}
+{: .fs-7 .no_toc }
+
 - You are looking to **drastically change the way your teams approach software development and delivery**.
 
 - You feel that your teams need to do a better job of **breaking down work, estimating timelines, and releasing software**.
@@ -139,7 +146,8 @@ The most common Kanban implementations used by software teams are on physical Ka
 ---
 
 ### Choose Kanban if:
-{: .no_toc}
+{: .fs-7 .no_toc }
+
 - Your team has a **workflow that can be visualised**.
 
 - Your tasks usually follow the same **repeatable workflow** rather than being more ad hoc in nature.

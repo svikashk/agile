@@ -10,15 +10,16 @@ description: A sprint review meeting is an informal gathering to showcase what w
 permalink: scrum/sprint-review/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Sprint Review Meeting
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## What is a Sprint Review Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The sprint review meeting is an informal gathering between the scrum team and the other stakeholders. The team takes this opportunity to show all the work completed during the sprint which gives the stakeholders a chance to see the feature to inspect and ask questions. 
 
@@ -38,14 +39,14 @@ The goal of the sprint review meeting is to get feedback on the completed items 
 ---
 
 ## Who should attend a Sprint Review Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The product owner, scrum master, and the development team are the folks who must attend a sprint review meeting. Other key stakeholders such as clients/beta customers, members of the sales team, and other business executives should also attend this meeting to provide feedback.
 
 ---
 
 ## How long should a Sprint Review Meeting last?
-{: .fs-7 }
+{: .fs-9 }
 
 Since this meeting is designed to showcase a finished feature and elicit feedback, this meeting shouldn't last for more than an hour for a one week sprint.
 
@@ -54,7 +55,7 @@ That means, if your sprint is four weeks long, the sprint review meeting shouldn
 ---
 
 ## Sprint Review vs Sprint Retrospective
-{: .fs-7 }
+{: .fs-9 }
 
 Teams often get confused between sprint review meetings and a [sprint retrospective meetings]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}). While they do sometimes sound similar, at its core they're have different purpose.
 
@@ -69,21 +70,24 @@ Below is a tabular column that explains the three major differences between a sp
 ---
 
 ## Best practices on how to run a Sprint Review Meeting
-{: .fs-7 }
+{: .fs-9 }
 
-**1. Focus on the goal, not the number of tasks:**
+### 1. Focus on the goal, not the number of tasks
+{: .fs-7 .no_toc }
 
 Let’s be honest… Your team almost always has a few tasks in the sprint that remain incomplete. They are after all humans too. 
 
 During the sprint review meeting, the focus should be to see if the overall sprint goal (that was decided during the [sprint planning meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %})) is met and not how many tasks were checked off.
 
-**2. Gather feedback:**
+### 2. Gather feedback
+{: .fs-7 .no_toc }
 
 Giving a demo to people who have zero (or partial) context of what you’ve built is the easiest way to get actionable feedback. 
 
 During the meeting, the product owner should take ownership of asking questions and gathering feedback that can be used in future sprints.
 
-**3. Sprint reviews is not for retrospective:**
+### 3. Sprint reviews is not for retrospective
+{: .fs-7 .no_toc }
 
 It is common for teams new to scrum to confuse a sprint review meeting with a sprint retrospective meeting. 
 
@@ -92,7 +96,7 @@ A review meeting is where your team demonstrates all the hard work they put in, 
 ---
 
 ## Quick Summary
-{: .fs-7 }
+{: .fs-9 }
 
 
 ![Summary of Sprint Review Meeting](/agile/assets/uploads/sprint-review-meeting.png)

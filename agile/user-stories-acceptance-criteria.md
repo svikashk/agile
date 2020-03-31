@@ -10,13 +10,14 @@ nav_order: 1
 permalink: user-stories/acceptance-criteria/
 author: Vikash Koushik
 date: May 09, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Acceptance Criteria For User Stories In Agile
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +26,7 @@ publisher: Zepel
 ---
 
 ## What is an acceptance criteria?
-{: .fs-7 }
+{: .fs-9 }
 
 Acceptance criteria let you define when your user story is complete and has all the functionality needed to meet your user’s needs.
 
@@ -33,7 +34,8 @@ They are a set of conditions a user story should satisfy to be considered as don
 
 But before you enthusiastically declare a set of functional criteria that should be met for your user story, consider how other variables can impact the quality of your feature as well and include them into your acceptance criteria.
 
-**Acceptance criteria can include details like:**
+### Acceptance criteria can include details like
+{: .fs-7 .no_toc }
 
 - [x] User experience
 
@@ -50,25 +52,30 @@ If it’s complex or a core feature of your product you should consider writing 
 ---
 
 ## How to write acceptance criteria for user stories?
-{: .fs-7 }
+{: .fs-9 }
 
-**1. Acceptance criteria should be written from a user's perspective.**
+### 1. Acceptance criteria should be written from a user's perspective
+{: .fs-7 .no_toc }
 
 Acceptance criteria is a way of looking at the problem from a customer’s standpoint. It should be written in the context of a real user’s experience. After all, you are building your product for your users, right?
 
-**2. Criteria should be clear and concise.**
+### 2. Criteria should be clear and concise
+{: .fs-7 .no_toc }
 
 Acceptance criteria should not be confused with test cases nor with documentation. It is important to keep your criteria as simple and straightforward as possible.
 
-**3. Everyone must understand your acceptance criteria.**
+### 3. Everyone must understand your acceptance criteria
+{: .fs-7 .no_toc }
 
 Your criteria is useless if your developers can’t understand it. If you’re unsure about whether something is clear, take the time to ask and make adjustments until things are clear.
 
-**4. Acceptance criteria is not about how. It's about what.**
+### 4. Acceptance criteria is not about how. It's about what
+{: .fs-7 .no_toc }
 
 Like [user stories]({{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}), acceptance criteria is not a task. They are a technique for communicating about the user story.
 
-**5. Acceptance criteria are specific, but are not another level of detail.**
+### 5. Acceptance criteria are specific, but are not another level of detail
+{: .fs-7 .no_toc }
 
 Consider a tax filing software. The most important requirement is that it correctly calculates the due tax when incomes and expenditure are given. Obvious, right? And you know you won't be able to test all possible combinations either. Because the possibilities are nearly endless. 
     
@@ -76,7 +83,8 @@ So your acceptance criteria for the user story will specify specific conditions,
 
 That means being more specific and not adding another level of detail.
 
-**6. Acceptance criteria can be a restatement of user story from a user's standpoint.**
+### 6. Acceptance criteria can be a restatement of user story from a user's standpoint
+{: .fs-7 .no_toc }
 
 This is applicable only if the user story isn't all too complex. Here's an example of what I mean by that.
 
@@ -87,7 +95,7 @@ The acceptance criteria for it is as simple as “*When I perform the accept act
 ---
 
 ## Given/When/Then acceptance criteria template
-{: .fs-7 }
+{: .fs-9 }
 
 To make life easier, here’s a simple template you can use for writing acceptance criteria:
 
@@ -96,7 +104,7 @@ To make life easier, here’s a simple template you can use for writing acceptan
 ---
 
 ## Sample examples of acceptance criteria
-{: .fs-7 }
+{: .fs-9 }
 
 **For the example user story:**
 
@@ -122,7 +130,7 @@ In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaig
 ---
 
 ## Who writes acceptance criteria?
-{: .fs-7 }
+{: .fs-9 }
 
 Pretty much anyone on the [cross-functional team](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=acceptance-criteria) can write acceptance criteria for user stories.
 
@@ -131,7 +139,7 @@ Most of the times it is the product owner or the product manager who writes the 
 ---
 
 ## When should you write acceptance criteria?
-{: .fs-7 }
+{: .fs-9 }
 
 It isn't uncommon to write the acceptance criteria for a user story while grooming the [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) just before their Sprint Planning meeting. That way, they can bring it to the team during the [Sprint Planning meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}#sprint-planning-meeting) to discuss the priorities.
 
