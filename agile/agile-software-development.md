@@ -9,15 +9,16 @@ description: See what agile is for software development. Each agile framework ha
 permalink: agile-software-development/
 author: Vidarth Jaikrishnan
 date: January 28, 2020
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Agile Software Development
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +26,7 @@ publisher: Zepel
 ---
 
 ## What is Agile Software Development?
-{: .fs-7 }
+{: .fs-9 }
 
 Agile Software Development frameworks or agile methodologies as they are otherwise known, comprise of software development frameworks that rose to prominence in the early 2000s. 
 
@@ -35,16 +36,16 @@ The term agile can be viewed as an umbrella term for a variety  of development m
 
 ---
 
-# Different Agile Frameworks
-{: .fs-7 }
+## Different Agile Frameworks
+{: .fs-9 }
 
 ## 1. Scrum
-{: .fs-7 }
+{: .fs-9 }
 
 Scrum is a popular agile framework that focuses on shipping usable software incrementally in short cycles. These cycles usually vary from a couple of weeks to a month.
 
 ### Overview 
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 A scrum team is usually cross functional in nature. It consists of a development team which includes QA and design experts if needed. In addition to the developers, there are specialised roles such as the product owner and scrum master who form part of the scrum team. 
 
@@ -53,7 +54,7 @@ The team scopes down the product to create a sprint (which may last a few weeks)
 Scrum aims to make the product development process more dynamic and makes it easy to incorporate changes in requirements. Also, as testing happens every sprint, the quality of software being developed is much higher. 
 
 ### Some major advantages of using Scrum
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Large products can be divided into sprints which are more easily manageable. 
 - Scrum makes it easy to incorporate changes in the product during the development process.
@@ -62,7 +63,7 @@ Scrum aims to make the product development process more dynamic and makes it eas
 - Scrum has a wide range of metrics that can be tracked to improve performance.
 
 ### Challenges Scrum teams may face
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Getting started with scrum is usually much harder as it requires time and effort to be invested in bringing teams up to speed with concepts of SCRUM.
 - As it is drastically different from traditional waterfall based methods, teams may be uncomfortable working with sprints at first. 
@@ -85,12 +86,12 @@ Scrum aims to make the product development process more dynamic and makes it eas
 ---
 
 ## 2. Kanban
-{: .fs-7 }
+{: .fs-9 }
 
 The Kanban methodology is an agile framework that focuses on visualising a team's workflow to surface bottlenecks and deal with them. 
 
 ### Overview
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 Kanban focuses on creating a kanban board with columns representing the status. Items are then mapped onto the board in their respective columns. As the team works on and complete their respective items, they move these items to subsequent columns.
 
@@ -101,7 +102,7 @@ Kanban teams restrict the number of items in each column (called work in progres
 Columns that are constantly at maximum capacity prevent the team from adding new items. Teams can identify blockers and improve their process when this happens.
 
 ### Some major advantages of using Kanban
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Kanban is one of the easiest agile frameworks to implement. 
 - Kanban boards drastically improve visibility of work without changing any existing processes.
@@ -109,7 +110,7 @@ Columns that are constantly at maximum capacity prevent the team from adding new
 - Features/user stories are continuously deployed in Kanban. 
 
 ### Challenges with using Kanban
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Kanban puts less emphasis on testing(as opposed to some of the frameworks like SCRUM). The onus is on the team to identify a workflow that ensures that highest quality is maintained. 
 - Kanban teams sometimes suffer from large lead/cycle times.
@@ -131,10 +132,10 @@ Columns that are constantly at maximum capacity prevent the team from adding new
 ---
 
 ## 3. Lean Development
-{: .fs-7 }
+{: .fs-9 }
 
 ### Overview 
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 Lean Software Development (LSD Framework) is an agile approach that focuses on building and market testing a product via an MVP. It is otherwise known as the MVP Framework.
 
@@ -147,14 +148,14 @@ Is the LSD framework a good fit for your team?
 - It is a great fit for teams working on products with a high risk of failure. This is why lean practices are encouraged in early stage startups with little or no traction in the market. 
 
 ### Advantages of Lean Development
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Lean development is highly flexible. It doesn’t have many rules except for the overall approach towards building MVPs.
 - It can be implemented quickly regardless of how small the team is.
 - It eliminates unnecessary requirements and helps the team focus on building only what matters.
 
 ### Disadvantages of Lean Development
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - LSD framework is probably the least scalable agile methodology. It can not be used for mature products.
 - The constant iteration and focus on building MVPs could sometimes slow overall product progress. 
@@ -162,10 +163,10 @@ Is the LSD framework a good fit for your team?
 ---
 
 ## 4. Extreme Programming
-{: .fs-7 }
+{: .fs-9 }
 
 ### Overview
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 Extreme Programming (XP) is an agile software development methodology that aims to help teams develop high quality software, as efficiently as possible. Like scrum, it also seeks to make it possible to incorporate changing customer requirements during development cycles. 
 
@@ -179,14 +180,14 @@ Some examples of best practices that XP teams have been known to focus excessive
 - Integration Testing
 
 ### Advantages of XP
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - Increased focus on shipping software on time is a core value of XP. Teams make decisions of best practices around the timely delivery of working software.
 - XP encourages constant feedback on not only the product but also the process being used.
 - Best practice review for QA processes are also encouraged at the end of every iteration. This ensures that high quality software is delivered.
 
 ### Disadvantages of XP
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - There is a constant focus on retrospectives and meetings which may not suit all kinds of teams.
 - Extreme Programming is better suited for teams that are in the same location. Remote teams may have a tough time collaborating in an XP environment. 
@@ -194,10 +195,10 @@ Some examples of best practices that XP teams have been known to focus excessive
 ---
 
 ## 5. Feature Driven Development (FDD)
-{: .fs-7 }
+{: .fs-9 }
 
 ### Overview of FDD
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 Feature driven development (FDD) is an agile framework that recommends building software products by breaking them down into features. Features in an FDD context are similar to user stories in the scrum framework. 
 
@@ -209,7 +210,7 @@ An agile team following an FDD framework goes about building the product in 5 st
 1. Develop Each feature
 
 ### Advantages of FDD
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - FDD is fairly straightforward to implement. It offers an overall agile framework, built around features and expects the team to implement best practices around it.
 
@@ -217,7 +218,7 @@ An agile team following an FDD framework goes about building the product in 5 st
 Once features are specified, teams can implement best practices from other frameworks and use what suits their team the best. 
 
 ### Disadvantages of FDD
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 - There is a heavy reliance on the team member who is developing the initial overall model of the product.
 - There is not much focus on documentation. 

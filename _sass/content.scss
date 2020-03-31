@@ -5,6 +5,80 @@
 //
 // stylelint-disable selector-no-type, max-nesting-depth, selector-max-compound-selectors, selector-max-type
 
+
+@media (min-width: 900px){   
+  a.cta-button:hover {
+    color: #fff;
+  }
+    
+  a.cta-button:focus {
+    color: #fff;
+  }    
+    
+  a.cta-button {
+    display: inline-block;
+    margin: 11px 0px 10px 1px;
+    padding: 4px 20px;
+    height: 48px;
+    outline: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 37px;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.1);
+    background: linear-gradient(#6a45b3,#6a45b3 38%,#4e2fab 90%,#4e2fab);
+    border-radius: 5px;
+    border-bottom: 0;
+    box-shadow: inset 0 0 0 1px rgba(0,0,0,.14);
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+    
+  .cta {
+    margin: 30px 0px 50px 0px;
+      background: #27272e url(https://zepel.io/blog/content/images/2019/07/zepel-app-4.png);
+      background-size: 355px 294px;
+      background-repeat: no-repeat;
+      background-position: 438px 86px;
+      box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
+      border-radius: 8px;
+      padding: 142px 290px 24px 44px;
+  }
+    
+  h2.cta-heading {
+    color: #fff;
+    margin: -105px 0 -4px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;    
+  }
+    
+  p.cta-para {
+    color: #cdcdd8;
+    padding-top: 25px;
+  }
+  
+  .cta-image {
+      display: none !important;
+  }
+
+  .cta-image {
+    display: none !important;
+  }
+}
+
+@media (max-width: 899px) {
+  .cta {
+    display: none;
+  }
+
+.cta-image {
+    border-bottom: none !important;
+  }
+
+}    
+
 .page-content {
   a {
     overflow: hidden;
@@ -16,6 +90,7 @@
   ul,
   ol {
     padding-left: 1.5em;
+    line-height: 32px;
   }
 
   ol {
@@ -59,7 +134,7 @@
       &::before {
         position: absolute;
         margin-left: -1.4em;
-        color: $grey-dk-000;
+        color: #151515;
         content: "•";
       }
     }

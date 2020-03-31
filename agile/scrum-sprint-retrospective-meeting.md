@@ -10,15 +10,16 @@ description: Sprint retrospective meeting helps agile teams to find ways to impr
 permalink: scrum/sprint-retrospective/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Sprint Retrospective Meeting
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## What is a Sprint Retrospective Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The sprint retrospective meeting is for the development team to look back at the sprint, inspect itself, and plan for improvements that can be used for future sprints.
 
@@ -47,7 +48,7 @@ By answering the above questions, you can:
 ---
 
 ## Who should attend the Sprint Retrospective Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The scrum master and the development team collaborate in this meeting and try to find areas that could be improved.
 
@@ -56,43 +57,48 @@ The product owner is an optional attendee with no other stakeholders attending t
 ---
 
 ## How long should a Sprint Retrospective Meeting last?
-{: .fs-7 }
+{: .fs-9 }
 
 The sprint retrospective meeting lasts for a maximum of three hours for a one month sprint. For shorter sprints, this meeting is usually shorter. 
 
 ---
 
 ## Best practices on how to run a Sprint Retrospective Meeting 
-{: .fs-7 }
+{: .fs-9 }
 
-**1. Take small but concrete steps:**
+### 1. Take small but concrete steps
+{: .fs-7 .no_toc }
 
 Making improvements require teams to make changes. And the thing about change is it’s always hard, especially when it’s for something good. 
 
 Look for small, incremental improvements that can be adopted by teams quickly. 
 
-**2. Keep the tone positive:**
+### 2. Keep the tone positive
+{: .fs-7 .no_toc }
 
 When inspecting on areas to improve, it can be easy to start pointing fingers by focusing on the negatives and why they shouldn’t have come up in the first place. 
 
 By focusing on the positive aspects of what went well in the previous sprint and stating that it could be improved, you help set a positive tone for the entire meeting and avoid a possibly productive meeting turn into a rant session.
 
-**3. Acknowledge and encourage each member's contribution:**
+### 3. Acknowledge and encourage each member's contribution
+{: .fs-7 .no_toc }
 
 During the sprint retrospective meeting take a couple of minutes to genuinely acknowledge the contributions made by each member. This is especially great to talk immediately after discussing "what could have been done better" in order to keep your team's morale up.
 
-**4. Ensure the meeting isn't dominated:**
+### 4. Ensure the meeting isn't dominated
+{: .fs-7 .no_toc }
 
 Sprint Retrospective meetings are supposed to be a collaborative effort. Be sure to take in every member's opinion on what worked well and could be improved during the retrospective. If the discussion is dominated by one person, then the scrum master might have to step in and be a stronger facilitator.
 
-**5. Retrospect on your retrospect:**
+### 5. Retrospect on your retrospect
+{: .fs-7 .no_toc }
 
 If you ran a sprint prior to this, you most liekly had few points that you wanted to improve upon. Be sure to retrospect and see if you made progress on those points. Because at the end of the day if you aren't making progress on your ideas, then there's a good chance that your process hasn't improved much at all.
 
 ---
 
 ## Quick Summary
-{: .fs-7 }
+{: .fs-9 }
 
 
 ![Summary of Sprint Retrospective Meeting](/agile/assets/uploads/sprint-retrospective-meeting.png)

@@ -10,15 +10,16 @@ description: Learn what a sprint planning meeting is. This guide includes best p
 permalink: scrum/sprint-planning/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Sprint Planning Meeting
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## What is a Sprint Planning Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 A sprint planning meeting happens before a Sprint begins. The entire [scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) come together during this meeting, discuss, and agree on what they’ll deliver in the upcoming sprint.
 
@@ -44,7 +45,7 @@ In short, the main goal of the sprint planning meeting is to walk away with two 
 ---
 
 ## Who should attend a Sprint Planning Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 All members of the sprint should attend the sprint planning meeting. That is:
 
@@ -54,22 +55,23 @@ All members of the sprint should attend the sprint planning meeting. That is:
 
 When you’re discussing to agree on what everyone will deliver at the end of the sprint, it’s best to get everyone’s input and perspective before you move forward. After all, you wouldn’t want to miss any edge cases.
 
-**Here's how each member will contribute to the sprint planning meeting:**
+### Here's how each member will contribute to the sprint planning meeting
+{: .fs-7 .no_toc }
 
-### The Scrum Master
-{: .no_toc }
+#### **The Scrum Master**
+{: .fs-5 .no_toc }
 
 The role of a Scrum Master during a sprint planning meeting is to facilitate the meeting and make sure meeting rooms are book, supplies are available, and people are prepared before the meeting. From a facilitating and scheduling point of view, the Scrum Master timeboxes the sprint planning meeting based on the sprint's duration. 
 
 For example, if the sprint's duration is 4 weeks, the sprint planning meeting should not exceed 8 hours. Of course, it would be hard for the team to do this in one sitting. So the Scrum Master should take the responsibility of  appropriately managing the time and ensure there is complete alignment on the sprint goal and sprint backlog at the end of the meeting.
 
-### The Product Owner
-{: .no_toc }
+#### **The Product Owner**
+{: .fs-5 .no_toc }
 
 The Product Owner is responsible for coming up with an updated backlog before the meeting. Their role during the meeting is to clarify questions and details on item. Since the product owner will have the maximum context, they should be help the team understand the use case and come up with an acceptance criteria for each item. As someone who will be answering question and clarifying doubts, it is therefore essential for a product owner to be equipped with any and all information they might need and come prepared.
 
-### The Development Team
-{: .no_toc }
+#### **The Development Team**
+{: .fs-5 .no_toc }
 
 Of course, the people who will be executing each of these items in the sprint should be a part of this meeting. That could be anyone — designers, developers, QA team, marketing, sales, customer support. 
 
@@ -80,7 +82,7 @@ Irrespective of the team they belong to, if they'll be executing any of the user
 ---
 
 ## How long should a Sprint Planning Meeting last?
-{: .fs-7 }
+{: .fs-9 }
 
 According to [Scrum Guide](http://www.scrumguides.org/scrum-guide.html), **the sprint planning meeting is time-boxed to eight hours for a one month sprint**. If your sprint is shorter than a month, sprint planning meeting is reduced proportionately.
 
@@ -98,12 +100,15 @@ As long as your team is on the same page on what will be delivered in the upcomi
 ---
 
 ## Best practices on how to run an effective Sprint Planning Meeting
-{: .fs-7 }
+{: .fs-9 }
 
-**1. Bring your learnings from the previous Sprint:**
+### 1. Bring your learnings from the previous Sprint
+{: .fs-7 .no_toc }
+
 If you ran a sprint prior to the one you are currently planning, you most likely found areas you'd like to improve by [running Sprint Retrospective Meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}). Be sure to bring it up during the sprint planning meeting and see how you can implement changes to your upcoming Sprint to improve your process.
 
-**2. Have a groomed backlog:**
+### 2. Have a groomed backlog
+{: .fs-7 .no_toc }
 
 Before the sprint planning meeting, make sure the backlog is groomed **with fully formed user stories** and the most important work listed at the top. It’s best done a few days before the sprint planning meeting with just the product owner and the scrum master. 
 
@@ -116,7 +121,8 @@ If you're using [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=tex
 
 This allows the product owner and scrum master to fill details and context to user stories that might not be fully formed and come prepared for the sprint planning meeting.
 
-**3. Tell a story:**
+### 3. Tell a story
+{: .fs-7 .no_toc }
 
 As a product owner keeping in mind that each backlog item is a user story and not a bunch of features could make a world of difference, especially when you’re trying to explain it to your development team. 
 
@@ -124,7 +130,8 @@ Showing your dev team where the problem occurs in the user’s current solution 
 
 After all, the sprint planning meeting is a way for the product owner to convince the rest of the team on what the highest priorities are. And what better way to convince people than telling a story?
 
-**4. Drill down to the details:**
+### 4. Drill down to the details
+{: .fs-7 .no_toc }
 
 When you drill down to the details of a user story by breaking it down to tasks and subtasks, the entire team gets an idea of the complexity involved in building it. Besides, breaking down a large chunk of work into tiny pieces of actionable work makes estimating your work much more easier. 
 
@@ -133,7 +140,9 @@ When you drill down to the details of a user story by breaking it down to tasks 
 > ~ Joel Spolsky, CEO of Stack Overflow
 
 
-**5. Get approval and align everyone on the same page:**
+### 5. Get approval and align everyone on the same page
+{: .fs-7 .no_toc }
+
 Once your development team breaks your user stories down to tasks and subtasks, and you have an estimate of how long each of them will take, you should ideally be able to come up with a Sprint backlog that you can add to a Sprint. 
 
 Be sure to add each work item to a Sprint on your project management tool and ensure each member has at least one item to work on and nobody is duplicating work. Once you've added items into a Sprint, be sure to reiterate the goal for the Sprint and show your team the list of work items the team will be working on.
@@ -148,7 +157,7 @@ In Zepel, once you've added items into a Sprint, set a start and an end date for
 ---
 
 ## Quick Summary
-{: .fs-7 }
+{: .fs-9 }
 
 ![Summary of Sprint Planning Meeting](/agile/assets/uploads/sprint-planning-meeting.png)
 

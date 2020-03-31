@@ -10,13 +10,14 @@ description: Scrum meetings are an essential part of scrum. Learn what it is and
 permalink: scrum/meetings/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Scrum Ceremonies or Meetings 
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +26,7 @@ publisher: Zepel
 ---
 
 ## What is Agile Scrum Ceremonies or Meetings?
-{: .fs-7 }
+{: .fs-9 }
 
 To answer what Scrum Ceremonies or Meetings are, let us first take a step back.
 
@@ -57,7 +58,7 @@ Scrum meetings aims to do just that - By running meetings at different phases th
 ---
 
 ## Types of Scrum Meetings
-{: .fs-7 }
+{: .fs-9 }
 
 There are four types of scrum meetings:
 
@@ -79,7 +80,7 @@ Let’s jump in and find out.
 ---
 
 ## Sprint Planning
-{: .fs-7 }
+{: .fs-9 }
 
 A Sprint Planning Meeting is held before the Sprint begins. [All members of the scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) are involved in this meeting to ensure that everyone is on the same page.
 
@@ -92,7 +93,7 @@ This allows the rest of the team to ask questions during the Sprint Planning mee
 ---
 
 ## Daily Scrum Standups
-{: .fs-7 }
+{: .fs-9 }
 
 The Daily Scrum (or Standups) meeting happens every day for 15 minutes after the Sprint begins. It is held to ensure that everyone knows the progress of the Sprint and is always in-sync to enable the team to course-correct if needed. 
 
@@ -119,7 +120,7 @@ During the Daily Scrum meeting, each member of the development team answers main
 ---
 
 ## Sprint Review
-{: .fs-7 }
+{: .fs-9 }
 
 The Sprint Review meeting is held once the Sprint is completed, but before it is pushed to production. This meeting is held by the Development Team, Scrum Master, and the Product Owner with other stakeholders invited to take part. 
 
@@ -140,7 +141,7 @@ In this meeting, the Scrum Team will demonstrate to the stakeholders what they b
 ---
 
 ## Sprint Retrospective
-{: .fs-7 }
+{: .fs-9 }
 
 Sprint Retrospective meeting is held after the Sprint review meeting. The scrum master and the development team participate in the meeting with the goal of improving themselves for future sprints. For a one month sprint, this meeting lasts for three hours.
 
@@ -162,8 +163,6 @@ The team usually tries to come up with what they'd like to do differently in the
 </div>
 </div>
 </div>
-
----
 
 ---
 

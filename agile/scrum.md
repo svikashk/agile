@@ -9,11 +9,12 @@ description: What is Scrum and how to implement it with best practices
 permalink: scrum/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # What is Scrum?
-{: .fs-9 }
+{: .fs-10 }
 
 For more than a decade, companies have adopted the Scrum approach and its principles. Since then, interest in adopting it by other companies has constantly been on the rise.
 

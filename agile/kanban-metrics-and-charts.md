@@ -10,15 +10,16 @@ description: Want to improve processes within your agile team? Here are kanban m
 permalink: kanban/charts-and-metrics/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Metrics and Charts for Kanban
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## Choosing The Right Metrics
-{: .fs-7 }
+{: .fs-9 }
 
 As a principle, Kanban focuses on incremental improvement of processes. This means that teams can opt to have a process review meeting periodically and discuss issues with the current setup and implement changes(if needed).
 
@@ -37,7 +38,8 @@ It is essential to track the right metrics in order to make meaningful tweaks to
 
 Here are a few metrics that teams commonly track to measure performance:
 
-**Total Work in Progress:**
+### Total Work in Progress
+{: .fs-7 .no_toc }
 
 The total work in progress is the total number of items in all columns of the Kanban board outside the initial state and the completed columns. Ideally, the total work in progress remains constant. An increase in total WIP indicates that tasks are not being completed and more workload is being added. A decreasing WIP suggests a drop in performance of the team or that stories have not been broken down equally. 
 
@@ -45,7 +47,8 @@ Changing total WIP is a clear indicator of underlying problems in the process. T
 
 ---
 
-**Throughput:**
+### Throughput
+{: .fs-7 .no_toc }
 
 Throughput is a measure of the number of items completed by the team in any time period. It is common for teams to measure throughput on a weekly or bi-weekly basis. 
 
@@ -55,7 +58,8 @@ Throughput can be measured on the cumulative flow diagram.
 
 ---
 
-**Lead Time and Cycle Time:**
+### Lead Time and Cycle Time
+{: .fs-7 .no_toc }
 
 Lead time is a measure of how long an issue takes to get resolved from when it has been created. For example, if an issue is added to the Kanban board on monday and is completed on friday, the lead time would be 5 days.  
 
@@ -70,29 +74,32 @@ Lead time is typically what the customer sees, while cycle time is an internal m
 
 ---
 
-**Task completion rate (TCR):**
+### Task completion rate (TCR)
+{: .fs-7 .no_toc }
 
 TCR is a measure of the number of tasks completed on a daily basis on average. It is a rolling value that represents the work remaining for the team. 
 
 ---
 
-**Current Task Estimate (CTE):**
+### Current Task Estimate (CTE)
+{: .fs-7 .no_toc }
 
 The current task estimate gives you an estimate of when all the current tasks in progress will complete. This is an important metric because it represents the amount of work remaining. 
 
 ---
 
-**Task Add Rate (TAR):**
+### Task Add Rate (TAR)
+{: .fs-7 .no_toc }
 
 TAR gives you the rate at which tasks are added on a daily basis. It gives you the efficiency with which the product team is able to specify items and get them ready for development.
 
 ---
 
 ## Charts for Kanban Teams
-{: .fs-7 }
+{: .fs-9 }
 
-**Cumulative Flow Diagram (CFD):**
-{: .no_toc }
+### Cumulative Flow Diagram (CFD)
+{: .fs-7 .no_toc }
 
 CFD is the most popular chart used by Kanban teams. It gives you a visual overview of the entire process and shows the overall progress of the team over time. At any point in time, the CFD shows you the number of items in each column of the kanban board. 
 
@@ -105,7 +112,8 @@ The most common use of the CFD is to track total WIP. It can also be used to mon
 
 ---
 
-**Cycle Time Scatterplots**
+### Cycle Time Scatterplots
+{: .fs-7 .no_toc }
 
 Cycle time scatter plots show you the cycle times of individual issues as they are completed on a daily basis. This chart can be used to monitor cycle times and investigate outliers. 
 
@@ -118,7 +126,8 @@ Advanced versions of this chart can be used to predict completion times of issue
 
 ---
 
-**Cycle Time Histogram**
+### Cycle Time Histogram
+{: .fs-7 .no_toc }
 
 The Cycle Time Histogram gives you the distribution of cycle times across issues. Ideally, you want your cycle time to be concentrated towards the left, to indicate that most tasks are completed quickly. 
 
@@ -131,7 +140,8 @@ A high distribution of cycle times on the histogram indicates too much unpredict
 
 ---
 
-**Ageing Chart**
+### Ageing Chart
+{: .fs-7 .no_toc }
 
 The Ageing Chart shows the cycle times of different in-progress items in all the columns of the kanban board (as opposed to the cycle time of completed items). This chart gives you a view of how long each item spends in every column. 
 
@@ -142,7 +152,8 @@ The Ageing Chart shows the cycle times of different in-progress items in all the
 
 ---
 
-**Throughput Chart**
+### Throughput Chart
+{: .fs-7 .no_toc }
 
 The Throughput Chart shows you the amount of work being delivered by the team on a daily basis. A Throughput Histogram can be used to analyse the distribution of historical throughput rates.
 
