@@ -11,15 +11,16 @@ description: Implementing Kanban? Here is a best practice on how to set up Kanba
 permalink: kanban/setup-and-implementation/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Setting Up And Implementing Kanban
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -28,7 +29,7 @@ publisher: Zepel
 ---
 
 ## Setting up your Kanban Board
-{: .fs-7 }
+{: .fs-9 }
 
 Setting up your Kanban board is a four step process that we'll look into in detail.
 
@@ -43,7 +44,7 @@ Setting up your Kanban board is a four step process that we'll look into in deta
 ---
 
 ### Capturing your team’s workflow
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 The first step towards implementing Kanban involves spending time gaining a deep understanding of your team’s workflow. You could ideally start by  talking to your team members and understanding how work moves across different persons, how collaboration and handoffs happen.
 
@@ -61,7 +62,7 @@ You could represent this with the help of a flowchart.
 ---
 
 ### Choosing Columns for your Kanban Board
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 A common mistake that people often make when setting up the Kanban board is to have more columns than required in order to capture their workflow in great detail. This may not be the best way to set up a Kanban board. For starters, multiple consecutive columns will often be owned by the same member making moving items a pain. Not to mention, setting up WIP limits for so many columns will be a problem. 
 
@@ -87,7 +88,7 @@ A common mistake that people often make when setting up the Kanban board is to h
 ---
 
 ### Setting Work in Progress (WIP) Limits
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 As mentioned above, WIP limits are used by kanban teams to limit chaos. By limiting the number of items in different steps of the workflow, teams are allowed to focus on a smaller number of tasks and see them through to completion. 
 
@@ -100,7 +101,7 @@ As mentioned above, WIP limits are used by kanban teams to limit chaos. By limit
 ---
 
 ## Implementing Kanban
-{: .fs-7 }
+{: .fs-9 }
 
 Now that your Kanban columns have been set up and WIP limits have been put in place, the last step is to populate your backlog (or whichever column comes first!). 
 
@@ -116,7 +117,7 @@ While your team will need to meet for demos, reviews and other unstructured meet
 ---
 
 ### The Daily Standup
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 The Daily Standup meeting helps the team stay on top of their work and ensure that development is progressing smoothly. Ideally, the daily standup happens with the Kanban board open (or next to the whiteboard incase a physical board is being used). 
 
@@ -127,7 +128,7 @@ The team should make sure that standup meetings start on time and do not overext
 ---
 
 ### Blockers
-{: .no_toc }
+{: .fs-7 .no_toc }
 
 A blocked item can not move to the next stage of the Kanban board because issues need to be resolved. Keeping track of blockers can surface bottlenecks in the process so the team can take corrective action. 
 

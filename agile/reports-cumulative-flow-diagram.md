@@ -10,17 +10,18 @@ description: Cumulative Flow Diagrams help visualize and track a kanban team's p
 permalink: reports/cumulative-flow-diagram/
 author: Vidarth Jaikrishnan
 date: January 23, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Understanding Cumulative Flow Diagram
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 The cumulative flow diagram is one of the most common charts used to track progress for agile teams. You can generate the chart using just a kanban board with tasks being moved across columns. No additional data is required.
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -29,14 +30,14 @@ The cumulative flow diagram is one of the most common charts used to track progr
 ---
 
 ## What is a Cumulative Flow Diagram (CFD)?
-{: .fs-7 }
+{: .fs-9 }
 
 CFDs are simple stacked area charts that show the number of tasks in each column of the kanban. The lowermost line indicates the number of items in the completed state at any point in time. The progress of this line also serves as the burnup graph of the entire process.
 
 ---
 
 ## Reading a Cumulative Flow Diagram
-{: .fs-7 }
+{: .fs-9 }
 
 Consider a simple CFD for a Kanban board with 4 columns: Backlog, In Development, QA and Deployed.
 
@@ -67,9 +68,10 @@ The lines above this indicate the other statuses on the board and the number of 
 ---
 
 ## Common Cumulative Flow Diagram Patterns
-{: .fs-7 }
+{: .fs-9 }
 
-- **The Ideal Cumulative Flow Diagram:**
+### The Ideal Cumulative Flow Diagram
+{: .fs-7 .no_toc }
 
 ![Ideal Cumulative Flow Diagram](/agile/assets/uploads/ideal-cfd.png)
 <div class="caption">
@@ -86,7 +88,8 @@ When a team struggles in any part of their workflow, the chart will deviate from
 
 ---
 
-- **Work in Progress is constantly increasing:**
+### Work in Progress is constantly increasing
+{: .fs-7 .no_toc }
 
 ![Increasing Work-In-Progress in Cumulative Flow Diagram](/agile/assets/uploads/increasing-work-in-progress.png)
 <div class="caption">
@@ -99,7 +102,8 @@ This trend needs to be identified quickly and corrective measures need to be tak
 
 ---
 
-- **A Single Team is Getting Blocked**
+### A Single Team is Getting Blocked
+{: .fs-7 .no_toc }
 
 ![Single Team Blocked in Cumulative Flow Diagram](/agile/assets/uploads/single-team-blocked.png)
 <div class="caption">
@@ -112,7 +116,8 @@ A good indicator that a team might be blocked is the flatlining of a particular 
 
 ---
 
-- **Multiple teams are simultaneously blocked**
+### Multiple teams are simultaneously blocked
+{: .fs-7 .no_toc }
 
 ![Multiple Teams Blocked in Cumulative Flow Diagram](/agile/assets/uploads/multiple-teams-blocked.png)
 <div class="caption">
@@ -126,7 +131,7 @@ Sometimes, your graph may end up looking like this at the end of a long weekend 
 ---
 
 ## Using Cumulative Flow Diagrams Effectively
-{: .fs-7 }
+{: .fs-9 }
 
 CFDs are a great way to keep your kanban process on track. They are easy to understand visualizations that can be generated from very little data.
 

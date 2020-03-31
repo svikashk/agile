@@ -9,11 +9,12 @@ description: Unsure how to make sense of the agile reports? This guide has you c
 permalink: reports/
 author: Vikash Koushik
 date: September 13, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Agile Reports
-{: .fs-9 }
+{: .fs-10 }
 
 Reports aren't helpful just for product managers, but can be useful for the individual contributors and the developers as well.
 

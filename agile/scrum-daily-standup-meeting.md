@@ -10,15 +10,16 @@ description: The daily scrum standup is a 15-minute meeting that makes agile dev
 permalink: scrum/daily-scrum-standup/
 author: Vikash Koushik
 date: December 12, 2018
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Daily Scrum Standup
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 ---
 
-## TOPICS COVERED IN THIS GUIDE:
+## **TOPICS COVERED IN THIS GUIDE:**
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,7 +28,7 @@ publisher: Zepel
 ---
 
 ## What’s a Daily Scrum Standup Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The Daily Scrum Meeting (or Daily Standup Meeting) takes place once a [Sprint]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) begins. It is the most common type of meeting that most teams already follow. As the name suggests, this meeting is held every day during a sprint. 
 
@@ -40,7 +41,7 @@ How does a standup meeting reveal roadblocks? Glad you asked.
 ---
 
 ## 3 Questions to answer in Daily Scrum Meeting
-{: .fs-7 }
+{: .fs-9 }
 
 During the standup meeting, each member of the development team take turns to answer 3 important questions:
 
@@ -53,7 +54,7 @@ Answering these questions help teams get an understanding of who’s working on 
 ---
 
 ## Who should attend a Daily Scrum Meeting?
-{: .fs-7 }
+{: .fs-9 }
 
 The Daily Scrum Meeting is for: 
 1. The Development Team
@@ -64,32 +65,36 @@ The Daily Scrum Meeting is for:
 ---
 
 ## How long should a Daily Scrum Meeting last?
-{: .fs-7 }
+{: .fs-9 }
 
 **The Daily Scrum Meeting should not last more than 15 minutes** and the scrum master’s role is to ensure that it stays that way. Unlike other [types of scrum meetings]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}), this meeting is the shortest.
 
 ---
 
 ## Best practices on how to run an effective Daily Scrum Meeting
-{: .fs-7 }
+{: .fs-9 }
 
-**1. Keep it conversational:**
+### 1. Keep it conversational
+{: .fs-7 .no_toc }
 
 The thing with daily standup meetings is, it can quickly become robotic when you’re trying to answer the three questions. Even worse, it could sound like an interrogation if there’s someone asking the question and you’re answering to them. 
 
 Share updates like you would when you’re talking about an interesting tech you found during a coffee break - conversational and friendly.
 
-**2. It’s the development team’s meeting:**
+### 2. It’s the development team’s meeting
+{: .fs-7 .no_toc }
 
 While other members can be present in the meeting, the daily scrum meeting is for the development team. The role of a scrum master during this meeting is to ensure other members do not disrupt the meeting and keep the meeting within the 15-minute time box.
 
-**3. Resolve roadblocks after the meeting:**
+### 3. Resolve roadblocks after the meeting
+{: .fs-7 .no_toc }
 
 During the meeting when you identify concerns, it’s easy to want to jump head first and try to solve them. But that will only end up prolonging your standup meeting. 
 
 When you identify possible roadblocks be sure to note it down separately. At the end of the meeting, meet up with the individual who is blocked and discuss in detail about the problem at hand to find solutions, adapt or replan.
 
-**4. Avoid going off-topic:**
+### 4. Avoid going off-topic
+{: .fs-7 .no_toc }
 
 It is very easy to go off topic and into a worm hole. This often leads to increasing the length of the meeting and decreases the team's productivity. A good way to counter this is to have your project management tool open as your team shares their progress. 
 
@@ -100,13 +105,15 @@ It is very easy to go off topic and into a worm hole. This often leads to increa
 
 If you're using Zepel to run Sprints, your team can open up the Sprint Board and filter by assignee. This shows you all the items assigned to a specific person and allows team members to stay focussed during the daily scrum meeting.
 
-**5. Don't use Daily Scrum as a Planning Meeting:**
+### 5. Don't use Daily Scrum as a Planning Meeting
+{: .fs-7 .no_toc }
 
 As new and when new work items crop up, it can be tempting to quickly start discussing about it and how you can implement it. 
 
 New work items, ideas or plans shouldn't be introduced in a daily scrum meeting. By discussing about new items, you'll end up steering away from the sprint's original goal and going past its deadline. Which is why this is done during the [Sprint Planning Meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}). 
 
-**6. Keep an eye on the deadline:**
+### 6. Keep an eye on the deadline
+{: .fs-7 .no_toc }
 
 Be sure to keep an eye on how many days are remaining versus how many estimation points are remaining. A good way to quickly know if you are likely to hit the deadline is to use the burndown graph and see how your team is performing in comparison to the ideal guideline.
 
@@ -120,7 +127,7 @@ You can learn more about [how to read a burndown chart in this in-depth guide]({
 ---
 
 ## Quick Summary
-{: .fs-7 }
+{: .fs-9 }
 
 ![Summary of Daily Scrum Meeting](/agile/assets/uploads/daily-scrum-meetings.png)
 

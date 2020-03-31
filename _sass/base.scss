@@ -3,6 +3,17 @@
 //
 // stylelint-disable selector-no-type, selector-max-type
 
+.badge-img {
+  box-shadow: none !important;
+}
+
+.badges {
+  text-align: center;
+  margin-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 .author-card, .post-full-footer {
   display: -ms-flexbox;
   display: flex;
@@ -92,7 +103,7 @@ h2 {
 }
 
 h4 {
-  color: #54636b;
+  color: #462ca1;
 }
 
 h3,
@@ -108,7 +119,7 @@ h6 {
 }
 
 p {
-  color: #424f56;
+  color: #1e1e27;
   // font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-bottom: 1em;
   margin-top: 1em;
@@ -151,8 +162,8 @@ figure {
 }
 
 li {
-  color: #424f56;
-  margin: 0.25em 0;
+  color: #1e1e27;
+  margin: 1em 0;
   font-size: 17px;
 }
 

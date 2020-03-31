@@ -9,11 +9,12 @@ description: Introduction to Kanban for Software Teams following Agile Methodolo
 permalink: kanban/
 author: Vidarth Jaikrishnan
 Date: September 18, 2019
+modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
 # Introduction to Kanban
-{: .fs-9 .no_toc }
+{: .fs-10 .no_toc }
 
 The concept of Kanban boards traces its origin back to the 1940s when Toyota introduced it on the factory floor. Toyota automotive realized that their production lines were a lot less efficient when compared to their American counterparts. The aim behind introducing this new method of production was to control inventory and improve the speed of delivery while maintaining the highest standards of production quality.
 
@@ -22,7 +23,7 @@ While the concept of Kanban was initially successful on the production line, it 
 ---
 
 ## Kanban for Software Development
-{: .fs-7 }
+{: .fs-9 }
 
 In the late 90s and early 2000s, there was a paradigm change happening in software development circles. People began to realise that the traditional top-down approach to building and shipping software was highly inefficient. 
 
@@ -34,13 +35,17 @@ While Kanban is a widely adopted method for software development and delivery to
 
 Any Kanban based process revolves around some core concepts and practices.
 
-**Kanban Concepts**
+### Kanban Concepts
+{: .fs-7 .no_toc }
+
 1. Start with existing processes
 1. Respect current roles, responsibilities and job titles.
 1. Pursue incremental changes
 1. Encourage acts of leadership at all levels
 
-**Kanban Practices**
+### Kanban Practices
+{: .fs-7 .no_toc }
+
 1. Visualize Workflows
 1. Restrict Work in Progress
 1. Manage Flow
