@@ -114,7 +114,7 @@ Looking at the burndown chart during an ongoing sprint can help a scrum master o
 
 Burndown Charts are an indicator of a Sprint team’s performance. During a sprint retrospective, burndown charts serve as a reference for discussions around estimation accuracy, sprint performance, roadblocks and changes to be made during subsequent sprints.
 
-<div class='mailmunch-forms-widget-880884'></div>
+<div class='mailmunch-forms-widget-883975'></div>
 
 ---
 
@@ -205,7 +205,7 @@ This is most likely because they underestimated the effort required to complete 
 1. Add more people to the team (or)
 1. Reduce the scope of the sprint by removing stories or tasks.
 
-<div class='mailmunch-forms-widget-880884'></div>
+<div class='mailmunch-forms-widget-883975'></div>
 
 ---
 

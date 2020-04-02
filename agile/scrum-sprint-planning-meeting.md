@@ -77,8 +77,6 @@ Of course, the people who will be executing each of these items in the sprint sh
 
 Irrespective of the team they belong to, if they'll be executing any of the user stories or tasks in the sprint, they should be part of the sprint planning meeting. Bringing them onboard early ensures they get a full understanding of what they'll be working on and more importantly and why they'll be working on something.
 
-<div class='mailmunch-forms-widget-880884'></div>
-
 ---
 
 ## How long should a Sprint Planning Meeting last?
@@ -160,10 +158,6 @@ In Zepel, once you've added items into a Sprint, set a start and an end date for
 {: .fs-9 }
 
 ![Summary of Sprint Planning Meeting](/agile/assets/uploads/sprint-planning-meeting.png)
-
----
-
-<div class='mailmunch-forms-widget-880884'></div>
 
 ---
 
