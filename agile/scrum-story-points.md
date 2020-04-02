@@ -86,6 +86,8 @@ However, the risk of something like this arising should be surfaced upfront and 
 
 An important thing to note is that there is no one size fits all formula for accounting for these 3 factors. The key is to find a way to factor in all 3 in a manner that accurately represents the amount of work it would take to complete the [user story]({{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}).
 
+<div class='mailmunch-forms-widget-883975'></div>
+
 ---
 
 ## Advantage of using story points
@@ -123,6 +125,8 @@ In fact, in most scenarios estimating with man hours might be the better method.
 For starters, it is contextually harder to process story points against man hours when planning. Just looking at user stories with man hours estimation is much easier to mentally process over looking at user stories with just story points. One of the workarounds for this (as mentioned above) is to use due dates in conjunction with story points for every item on the sprint backlog. This way, actual deliverables are separated from story points which is by nature an abstract number. 
 
 It also makes no sense to estimate by story points when the team is structured in such a way that each assignee can estimate the items he is working on right before the sprint. It is more straightforward and easier to plan a sprint when you can estimate in man hours and add items right before the sprint. 
+
+<div class='mailmunch-forms-widget-883975'></div>
 
 ---
 
