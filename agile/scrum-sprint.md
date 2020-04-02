@@ -14,7 +14,7 @@ modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
-# The definitive guide to Sprint in Scrum
+# The definitive guide to Scrum Sprint
 {: .fs-10 .no_toc }
 
 *Scrum.*
@@ -209,7 +209,7 @@ Until the scrum team is habitual to communicating obstacles, it can be a good pr
 
 As you can imagine, asking if anyone in the team is facing any issues with completing their task every day helps build a healthy habit of communicating early. This can help the team uncover risks early and avoid the sprint from getting delayed or not achieving its goal.
 
-Another great way to see if your team is having a roadblock is to keep an eye on the burndown or burnup report. If your [burndown report]({{ site.url }}{{ site.baseurl }}{% link agile/reports-burndown.md %}) looks like the below image at the end of the sprint, it means your team don't update progress regularly. This could be due to difficulty in using the tool or they might've hit a roadblock and need help. When this happens, it can result in the product owner being left in the dark and ultimately lead to a missed deadline.
+Another great way to see if your team is having a roadblock is to keep an eye on the burndown or burnup report. If your [burndown report]({{ site.url }}{{ site.baseurl }}{% link agile/reports-burndown.md %}) looks like the below image at the end of the sprint, it means your team doesn't update progress regularly. This could be due to difficulty in using the tool or they might've hit a roadblock and need help. When this happens, it can result in the product owner being left in the dark and ultimately lead to a missed deadline.
 
 ![End of Sprint updates in a Burndown Chart](/agile/assets/uploads/end-of-sprint-updates.png)
 <div class="caption">
@@ -277,12 +277,21 @@ This keeps the tone of the meeting positive and encourages others to improve.
 ## What should you look for in a tool that supports scrum sprints?
 {: .fs-9 }
 
-Organizations experience invisible loss in their business due to inefficiencies in their product development efforts. 82% of the customers leave due to poor experience. 14% of that is because the product/service didn’t meet their expectations according to research by [The American Society of Quality Control](https://www.slideshare.net/cloudCEO/winweb-cloud-computing-amp-your-customers).
+In product development, the definition of success is vague. Inefficiencies are invisible. But failures are apparent. Which is why you don’t need just any other project management tool.
 
-Since product development is a multi-disciplinary effort, current project management tools barely cut it. Nearly 56% of all product and project managers are on the lookout for a new tool every year. According to [ Software Advice](https://www.softwareadvice.com/resources/it-project-management-buyer-trends-2016/), the primary reason is that they need a more robust solution (37%).
+Nearly 56% of all product and project managers are on the lookout for a new tool every year. According to [Software Advice](https://www.softwareadvice.com/resources/it-project-management-buyer-trends-2016/), the primary reason is that they need a more robust solution (37%).
 
 But what does a robust solution even mean?
+
+You need the ability to track progress at a micro level (task level) and see how it affects the progress at a macro level (feature level).
+
+![Document interface to plan features](/agile/assets/uploads/pyramid-of-development-tracking-needs.png)
+<div class="caption">
+<small>The pyramid of development tracking needs</small>
+</div>
 <br>
+
+Let’s look at how this translates to the capabilities you should look for in a scrum project management tool.
 
 ### Effortless and flexible feature planning
 {: .fs-7 .no_toc }
@@ -358,6 +367,39 @@ Here’s how this should translate into features in your sprint tool:
 </div>
 <br>
 
+### Gain complete visibility into the Sprint’s progress
+{: .fs-7 .no_toc }
+
+Checking off user stories from your Sprint is great. But you still need to track the sprint’s progress as a whole. You need to see how many estimation points are remaining, what percentage of the sprint is completed, and when needed, manage workload using a Scrum Board.
+
+Here are few questions you should ask yourself while evaluating a scrum software tool:
+- Do you get a dedicated view for tracking Sprints? Or should you duct-tape your tool and setup configurations to run and track a sprint?
+- Can you track each item in the sprint backlog?
+- Are you able to track effortlessly on how much work is pending in the Sprint? Ideally, you should be able to track this by number of items, estimation points, or by percentage.
+- Does the tool allow you to quickly navigate to track progress using reports?
+
+![Sprint view in Zepel](/agile/assets/uploads/zepel-sprint.png)
+<div class="caption">
+<small>Sprints in Zepel</small>
+</div>
+
+Features you should look for in a scrum software:
+- A dedicated view that lets you track the entire sprint. 
+- The ability to view reports, track a specific item in the sprint, and view the sprint in a scrum board.
+
+<div class="highlight-row">
+<div class="highlight-column">
+<div class="highlight-card">
+    <div class="highlight-container">
+        <a href="https://zepel.io/features/sprints/?utm_source=agilelibrary&utm_medium=mid-cta&utm_campaign=scrumsprint" target="_blank">
+        <p class="highlight-card-title">Ship quality features every time with Sprints in Zepel  →</p>
+        </a>    
+    </div>
+</div>
+</div>
+</div>
+<br>
+
 ### Ability to track progress in multiple levels
 {: .fs-7 .no_toc }
 
@@ -379,7 +421,6 @@ Some questions to ask yourself when evaluating a scrum tool:
 
 How does this translate into features in a scrum software tool?
 
-- Dedicated view for sprints with sprint reports
 - My tasks to focus on just the items assigned to you
 - Ability to create specific workflows for each team to track their progress
 - A dedicated view that captures all the updates and shows the progress of the entire feature
