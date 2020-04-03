@@ -101,6 +101,8 @@ To make life easier, here’s a simple template you can use for writing acceptan
 
 > Given [context] when [a specific action is performed] then [a set of consequences should occur]
 
+<div class='mailmunch-forms-widget-883975'></div>
+
 ---
 
 ## Sample examples of acceptance criteria
@@ -135,6 +137,8 @@ In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaig
 Pretty much anyone on the [cross-functional team](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=acceptance-criteria) can write acceptance criteria for user stories.
 
 Most of the times it is the product owner or the product manager who writes the acceptance criteria because it is important to write it from a customer's perspective. And who better to do that than them?
+
+<div class='mailmunch-forms-widget-883975'></div>
 
 ---
 

@@ -42,6 +42,8 @@ With work items continously getting added and removed from the backlog, the Prod
 
 Once prioritized, the development team then works on them either using an iterative approach (by [running Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %})) or a continous approach (tracking on a Kanban).
 
+<div class='mailmunch-forms-widget-883975'></div>
+
 ---
 
 ## Keeping Your Backlog Organized

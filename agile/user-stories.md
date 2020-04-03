@@ -89,6 +89,10 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 
 <center><i>As a <font color="DC143C">[persona]</font>, I want <font color="0000ff">[need]</font> so that <font color="008000">[goal]</font></i></center>
 
+<br><br>
+
+<div class='mailmunch-forms-widget-883975'></div>
+
 ---
 
 ## Examples of user stories
@@ -190,6 +194,8 @@ With every story focussed on your customers, your team will have an easier time 
 
 > “In a sense, there’s just one mistake that kills startups: not making something users want.”
 > ~ Paul Graham
+
+<div class='mailmunch-forms-widget-883975'></div>
 
 ### Help prioritize key functionalities
 {: .fs-7 .no_toc }

@@ -51,6 +51,8 @@ The product owner owns the backlog, strives to prioritize, and takes all the key
 
 The scrum master is responsible for making sure the entire team has everything they need to build and ship a task or user story on time. This person often communicates progress and ensures there aren’t any roadblocks.
 
+<div class='mailmunch-forms-widget-883975'></div>
+
 ---
 
 <div class="highlight-row">
