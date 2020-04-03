@@ -82,7 +82,7 @@ The simplest Kanban boards are simple sticky notes on whiteboards with columns. 
 - Searching and finding information is hard
 - Physical boards work for small teams but don’t scale for large kanban teams
 
-These restrictions with the physical kanban cards led to the rise of digital kanban tools.
+These restrictions with the physical kanban cards led to the rise of digital kanban software tools.
 
 ---
 
