@@ -85,12 +85,11 @@ Once categorized based on near-term and long-term goals, the product owners shou
   </div>
 </div>
 </div>
-
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}">
-    <p class="card-title">Read Next: What is a Sprint in Scrum?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-story-points.md %}">
+    <p class="card-title">Read Next: Story Points  →</p>
     </a>
   </div>
 </div>

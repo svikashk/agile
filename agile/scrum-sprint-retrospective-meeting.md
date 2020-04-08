@@ -134,8 +134,8 @@ If you ran a sprint prior to this, you most liekly had few points that you wante
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-story-points.md %}">
-    <p class="card-title">Read Next: Story Points  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}">
+    <p class="card-title">Read Next: What is a Sprint in Scrum?  →</p>
     </a>
   </div>
 </div>

@@ -5,7 +5,7 @@ page_title: Sprints
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
-nav_order: 4
+nav_order: 11
 description: In this guide, you will learn what a Sprint in Scrum is. You'll also learn step-by-step on how to implement it in your team with best practices.
 permalink: scrum/sprint/
 author: Vikash Koushik
@@ -525,8 +525,8 @@ Since Zepel is built for software product teams, you are also provided with tigh
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}">
-    <p class="card-title">←  Read Previous: What is a Backlog?</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}">
+    <p class="card-title">←  Read Previous: Sprint Retrospective</p> 
     </a>
   </div>
 </div>
@@ -535,8 +535,8 @@ Since Zepel is built for software product teams, you are also provided with tigh
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}">
-    <p class="card-title">Read Next: Scrum Meetings  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-board.md %}">
+    <p class="card-title">Read Next: Scrum Board  →</p>
     </a>
   </div>
 </div>
