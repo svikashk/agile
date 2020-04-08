@@ -180,8 +180,8 @@ The team usually tries to come up with what they'd like to do differently in the
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}">
-    <p class="card-title">←  Read Previous: Scrum Sprint</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-story-points.md %}">
+    <p class="card-title">←  Read Previous: Story Points</p> 
     </a>
   </div>
 </div>
