@@ -5,7 +5,7 @@ page_title: Story Points
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
-nav_order: 11
+nav_order: 4
 description: Story points is commonly used by agile scrum teams as a way of estimating how much work needs to be done. Learn more about story points.
 permalink: scrum/story-points/
 author: Vidarth Jaikrishnan
@@ -152,8 +152,8 @@ Choosing the correct method of estimation is essential in determining the outcom
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}">
-    <p class="card-title">←  Read Previous: Sprint Retrospective</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}">
+    <p class="card-title">←  Read Previous: What is a Backlog?</p> 
     </a>
   </div>
 </div>
@@ -162,8 +162,8 @@ Choosing the correct method of estimation is essential in determining the outcom
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">Read Next: Agile Kanban  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}">
+    <p class="card-title">Read Next: Scrum Meetings  →</p>
     </a>
   </div>
 </div>
