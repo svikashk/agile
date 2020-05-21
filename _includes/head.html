@@ -3,9 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   <link rel="preconnect" href="https://api.segment.io" crossorigin="anonymous">
-  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous">
   <link rel="preconnect" href="http://analytics.mailmunch.co" crossorigin="use-credentials">
   <link rel="preconnect" href="http://intercom.com" crossorigin="use-credentials">  
+  <link rel="preconnect" href="https://connect.facebook.net" crossorigin="anonymous">
+  <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin="anonymous">
+  <link rel="preconnect" href="https://a.mailmunch.co" crossorigin="anonymous">
 
   {% if site.dont-allow-tracking == true %}
     <meta name="robots" content="noindex">
@@ -26,5 +29,4 @@
   <title>{{ page.title }}</title>
   <meta property="article:modified_time" content="{{page.modified_time}}">
   {% seo title=false %}
-  
 </head>
