@@ -514,10 +514,10 @@ Since Zepel is built for software product teams, you are also provided with tigh
 <div class="cta">
     <h2 class="cta-heading">Ready to streamline your development process using Sprints?</h2>
     <p class="cta-para">Remove inefficiencies from your development process and ship better software every time.</p>
-    <a href="https://zepel.io/solutions/scrum/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" class="cta-button">TRY ZEPEL FOR FREE</a>
+    <a href="https://zepel.io/solutions/scrum/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
 
-<a href="https://zepel.io/solutions/scrum/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" class="cta-image"><img src="/agile/assets/uploads/scrum-sprint-cta.png" alt="sprint planning template button"/></a>
+<a href="https://zepel.io/solutions/scrum/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumsprint" class="cta-image"><img src="/agile/assets/uploads/scrum-sprint-cta.png" alt="sprint planning template button"/></a>
 
 ---
 

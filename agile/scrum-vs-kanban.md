@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum vs Kanban - 5 questions to answer before you choose
+title: Scrum vs Kanban - Differences and how to choose for your team
 page_title: Scrum vs Kanban
 nav_order: 6
 has_children: false
@@ -74,43 +74,43 @@ The most common Kanban implementations used by software teams are on physical Ka
 
   Are you looking to fundamentally change your underlying process or are you just looking to improve visibility of what is happening and clear roadblocks?
 
-  Scrum could be the right option if you believe that you need to spend more time planning your products and moving your development efforts to a more iterative style of delivery.
+  __Scrum could be the right option if you believe that you need to spend more time planning your products and moving your development efforts to a more iterative style of delivery.__
 
-  Kanban may be a better fit if improving visibility of work progress is the most important outcome. Kanban focuses on making existing processes more visible and surfacing bottlenecks - leading to steady process improvement.
+  __Kanban may be a better fit if improving visibility of work progress is the most important outcome. Kanban focuses on making existing processes more visible and surfacing bottlenecks - leading to steady process improvement.__
 
 ### 2. How are your teams structured?
 {: .fs-7 .no_toc }
 
-  Scrum works best in a [cross functional team](https://www.scrum-institute.org/Scrum_Roles_The_Scrum_Team.php) environment. As you are required to arrive at a shippable/demo-ready feature at the end of every sprint, specialised teams struggle to fully adopt scrum. For example - a typical scrum squad could consist of designers, developers, QA and a scrum master. This cross functional team is constructed to be able to take care of end to end product delivery. 
+  __Scrum works best in a [cross functional team](https://www.scrum-institute.org/Scrum_Roles_The_Scrum_Team.php) environment.__ As you are required to arrive at a shippable/demo-ready feature at the end of every sprint, specialised teams struggle to fully adopt scrum. For example - a typical scrum squad could consist of designers, developers, QA and a scrum master. This cross functional team is constructed to be able to take care of end to end product delivery. 
 
   In addition to this, scrum requires teams to have members that have scrum-specific roles. The most important of these are the product owner and the scrum master. Team members have to be specially trained in these roles and responsibilities.
 
-  Kanban is suitable for both [cross-functional collaboration](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) and specialised teams. It also does not require any specialised roles in the team.
+  __Kanban is suitable for both [cross-functional collaboration](https://zepel.io/blog/cross-functional-collaboration/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) and specialised teams.__ It also does not require any specialised roles in the team.
 
 ### 3. How clearly structured and repeatable are your processes?
 {: .fs-7 .no_toc }
 
-  Kanban is better suited for processes that can be laid laid out on a sheet of paper(clearly visualised). It also helps when these processes are mostly repeatable.
+  __Kanban is better suited for processes that can be laid laid out on a sheet of paper(clearly visualised).__ It also helps when these processes are mostly repeatable.
 
-  Scrum does not focus as much on the underlying workflow but requires your [product development process](https://zepel.io/blog/product-development-process/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) to be broken down into sprints. If your team or product does not suit a development lifecycle that consists of a series of sprints, you are likely to find it difficult to implement scrum. 
+  __Scrum does not focus as much on the underlying workflow but requires your [product development process](https://zepel.io/blog/product-development-process/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrum-vs-kanban) to be broken down into sprints.__ If your team or product does not suit a development lifecycle that consists of a series of sprints, you are likely to find it difficult to implement scrum. 
 
   Similarly, if your team is taking up a lot of ad-hoc tasks that require different workflows, you might struggle to implement Kanban effectively.
 
 ### 4. How frequently do you ship features?
 {: .fs-7 .no_toc }
 
-  Scrum teams work in batches or sprints. Continuous deployment of features can be difficult to achieve in a Scrum environment. This is mainly because products are usually scoped down to arrive at demo ready sprint targets. This often leads to teams building versions of features that are batched together in releases.
+  __Scrum teams work in batches or sprints. Continuous deployment of features can be difficult to achieve in a Scrum environment.__ This is mainly because products are usually scoped down to arrive at demo ready sprint targets. This often leads to teams building versions of features that are batched together in releases.
 
-  Kanban is designed to support continuous delivery. The focus of the framework is to continuously deliver features while constantly striving to reduce the time it takes to deliver.
+  __Kanban is designed to support continuous delivery.__ The focus of the framework is to continuously deliver features while constantly striving to reduce the time it takes to deliver.
 
 ### 5. How quickly do you need to see results?
 {: .fs-7 .no_toc }
 
-  Scrum is inherently more complicated to implement than kanban. The amount of training and planning that is needed to implement scrum in an organisation is quite large. 
+  __Scrum is inherently more complicated to implement than kanban. The amount of training and planning that is needed to implement scrum in an organisation is quite large.__
 
   Scrum also involves several specialised roles like the product owner and the scrum master who need to be hired or trained separately. To add to this, the culture of [meetings]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}) before and after sprints will have to be slowly integrated into the company. This could take significant time and investment to get right. Also, failed scrum implementations are a lot more common simply because of a complete overhaul of existing processes. 
 
-  Kanban on the other hand focuses on incremental change. It can be implemented fairly quickly and requires fairly minimal management buy-in. If you are looking to get started with agile and make gradual progress towards becoming more efficient, Kanban might be your best bet. 
+  __Kanban on the other hand focuses on incremental change in your organization. It can be implemented fairly quickly and requires fairly minimal management buy-in.__ If you are looking to get started with agile and make gradual progress towards becoming more efficient, Kanban might be your best bet. 
 
 ---
 
@@ -131,18 +131,6 @@ The most common Kanban implementations used by software teams are on physical Ka
 - You feel your teams can **dedicate more time for meetings**. Scrum takes quite a few iterations to get right. Planning meetings and retrospectives may add overheads and drag timelines - but they are essential to making scrum work. **You have enough time to get it right**. Teams typically start seeing performance improvements after 3-4 sprints. 
   It is not uncommon for teams to miss targets by miles in the first few sprints. Understanding processes, getting good at estimation and figuring out roles - all take time. Scrum may disappoint you if the goal is to see improvements from day one.
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/solutions/scrum/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrum-vs-kanban" target="_blank">
-        <p class="highlight-card-title">See how you can run Scrum with your team in Zepel  →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
-
 ---
 
 ### Choose Kanban if:
@@ -160,17 +148,13 @@ The most common Kanban implementations used by software teams are on physical Ka
 
 - You want to implement and **get started quickly**.  
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/solutions/kanban/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrum-vs-kanban" target="_blank">
-        <p class="highlight-card-title">See how you can build together using Kanban in Zepel  →</p>
-        </a>    
-    </div>
+<div class="cta">
+    <h2 class="cta-heading">Build great software together!</h2>
+    <p class="cta-para">Zepel is the project management tool that supports both Scrum and Kanban. Built with powerful developer-friendly capabilities.</p>
+    <a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumvskanban" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
-</div>
-</div>
+
+<a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=scrumvskanban" class="cta-image"><img src="/agile/assets/uploads/zepel-cta-scrum-vs-kanban.png" alt="zepel scrum vs kanban sign up button"/></a>
 
 ---
 

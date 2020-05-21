@@ -1,15 +1,15 @@
 ---
 layout: default
-title: How to Write Good User Stories - With Examples & Templates
+title: What Is A User Story? How To Write, Templates, And Examples Included
 page_title: User Stories
 has_children: true
 nav_order: 7
-description: Learn what user stories are and how to write user stories. Examples, templates, format, and best practices included in this extensive guide.
+description: User Story in Agile is a way of capturing requirements and description of a software from a user's perspective. Examples, templates, format, and best practices included.
 permalink: user-stories/
 icon_path: /assets/uploads/user-stories.svg
 author: Vikash Koushik
 date: May 09, 2019
-modified_time: "2020-03-31T10:54:26+00:00"
+modified_time: "2020-04-15T10:54:26+00:00"
 publisher: Zepel
 
 ---
@@ -55,7 +55,7 @@ That means, user stories do not contain technical details of how the feature wil
 
 > If you think about it, every feature you build has little to do with advanced functionalities and everything to do with satisfying the user’s needs.
 
-Writing a user story might seem like an easy thing, once you’ve collected enough information about your users, their needs, and what their goals are.
+Writing a user story might seem like an easy thing once you’ve collected enough information about your users, their needs, and what their goals are.
 
 But when your feature’s quality depends on how well you define the user story, you simply can’t afford to wing it when it comes to writing user stories, can you?
 
@@ -72,7 +72,7 @@ Luckily you can take the below templates to write user stories and unite your te
 
 Also known as the [Connextra format](https://www.agilealliance.org/glossary/role-feature/) in recognition of its origin when it was created at Connextra in the UK.
 
-<center><i>As a <font color="DC143C">[role]</font>, I can <font color="0000ff">[capability]</font> so that <font color="008000">[receive benefit]</font></i></center><br>
+<center style="font-size: 17px;"><i>As a <font color="DC143C">[role]</font>, I can <font color="0000ff">[capability]</font> so that <font color="008000">[receive benefit]</font></i></center><br>
 
 - **Another version of writing a user story:**
 
@@ -87,9 +87,9 @@ There are several templates floating on the internet to help you write a user st
 
 The hard part is getting these 3 data points accurate. You need to do your research, talk to your users, and understand their needs. And only then, with enough information collected, you’ll be able to write good user stories using this simple template:
 
-<center><i>As a <font color="DC143C">[persona]</font>, I want <font color="0000ff">[need]</font> so that <font color="008000">[goal]</font></i></center>
+<center style="font-size: 17px;"><i>As a <font color="DC143C">[persona]</font>, I want <font color="0000ff">[need]</font> so that <font color="008000">[goal]</font></i></center>
 
-<br><br>
+<br>
 
 <div class='mailmunch-forms-widget-883975'></div>
 
@@ -98,9 +98,9 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 ## Examples of user stories
 {: .fs-9 }
 
-**For a made-up live chat app, we'll use the above template and share 5 user stories examples**:
+For a made-up live chat app, we'll use the above template to write user stories. For example, user stories might look like:
 
-<ol>
+<ol style="font-size: 17px;">
 <li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>talk to support teams</i></font> so that <font color="008000"><i>I can get my questions answered quickly</i></font>.</li>
 <li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>book a demo</i></font> so that <font color="008000"><i>I don't have to wait for them to respond to my contact form</i></font>.</li>
 <li>As a <font color="DC143C"><i>marketing leader</i></font>, I want to <font color="0000ff"><i>automate the live chat</i></font> so that <font color="008000"><i>I can sign leads even when I'm sleeping</i></font>.</li>
@@ -238,17 +238,13 @@ So, the next time you build a new feature, fire up your [Zepel](https://zepel.io
 
 ---
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/features/plan-features/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=writeuserstory" target="_blank">
-        <p class="highlight-card-title">See how you can effortlessly plan features with Zepel  →</p>
-        </a>    
-    </div>
+<div class="cta">
+    <h2 class="cta-heading">Build great software together!</h2>
+    <p class="cta-para">Zepel is the project management tool that supports both Scrum and Kanban. Built with powerful developer-friendly capabilities.</p>
+    <a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=userstories" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
-</div>
-</div>
+
+<a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=userstories" class="cta-image"><img src="/agile/assets/uploads/zepel-cta-scrum-vs-kanban.png" alt="zepel sign up button"/></a>
 
 ---
 

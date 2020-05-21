@@ -10,7 +10,7 @@ description: Burndown charts are a great way to visualize sprint progress. In th
 permalink: reports/burndown/
 author: Vidarth Jaikrishnan
 date: November 26, 2018
-modified_time: "2020-03-31T10:54:26+00:00"
+modified_time: "2020-05-21T10:54:26+00:00"
 publisher: Zepel
 ---
 
@@ -249,17 +249,24 @@ Burndown charts are a great way to visualize a sprint’s progress. Like all too
 
 ---
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/features/reports/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=burndown" target="_blank">
-        <p class="highlight-card-title">See how you can unearth opportunities with Reports in Zepel  →</p>
-        </a>    
-    </div>
+## Create the most effective burndown chart with the least effort
+{: .fs-9 }
+
+Burndown charts work if you update them consistently. However, you must know how much progress you've made in your Sprint, and compile that information and plot it for each day.
+
+The simplest and easiest way to do this is by using an [agile project management software](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=burndown) that generates a burndown chart for you and updates it in real-time. 
+
+[Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=burndown), a project management tool for software product teams, can do this for you. That way, you can focus more of your time building software and less of it on updating charts. Step right in. The water is warm. And it's for free!
+
+---
+
+<div class="cta">
+    <h2 class="cta-heading">Track progress with Agile reports</h2>
+    <p class="cta-para">Use burnup, burndown, and cumulative reports to track your software development and ship better software every time.</p>
+    <a href="https://zepel.io/solutions/scrum/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=burndownreport" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
-</div>
-</div>
+
+<a href="https://zepel.io/solutions/scrum/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=burndownreport" class="cta-image"><img src="/agile/assets/uploads/zepel-cta-reports.png" alt="zepel burndown reports sign up button"/></a>
 
 ---
 

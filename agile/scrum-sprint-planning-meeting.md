@@ -14,7 +14,7 @@ modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
-# Sprint Planning Meeting
+# What is Sprint Planning Meeting? How to run Sprint Planning Meeting?
 {: .fs-10 .no_toc }
 
 ---

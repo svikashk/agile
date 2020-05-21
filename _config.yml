@@ -22,7 +22,6 @@ exclude: [prod, staging, _config.yml, LICENSE, _redirects, "node_modules/", "*.g
 
 # Enable or disable the site search
 search_enabled: true
-add-tag-manager: false
 
 # Aux links for the upper right navigation
 aux_links:
