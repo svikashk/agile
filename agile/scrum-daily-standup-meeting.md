@@ -14,7 +14,7 @@ modified_time: "2020-03-31T10:54:26+00:00"
 publisher: Zepel
 ---
 
-# Daily Scrum Standup
+# What is Daily Scrum Standup Meeting? Best practices to run Daily Scrum Meetings
 {: .fs-10 .no_toc }
 
 ---

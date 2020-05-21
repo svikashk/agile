@@ -4,7 +4,7 @@ title: Acceptance Criteria - What Is It? Examples and Templates Included
 description: Learn what acceptance criteria is. Includes how to write it for user stories with templates and examples.
 page_title: Acceptance Criteria
 has_children: false
-parent: How to Write Good User Stories - With Examples & Templates
+parent: What Is A User Story? How To Write, Templates, And Examples Included
 parent_page_title: User Stories
 nav_order: 1
 permalink: user-stories/acceptance-criteria/
@@ -155,17 +155,13 @@ After all, you need all the available information at your disposal to [prioritiz
 
 ---
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/features/plan-features/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=acceptance-criteria" target="_blank">
-        <p class="highlight-card-title">See how you can effortlessly plan features with Zepel  →</p>
-        </a>    
-    </div>
+<div class="cta">
+    <h2 class="cta-heading">Build great software together!</h2>
+    <p class="cta-para">Zepel is the project management tool that supports both Scrum and Kanban. Built with powerful developer-friendly capabilities.</p>
+    <a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=acceptancecriteria" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
-</div>
-</div>
+
+<a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=acceptancecriteria" class="cta-image"><img src="/agile/assets/uploads/zepel-cta-scrum-vs-kanban.png" alt="zepel sign up button"/></a>
 
 ---
 
