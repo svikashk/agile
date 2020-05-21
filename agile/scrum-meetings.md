@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Guide To Scrum Meetings And Types of Scrum Meetings
-page_title: Ceremonies or Meetings
+title: Ultimate Guide To Scrum Ceremonies And Types of Scrum Meetings
+page_title: Scrum Ceremonies
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 6
-description: Scrum meetings are an essential part of scrum. Learn what it is and the different types of scrum meetings.
-permalink: scrum/meetings/
+description: Want to learn how to run Scrum Ceremonies? Use this definitive guide to learn about the different types of scrum meetings.
+permalink: scrum/scrum-ceremonies/
 author: Vikash Koushik
 date: December 12, 2018
-modified_time: "2020-03-31T10:54:26+00:00"
+modified_time: "2020-05-21T10:54:26+00:00"
 publisher: Zepel
 ---
 
-# Scrum Ceremonies or Meetings 
+# The Definitive Guide to Scrum Ceremonies or Scrum Meetings 
 {: .fs-10 .no_toc }
 
 ## **TOPICS COVERED IN THIS GUIDE:**
@@ -30,11 +30,26 @@ publisher: Zepel
 
 To answer what Scrum Ceremonies or Meetings are, let us first take a step back.
 
-[Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an agile framework that lets you build and deliver value to customers iteratively by running [Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), where the team timeboxes a collection of work items and completes them.
 
-**To ensure that a Sprint runs smoothly and the team doesn't lose focus, multiple meetings, known as Scrum Ceremonies or Meetings, are held during the lifecycle of a Sprint**. 
+[Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an [agile software development framework]({{ site.url }}{{ site.baseurl }}{% link agile/agile-software-development.md %}) that lets you build and deliver value to customers iteratively by running [Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), where the team timeboxes a collection of work items and completes them.
 
-By running scrum meetings, teams can ensure what they build and ship at the end of the sprint is useful to customers and ultimately move the needle for the business.
+**To ensure that a Sprint runs smoothly and the team doesn't lose focus, multiple meetings, known as Scrum Ceremonies, are held during the lifecycle of a Sprint**. 
+
+It is divided into the three main categories — __Scrum Roles__, __Scrum Ceremonies__ (also known as events or meetings) and __Scrum Artifacts__.
+
+[Scrum roles]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) define the responsibilities of each person who will be in the Scrum team. Primarily, it will involve these three roles:
+
+- __The development team:__ a group of individuals who have the technical knowledge to build useful software. 
+- __The product owner:__ who prioritizes product improvements and works with the development team and other stakeholders.
+- __The scrum master:__ who facilitiates multiple the team’s work through processes.
+
+Scrum artifacts includes three things.
+
+- __The product backlog:__ a ranked list of items that is requested by the customer or a stakeholder in the product. 
+- __The sprint backlog:__ is derived from the product backlog, but contains only the prioritized items that will be worked on in the current sprint. 
+- __The product increment:__ is the sum of all the Product Backlog items that was done during a Sprint and the value of the increments of all previous Sprints. What this means is, whatever was the result of the sprint is an increment. Of course, for it to be considered as an increment, it should first meet the pre-defined definition of done i.e. the end result should be a usable product can be “shipped".
+
+Scrum ceremonies are organized meetings designed to organize the work of a sprint, so that you can quickly adapt to the changing needs of the software development and stay in sync. By running scrum ceremonies, teams can ensure what they build is useful to customers and ultimately move the needle for the business.
 
 If you are someone who questions the importance of several meetings, I can understand and I don't blame you.
 
@@ -57,10 +72,10 @@ Scrum meetings aims to do just that - By running meetings at different phases th
 
 ---
 
-## Types of Scrum Meetings
+## What are the types of Scrum Ceremonies or Meetings
 {: .fs-9 }
 
-There are four types of scrum meetings:
+There are four types of scrum ceremonies or meetings:
 
 1. Sprint Planning
 1. Daily Scrum
@@ -73,7 +88,7 @@ The internet is overflowing with blog posts that cover the basics from why you s
 
 With each scrum meeting focussed on achieving a specific goal, everything from who attends it to best practices will vary.
 
-So, how do you make each of your scrum meetings productive, effective, and efficient?
+So, how do you make each of your scrum ceremonies productive, effective, and efficient?
 
 Let’s jump in and find out.
 

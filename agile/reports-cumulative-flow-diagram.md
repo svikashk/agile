@@ -146,17 +146,13 @@ Like all other tools in a product owner’s repertoire, following a few best pra
 
 ---
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="https://zepel.io/features/reports/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=cfd" target="_blank">
-        <p class="highlight-card-title">See how you can unearth opportunities with Reports in Zepel  →</p>
-        </a>    
-    </div>
+<div class="cta">
+    <h2 class="cta-heading">Track progress with Agile reports</h2>
+    <p class="cta-para">Use burnup, burndown, and cumulative reports to track your software development and ship better software every time.</p>
+    <a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=cumulativereport" class="cta-button">TRY ZEPEL FOR FREE</a>
 </div>
-</div>
-</div>
+
+<a href="https://zepel.io/?open_modal=true&utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=cumulativereport" class="cta-image"><img src="/agile/assets/uploads/zepel-cta-reports.png" alt="zepel cumulative reports sign up button"/></a>
 
 ---
 
