@@ -9,7 +9,7 @@ permalink: user-stories/
 icon_path: /assets/uploads/user-stories.svg
 author: Vikash Koushik
 date: May 09, 2019
-modified_time: "2020-04-15T10:54:26+00:00"
+modified_time: "2020-05-27T10:54:26+00:00"
 publisher: Zepel
 
 ---
@@ -44,7 +44,7 @@ When done properly, user stories let your team stay focused on satisfying the us
 
 ---
 
-## How to write a good user story?
+## How to write a good user story in agile?
 {: .fs-9 }
 
 User stories are short, simple descriptions of how a feature will be used. They are written in an informal, natural language, from a user’s perspective. It reflects their *need* and the *goal* they intend to achieve by using your feature.
@@ -61,22 +61,41 @@ But when your feature’s quality depends on how well you define the user story,
 
 ---
 
+## Who writes user stories in agile?
+{: .fs-9 }
+
+Anyone can write user stories in an agile scrum team. However, it is the product owner's responsibility to make sure all user stories have all the information required to prioritize before the sprint begins.
+
+To enable everyone to quickly add user stories, the agile scrum team can use a user story template. 
+
+Let's look at some templates you can use to write user stories.
+
+---
+
 ## Templates to write the perfect user story
 {: .fs-9 }
 
 Writing a user story that everyone in your team understands, is simple, and to the point without technical details can be hard. The further you drift away from talking from a user’s perspective, the more details you’ll add and lesser useful it’ll be for you and your team.
 
 Luckily you can take the below templates to write user stories and unite your team to focus on one true cause - solving your user’s problems.
+<br>
 
-- **Role - Feature - Reason format:**
+### Role - Feature - Reason format
+{: .no_toc }
 
 Also known as the [Connextra format](https://www.agilealliance.org/glossary/role-feature/) in recognition of its origin when it was created at Connextra in the UK.
 
-<center style="font-size: 17px;"><i>As a <font color="DC143C">[role]</font>, I can <font color="0000ff">[capability]</font> so that <font color="008000">[receive benefit]</font></i></center><br>
+**As a [role], I can [capability] so that [receive benefit]**
 
-- **Another version of writing a user story:**
+<br>
 
-As a [particular user], I want to [be able to perform/do something] so that [I get some form of value or benefit].
+### Another version of writing a user story
+{: .no_toc }
+
+**As a [particular user], I want to [be able to perform/do something] so that [I get some form of value or benefit].**
+
+<br>
+
 There are several templates floating on the internet to help you write a user story. But at its core, if you want to write good user stories, you need to define 3 things:
 
 1. **User Persona:** The person who is going to use the feature. Personas are often a fictional character developed based on real data.
@@ -87,7 +106,7 @@ There are several templates floating on the internet to help you write a user st
 
 The hard part is getting these 3 data points accurate. You need to do your research, talk to your users, and understand their needs. And only then, with enough information collected, you’ll be able to write good user stories using this simple template:
 
-<center style="font-size: 17px;"><i>As a <font color="DC143C">[persona]</font>, I want <font color="0000ff">[need]</font> so that <font color="008000">[goal]</font></i></center>
+For a made-up live chat app, we'll use this template to write user stories. 
 
 <br>
 
@@ -95,18 +114,16 @@ The hard part is getting these 3 data points accurate. You need to do your resea
 
 ---
 
-## Examples of user stories
+## User Stories Examples 
 {: .fs-9 }
 
-For a made-up live chat app, we'll use the above template to write user stories. For example, user stories might look like:
+Here are five examples of user stories:
 
-<ol style="font-size: 17px;">
-<li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>talk to support teams</i></font> so that <font color="008000"><i>I can get my questions answered quickly</i></font>.</li>
-<li>As a <font color="DC143C"><i>website visitor</i></font>, I want to <font color="0000ff"><i>book a demo</i></font> so that <font color="008000"><i>I don't have to wait for them to respond to my contact form</i></font>.</li>
-<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want to <font color="0000ff"><i>automate the live chat</i></font> so that <font color="008000"><i>I can sign leads even when I'm sleeping</i></font>.</li>
-<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want <font color="0000ff"><i>my leads to integrate with my CRM tool</i></font> so that <font color="008000"><i>my sales team is always updated with the latest information</i></font>.</li>
-<li>As a <font color="DC143C"><i>marketing leader</i></font>, I want <font color="0000ff"><i>my leads to integrate with my marketing tools</i></font> so that <font color="008000"><i>I can attribute leads to specific campaigns</i></font>.</li>
-</ol>
+- As a website visitor, I want to talk to support teams so that I can get my questions answered quickly.
+- As a website visitor, I want to book a demo so that I don't have to wait for them to respond to my contact form.
+- As a marketing leader, I want to automate the live chat so that I can sign leads even when I'm sleeping.
+- As a marketing leader, I want my leads to integrate with my CRM tool so that my sales team is always updated with the latest information.
+- As a marketing leader, I want my leads to integrate with my marketing tools so that I can attribute leads to specific campaigns.
 
 In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once you've created a User Story, you can effortlessly capture more details and view everything about the user story with a unified view.
 
