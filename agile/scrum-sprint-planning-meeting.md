@@ -166,7 +166,7 @@ In Zepel, once you've added items into a Sprint, set a start and an end date for
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}">
-    <p class="card-title">←  Read Previous: Scrum Meetings</p> 
+    <p class="card-title">←  Read Previous: Scrum Ceremonies</p> 
     </a>
   </div>
 </div>

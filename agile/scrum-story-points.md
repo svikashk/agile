@@ -163,7 +163,7 @@ Choosing the correct method of estimation is essential in determining the outcom
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}">
-    <p class="card-title">Read Next: Scrum Meetings  →</p>
+    <p class="card-title">Read Next: Scrum Ceremonies  →</p>
     </a>
   </div>
 </div>

@@ -28,11 +28,13 @@ publisher: Zepel
 ## What is a user story in agile?
 {: .fs-9 }
 
-User Story in Agile is a way of capturing the requirements and description of a software feature from the user's perspective. It describes what a user wants, who the user is, and why they want it.
+**User Story in Agile is a way of capturing the requirements and description of a software feature from the user's perspective.**
 
-User stories are a bit like a double-edged sword.
+It is a small piece of work worth a certain value to the end user that can be built by the development team during the sprint. It describes what a user wants, who the user is, and why they want it. 
 
-When written properly, user stories can give your team a different perspective and help them understand the intricacies of what's needed to ship quality features.
+If you were ever involved in working with Agile frameworks, you already know that both [Scrum](https://zepel.io/solutions/scrum/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) and [Kanban](https://zepel.io/solutions/kanban/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) teams greatly benefit from writing User Stories. However, user stories are a bit like a double-edged sword.
+
+**When written properly, user stories can give your team a different perspective and help them understand the intricacies of what's needed to ship quality features.**
 
 But on the other hand, poorly defined and unclear user stories can turn on you and cause misunderstanding within the team.
 
@@ -125,7 +127,14 @@ Here are five examples of user stories:
 - As a marketing leader, I want my leads to integrate with my CRM tool so that my sales team is always updated with the latest information.
 - As a marketing leader, I want my leads to integrate with my marketing tools so that I can attribute leads to specific campaigns.
 
-In [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once you've created a User Story, you can effortlessly capture more details and view everything about the user story with a unified view.
+At [Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory), once our product manager prioritizes and creates a Feature we need to work on, user stories are added inside it. This tells us that we need to build all complete user stories to build the entire feature. 
+
+Once the user stories are written, it's time to get into the detail level. Details can be added to user stories in two ways: 
+
+- By splitting a user story into multiple, smaller subtasks.
+- By adding rich, detailed descriptions.
+
+This allows us to effortlessly capture more details and view everything about the user story with a unified view. Once the user stories are clearly defined, make sure they are visible for the entire team.
 
 Here's how the above examples of user stories will look like inside Zepel.
 
@@ -189,7 +198,7 @@ This lets your team understand the complexity involved and come up with creative
 
 You probably have plenty of user stories on your backlog by now and wondering how to prioritize one over the other and which ones to filter out.
 
-The first instinct would be to start by discarding items from your backlog, I get it. But you’re better off by starting with breaking down your user stories into actionable chunks of tasks and estimating your user stories first before you can discard them.
+The first instinct would be to start by discarding items from your backlog, I get it. But you’re better off by starting with breaking down your user stories into actionable chunks of tasks and adding [story points]({{ site.baseurl }}{% link agile/scrum-story-points.md %}) to estimate your user stories before you can discard them.
 
 With an [estimate of how long your user story](https://zepel.io/blog/project-estimation/?utm_source=agilelibrary&utm_medium=text&utm_campaign=writeuserstory) is likely to take, you can work with your team to find what minimum set of functionality is needed to help your users solve their problem and achieve their goal.
 
