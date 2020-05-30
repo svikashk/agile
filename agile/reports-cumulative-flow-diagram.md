@@ -21,7 +21,7 @@ The cumulative flow diagram is one of the most common charts used to track progr
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

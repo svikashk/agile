@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -30,25 +30,25 @@ publisher: Zepel
 ## What is a Sprint Review Meeting?
 {: .fs-9 }
 
-The sprint review meeting is an informal gathering between the scrum team and the other stakeholders. The team takes this opportunity to show all the work completed during the sprint which gives the stakeholders a chance to see the feature to inspect and ask questions. 
+The sprint review meeting is the third [scrum ceremony]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}). It is an informal gathering between the scrum team and the other stakeholders. The team takes this opportunity to show all the work completed during the sprint which gives the stakeholders a chance to see the feature to inspect and ask questions. 
 
 Think of sprint review meeting as a casual demo Friday, where you demo your finished feature/product to people and answer questions. However, depending on how your company is set up, this meeting could also be more formal with the product owner explaining what tasks in the sprint where completed (and what weren’t) while the development team showcases them.
 
-The goal of the sprint review meeting is to get feedback on the completed items and have a product [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) that is revised enough to make it a probable backlog for the next sprint.
+**The goal of the sprint review meeting is to get feedback on the completed items and have a product [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}) that is revised enough to make it a probable backlog for the next sprint.**
 
 ---
 
 ## Who should attend a Sprint Review Meeting?
 {: .fs-9 }
 
-The product owner, scrum master, and the development team are the folks who must attend a sprint review meeting. Other key stakeholders such as clients/beta customers, members of the sales team, and other business executives should also attend this meeting to provide feedback.
+**The product owner, scrum master, and the development team are the folks who must attend a sprint review meeting.** Other key stakeholders such as clients/beta customers, members of the sales team, and other business executives should also attend this meeting to provide feedback.
 
 ---
 
 ## How long should a Sprint Review Meeting last?
 {: .fs-9 }
 
-Since this meeting is designed to showcase a finished feature and elicit feedback, this meeting shouldn't last for more than an hour for a one week sprint.
+Since this meeting is designed to showcase a finished feature and elicit feedback, **the sprint review meeting shouldn't last for more than an hour for a one week sprint.**
 
 That means, if your sprint is four weeks long, the sprint review meeting shouldn’t last longer than four hours.
 

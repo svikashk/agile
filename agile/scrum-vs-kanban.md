@@ -26,7 +26,7 @@ But which one should you choose for your team? Let's jump in and find out.
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
