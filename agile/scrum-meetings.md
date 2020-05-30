@@ -148,7 +148,7 @@ In this meeting, the Scrum Team will demonstrate to the stakeholders what they b
 ---
 
 ## Sprint Retrospective
-{: .fs-6 } 
+{: .fs-9 } 
 
 **Sprint Retrospective meeting is held after the Sprint review meeting**. The scrum master and the development team participate in the meeting with the goal of improving themselves for future sprints. 
 
