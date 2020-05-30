@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

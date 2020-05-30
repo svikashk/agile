@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ultimate Guide To Scrum Ceremonies And Types of Scrum Meetings
+title: What Are Scrum Ceremonies in Agile?
 page_title: Scrum Ceremonies
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
@@ -17,7 +17,7 @@ publisher: Zepel
 # The Definitive Guide to Scrum Ceremonies or Scrum Meetings 
 {: .fs-10 .no_toc }
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -29,7 +29,6 @@ publisher: Zepel
 {: .fs-9 }
 
 To answer what Scrum Ceremonies or Meetings are, let us first take a step back.
-
 
 [Scrum]({{ site.url }}{{ site.baseurl }}{% link agile/scrum.md %}) is an [agile software development framework]({{ site.url }}{{ site.baseurl }}{% link agile/agile-software-development.md %}) that lets you build and deliver value to customers iteratively by running [Sprints]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}), where the team timeboxes a collection of work items and completes them.
 
@@ -97,78 +96,63 @@ Let’s jump in and find out.
 ## Sprint Planning
 {: .fs-9 }
 
-A Sprint Planning Meeting is held before the Sprint begins. [All members of the scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) are involved in this meeting to ensure that everyone is on the same page.
+A Sprint Planning Meeting is held before the Sprint begins. **[All members of the scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) are involved in the sprint planning meeting** to ensure that everyone is on the same page. 
 
-The goal of this meeting is to prioritise user stories in the [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}), come up with a goal, and align the team on the goal. This is achieved collaboratively, but it is the product owner's responsibility to come with the highest priorities of the product (at least for the next two sprints), which will then be further prioritised to decide which [user stories]({{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}) will be worked on in the coming sprint. 
+**The goal of the sprint planning meeting is to prioritise user stories in the [backlog]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-backlog.md %}), come up with a goal, and align the team on the goal.** This is achieved collaboratively, but it is the product owner's responsibility to come with the highest priorities of the product (at least for the next two sprints). This will then be further prioritised to decide which [user stories]({{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}) will be worked on in the coming sprint. 
+
+**The sprint planning meeting is timeboxed to eight hours for a one month sprint.**
 
 This allows the rest of the team to ask questions during the Sprint Planning meeting, estimate with better accuracy, chime in with suggestions, and ultimately help the team to come up with sprint goal.
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}">
-        <p class="highlight-card-title">Learn how to run effective sprint planning meetings with best practices →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+**Related helpful resources:**
+{: .fs-6 } 
+
+- [Get the sprint planning template →](https://zepel.io/blog/sprint-planning-template/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrummeetings)
+- [Learn how to run effective sprint planning meetings with best practices →]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %})
 
 ---
 
 ## Daily Scrum Standups
 {: .fs-9 }
 
-The Daily Scrum (or Standups) meeting happens every day for 15 minutes after the Sprint begins. It is held to ensure that everyone knows the progress of the Sprint and is always in-sync to enable the team to course-correct if needed. 
+**The Daily Scrum (or Standups) meeting happens every day for 15 minutes after the Sprint begins.** It is held to ensure that everyone knows the progress of the Sprint and is always in-sync to enable the team to course-correct if needed. 
 
-It is held for all members of the Development Team and is facilitated by the Scrum Master.
+**It is held for all members of the Development Team and is facilitated by the Scrum Master.**
 
 During the Daily Scrum meeting, each member of the development team answers mainly three questions:
 1. What did I do yesterday?
 2. What will I do today?
 3. Are there any impediments to continue working?
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-daily-standup-meeting.md %}">
-        <p class="highlight-card-title">Learn how to run daily scrum meetings with best practices included →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+**Related helpful reading:** 
+{: .fs-6 } 
 
+- [Learn how to run daily scrum meetings with best practices included →]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-daily-standup-meeting.md %})
 
 ---
 
 ## Sprint Review
 {: .fs-9 }
 
-The Sprint Review meeting is held once the Sprint is completed, but before it is pushed to production. This meeting is held by the Development Team, Scrum Master, and the Product Owner with other stakeholders invited to take part. 
+**The Sprint Review meeting is held once the Sprint is completed**, but before it is pushed to production. **This meeting is held by the Development Team, Scrum Master, and the Product Owner with other stakeholders invited to take part.** 
 
-In this meeting, the Scrum Team will demonstrate to the stakeholders what they built and achieved in the sprint. The stakeholders who are invited will then give feedback to the team and help the team measure the final product against the initial sprint goal. This usually takes an hour or two depending on how big your sprint was.
+In this meeting, the Scrum Team will demonstrate to the stakeholders what they built and achieved in the sprint. The stakeholders who are invited will then give feedback to the team and help the team measure the final product against the initial sprint goal. 
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-review-meeting.md %}">
-        <p class="highlight-card-title">Read the ultimate guide to run sprint review meetings →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+**The sprint review meeting is two hours long for a two-week sprint.**
+
+**Related reading:**
+{: .fs-6 } 
+
+- [Read the ultimate guide to run sprint review meetings →]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-review-meeting.md %})
 
 ---
 
 ## Sprint Retrospective
-{: .fs-9 }
+{: .fs-9 } 
 
-Sprint Retrospective meeting is held after the Sprint review meeting. The scrum master and the development team participate in the meeting with the goal of improving themselves for future sprints. For a one month sprint, this meeting lasts for three hours.
+**Sprint Retrospective meeting is held after the Sprint review meeting**. The scrum master and the development team participate in the meeting with the goal of improving themselves for future sprints. 
+
+**For a one month sprint, the sprint retrospective meeting lasts for three hours.**
 
 The scrum team reflects on their recently concluded sprint and tries to answer:
 
@@ -177,17 +161,10 @@ The scrum team reflects on their recently concluded sprint and tries to answer:
 
 The team usually tries to come up with what they'd like to do differently in the next sprint by trying to understand the above two points. Typically, when trying to come up with actionable takeaways, only one or two aspects are changed in order to help the team improve processes gradually. After all, when rapid changes occur it can be more detrimental than being helpful.
 
-<div class="highlight-row">
-<div class="highlight-column">
-<div class="highlight-card">
-    <div class="highlight-container">
-        <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %}">
-        <p class="highlight-card-title">Learn everything you need to know about sprint retrospective meetings →</p>
-        </a>    
-    </div>
-</div>
-</div>
-</div>
+**Related helpful reading:**
+{: .fs-6 } 
+
+- [Everything you need to know about sprint retrospective meetings →]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-retrospective-meeting.md %})
 
 ---
 
@@ -206,7 +183,7 @@ The team usually tries to come up with what they'd like to do differently in the
 <div class="card">
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}">
-    <p class="card-title">Read Next: Sprint Planning Meeting  →</p>
+    <p class="card-title">Read Next: Sprint Planning  →</p>
     </a>
   </div>
 </div>

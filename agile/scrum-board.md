@@ -29,7 +29,7 @@ Before I get into it, let’s take a look at the fundamentals of the scrum board
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
