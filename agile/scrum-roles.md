@@ -21,7 +21,7 @@ When a company decides to use Scrum, one of the first things to understand is ho
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

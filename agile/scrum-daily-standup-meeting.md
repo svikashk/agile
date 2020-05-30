@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -30,11 +30,11 @@ publisher: Zepel
 ## What’s a Daily Scrum Standup Meeting?
 {: .fs-9 }
 
-The Daily Scrum Meeting (or Daily Standup Meeting) takes place once a [Sprint]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) begins. It is the most common type of meeting that most teams already follow. As the name suggests, this meeting is held every day during a sprint. 
+The Daily Scrum Meeting (or Daily Standup Meeting) takes place once a [Sprint]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint.md %}) begins. It is the most popular of all [scrum ceremonies]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}) since most teams already follow it. As the name suggests, this meeting is held every day during a sprint. 
 
 A daily scrum standup is not just a status meeting, but a meeting that also helps the team identify roadblocks and ultimately solve them before it’s too late.
 
-The main goal of this meeting is to share with the rest of the team the progress made towards the sprint goal (that was decided during the sprint planning meeting) and keep everyone on the same page. 
+**The main goal of the daily scrum meeting is to share with the rest of the team the progress made towards the sprint goal (that was decided during the sprint planning meeting) and keep everyone on the same page.**
 
 How does a standup meeting reveal roadblocks? Glad you asked. 
 

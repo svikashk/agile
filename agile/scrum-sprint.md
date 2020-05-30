@@ -29,7 +29,7 @@ And this guide is all about helping you run the perfect sprint as a scrum team, 
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

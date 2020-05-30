@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -30,11 +30,11 @@ publisher: Zepel
 ## What is a Sprint Planning Meeting?
 {: .fs-9 }
 
-A sprint planning meeting happens before a Sprint begins. The entire [scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) come together during this meeting, discuss, and agree on what they’ll deliver in the upcoming sprint.
+A sprint planning meeting is one of the [scrum ceremonies]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}). It happens before a Sprint begins. The entire [scrum team]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-roles.md %}) come together during this meeting, discuss, and agree on what they’ll deliver in the upcoming sprint.
 
 During the sprint planning meeting, the product owner explains the highest priorities, helps the development team understand why the [user stories]({{ site.url }}{{ site.baseurl }}{% link agile/user-stories.md %}) are important, and how they'll impact users.
 
-With this knowledge, the development team asks questions to get a better understanding of the users needs, and try to break down the user story into actionable pieces of work with an [estimate](https://zepel.io/blog/project-estimation/?utm_source=agilelibrary&utm_medium=text&utm_campaign=scrummeetings) on how long it’d take to build it.
+With this knowledge, the development team asks questions to get a better understanding of the users needs, and try to break down the user story into actionable pieces of work with an [estimate](https://zepel.io/blog/project-estimation/?utm_source=agilelibrary&utm_medium=text&utm_campaign=sprintplanning) on how long it’d take to build it.
 
 In short, the main goal of the sprint planning meeting is to walk away with two things:
 
@@ -47,13 +47,18 @@ In short, the main goal of the sprint planning meeting is to walk away with two 
 ## Who should attend a Sprint Planning Meeting?
 {: .fs-9 }
 
-All members of the sprint should attend the sprint planning meeting. That is:
+**All members of the sprint should attend the sprint planning meeting.** That is:
 
 1. The Product Owner 
 2. The Scrum Master
 3. The Development Team
 
 When you’re discussing to agree on what everyone will deliver at the end of the sprint, it’s best to get everyone’s input and perspective before you move forward. After all, you wouldn’t want to miss any edge cases.
+
+**Related helpful resource:** 
+{: .fs-6 } 
+
+- [Here's a 5-step sprint planning template you can use today →](https://zepel.io/blog/sprint-planning-template/?utm_source=agilelibrary&utm_medium=text&utm_campaign=sprintplanning)
 
 ### Here's how each member will contribute to the sprint planning meeting
 {: .fs-7 .no_toc }
@@ -135,7 +140,7 @@ When you drill down to the details of a user story by breaking it down to tasks 
 
 
 > When you haven’t thought about what you’re going to do, you can’t know how long it will take.
-> ~ Joel Spolsky, CEO of Stack Overflow
+> ~ [Joel Spolsky, CEO of Stack Overflow](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
 
 
 ### 5. Get approval and align everyone on the same page

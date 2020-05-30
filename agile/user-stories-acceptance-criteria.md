@@ -17,7 +17,7 @@ publisher: Zepel
 # Acceptance Criteria For User Stories In Agile
 {: .fs-10 .no_toc }
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC

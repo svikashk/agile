@@ -19,7 +19,7 @@ publisher: Zepel
 
 ---
 
-## **TOPICS COVERED IN THIS GUIDE:**
+## TOPICS COVERED IN THIS GUIDE:
 {: .no_toc .text-delta }
 
 1. TOC
@@ -30,9 +30,11 @@ publisher: Zepel
 ## What is a Sprint Retrospective Meeting?
 {: .fs-9 }
 
-The sprint retrospective meeting is for the development team to look back at the sprint, inspect itself, and plan for improvements that can be used for future sprints.
+The sprint retrospective meeting is for the development team to look back at the sprint, inspect itself, and plan for improvements that can be used for future sprints. 
 
-This meeting is held after the sprint review but before the beginning of the next [sprint planning meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %}). By the end of the sprint retrospective meeting, the development team should have identified improvements that can be implemented in the next sprint.
+Of all the [scrum ceremonies]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-meetings.md %}), this is the one that is often confused by most teams. 
+
+**The sprint retrospective meeting is held after the sprint review but before the beginning of the next [sprint planning meeting]({{ site.url }}{{ site.baseurl }}{% link agile/scrum-sprint-planning-meeting.md %})**. By the end of the sprint retrospective meeting, the development team should have identified improvements that can be implemented in the next sprint.
 
 A good way to keep the retrospective meeting structured is to answer these questions:
 1. What went well?
@@ -44,13 +46,12 @@ By answering the above questions, you can:
 1. Identify items that went well and see where there is room for improvement.
 1. Build a plan on how to implement improvements to the way development team works.
 
-
 ---
 
 ## Who should attend the Sprint Retrospective Meeting?
 {: .fs-9 }
 
-The scrum master and the development team collaborate in this meeting and try to find areas that could be improved.
+**The scrum master and the development team collaborate in the sprint retrospective meeting** and try to find areas that could be improved.
 
 The product owner is an optional attendee with no other stakeholders attending this meeting.
 
@@ -59,7 +60,7 @@ The product owner is an optional attendee with no other stakeholders attending t
 ## How long should a Sprint Retrospective Meeting last?
 {: .fs-9 }
 
-The sprint retrospective meeting lasts for a maximum of three hours for a one month sprint. For shorter sprints, this meeting is usually shorter. 
+**The sprint retrospective meeting lasts for a maximum of three hours for a one month sprint.** For shorter sprints, this meeting is usually shorter. 
 
 ---
 
@@ -78,7 +79,7 @@ Look for small, incremental improvements that can be adopted by teams quickly.
 
 When inspecting on areas to improve, it can be easy to start pointing fingers by focusing on the negatives and why they shouldn’t have come up in the first place. 
 
-By focusing on the positive aspects of what went well in the previous sprint and stating that it could be improved, you help set a positive tone for the entire meeting and avoid a possibly productive meeting turn into a rant session.
+[Studies](https://www.inc.com/jessica-stillman/stanford-research-attitude-matters-as-much-as-iq-in-kids-success.html) show positivity directly relates to better performance. By focusing on the positive aspects of what went well in the previous sprint and stating that it could be improved, you help set a positive tone for the entire meeting and avoid a possibly productive meeting turn into a rant session.
 
 ### 3. Acknowledge and encourage each member's contribution
 {: .fs-7 .no_toc }
