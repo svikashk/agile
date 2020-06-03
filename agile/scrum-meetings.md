@@ -1,20 +1,20 @@
 ---
 layout: default
-title: What Are Scrum Ceremonies in Agile?
+title: What are the 4 Scrum Ceremonies in Agile? Simple Guide
 page_title: Scrum Ceremonies
 has_children: false
 parent: What is Scrum? Includes best practices | Agile Library
 parent_page_title: Scrum
 nav_order: 6
-description: Want to learn how to run Scrum Ceremonies? Use this definitive guide to learn about the different types of scrum meetings.
+description: Scrum ceremonies are meetings designed to organize the work of a sprint. Itt allows you to adapt to the changing needs of the software development. Learn more.
 permalink: scrum/scrum-ceremonies/
 author: Vikash Koushik
 date: December 12, 2018
-modified_time: "2020-05-21T10:54:26+00:00"
+modified_time: "2020-06-03T10:54:26+00:00"
 publisher: Zepel
 ---
 
-# The Definitive Guide to Scrum Ceremonies or Scrum Meetings 
+# What is Scrum Ceremonies in Agile? A complete guide.
 {: .fs-10 .no_toc }
 
 ## TOPICS COVERED IN THIS GUIDE:
@@ -25,7 +25,7 @@ publisher: Zepel
 
 ---
 
-## What is Agile Scrum Ceremonies or Meetings?
+## What is Agile Scrum Ceremonies?
 {: .fs-9 }
 
 To answer what Scrum Ceremonies or Meetings are, let us first take a step back.
