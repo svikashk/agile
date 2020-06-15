@@ -65,7 +65,7 @@ After getting management buy in, it is essential to get your teams organised to 
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=whentousekanban" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=whentousekanban" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>
@@ -79,8 +79,8 @@ After getting management buy in, it is essential to get your teams organised to 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
-    <p class="card-title">←  Read Previous: Kanban Cards</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
+    <p class="card-title">←  Read Previous: Kanban Boards</p> 
     </a>
   </div>
 </div>

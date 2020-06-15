@@ -158,7 +158,7 @@ Blockers are a part of every process. The aim is to monitor them and ensure that
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=implementingkanban" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=implementingkanban" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>

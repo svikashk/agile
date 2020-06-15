@@ -358,7 +358,7 @@ Here’s how this should translate into features in your sprint tool:
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=mid-cta&utm_campaign=scrumsprint" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=mid-cta&utm_campaign=scrumsprint" target="_blank">
         <p class="highlight-card-title">Go beyond just assigning. Collaborate across disciples seamlessly with Zepel  →</p>
         </a>    
     </div>
