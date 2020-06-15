@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is a Kanban Card? | Agile Library
+title: What is a Kanban Card? The complete guide | Agile Library
 page_title: What is a Kanban Card
 breadcrumb_title: What is a Kanban Card
 has_children: false
@@ -140,7 +140,7 @@ Digital Kanban Cards are convenient to use and offer teams the following advanta
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbancards" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbancards" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>
@@ -154,8 +154,8 @@ Digital Kanban Cards are convenient to use and offer teams the following advanta
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
-    <p class="card-title">←  Read Previous: Kanban Boards</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
+    <p class="card-title">←  Read Previous: Agile Kanban</p> 
     </a>
   </div>
 </div>
@@ -164,8 +164,8 @@ Digital Kanban Cards are convenient to use and offer teams the following advanta
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-when-to-use.md %}">
-    <p class="card-title">Read Next: When to use Kanban?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
+    <p class="card-title">Read Next: Kanban Boards?  →</p>
     </a>
   </div>
 </div>

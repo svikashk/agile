@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What are Kanban Boards? | Agile Library
+title: What are Kanban Boards? The complete guide | Agile Library
 page_title: What are Kanban Boards
 breadcrumb_title: What are Kanban Boards
 has_children: false
@@ -69,7 +69,7 @@ In the next chapter we discuss what a Kanban card is and the different parts of 
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=whatarekanban" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=whatarekanban" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>
@@ -83,8 +83,8 @@ In the next chapter we discuss what a Kanban card is and the different parts of 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban.md %}">
-    <p class="card-title">←  Read Previous: Agile Kanban</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
+    <p class="card-title">←  Read Previous: Kanban Cards</p> 
     </a>
   </div>
 </div>
@@ -93,8 +93,8 @@ In the next chapter we discuss what a Kanban card is and the different parts of 
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
-    <p class="card-title">Read Next: What is a Kanban Card?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-when-to-use.md %}">
+    <p class="card-title">Read Next: When to use Kanban?  →</p>
     </a>
   </div>
 </div>
