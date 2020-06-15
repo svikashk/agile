@@ -58,7 +58,7 @@ Any Kanban based process revolves around some core concepts and practices.
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanban" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanban" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>
@@ -82,8 +82,8 @@ Any Kanban based process revolves around some core concepts and practices.
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-boards.md %}">
-    <p class="card-title">Read Next: What is Kanban Boards?  →</p>
+    <a href="{{ site.url }}{{ site.baseurl }}{% link agile/kanban-what-are-kanban-cards.md %}">
+    <p class="card-title">Read Next: What is Kanban Cards?  →</p>
     </a>
   </div>
 </div>

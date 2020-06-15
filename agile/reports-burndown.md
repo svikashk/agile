@@ -249,17 +249,6 @@ Burndown charts are a great way to visualize a sprint’s progress. Like all too
 
 ---
 
-## Create the most effective burndown chart with the least effort
-{: .fs-9 }
-
-Burndown charts work if you update them consistently. However, you must know how much progress you've made in your Sprint, and compile that information and plot it for each day.
-
-The simplest and easiest way to do this is by using an [agile project management software](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=burndown) that generates a burndown chart for you and updates it in real-time. 
-
-[Zepel](https://zepel.io/?utm_source=agilelibrary&utm_medium=text&utm_campaign=burndown), a project management tool for software product teams, can do this for you. That way, you can focus more of your time building software and less of it on updating charts. Step right in. The water is warm. And it's for free!
-
----
-
 <div class="cta">
     <h2 class="cta-heading">Track progress with Agile reports</h2>
     <p class="cta-para">Use burnup, burndown, and cumulative reports to track your software development and ship better software every time.</p>

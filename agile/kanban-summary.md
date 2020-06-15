@@ -43,7 +43,7 @@ Kanban can be implemented on whiteboards with stick-it notes or with online proj
 <div class="highlight-column">
 <div class="highlight-card">
     <div class="highlight-container">
-        <a href="https://zepel.io/features/boards/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbansummary" target="_blank">
+        <a href="https://zepel.io/features/kanban-board/?utm_source=agilelibrary&utm_medium=bottom-cta&utm_campaign=kanbansummary" target="_blank">
         <p class="highlight-card-title">See how you can work together effortlessly with Boards in Zepel  →</p>
         </a>    
     </div>
